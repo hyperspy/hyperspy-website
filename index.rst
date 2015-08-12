@@ -39,13 +39,3 @@ News
    news/release_0.8.1
    news/doi
 
-Citing HyperSpy
-===============
-
-All of the authors of HyperSpy are connected with academic and scientific
-research, so it is important to us to be able to show the impact of our work in
-other projects and fields.
-
-If HyperSpy contributes to a project that leads to a scientific publication,
-please acknowledge this fact by citing the project. Please, read on `how to
-cite HyperSpy here <http://hyperspy.org/hyperspy-doc/current/citing.html>`_

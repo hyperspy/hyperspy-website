@@ -36,6 +36,7 @@ News
    :title: HyperSpy News
    :link: http://hyperspy.org/
 
+   news/release_0.8.2
    news/release_0.8.1
    news/doi
 

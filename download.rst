@@ -6,7 +6,7 @@ Download
 
 .. _stable-releases:
 
-Stabel release
+Stable release
 ==============
 
 This page contains links to HyperSpy installers for different operating systems.

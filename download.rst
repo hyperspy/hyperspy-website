@@ -57,12 +57,12 @@ recommend for users who are familiar with Python. You can
 download the Python installers from `pypi
 <https://pypi.python.org/pypi/hyperspy>`_.
 
-Linux and Mac OS
-----------------
+Mac OS
+------
 
 Follow `this link 
 <http://hyperspy.org/hyperspy-doc/current/user_guide/install.html#quick-instructions-to-install-hyperspy-in-macos>`_
-for quick instructions on how to install HyperSpy in MacOS and Linux.
+for quick instructions on how to install HyperSpy in MacOS.
 
 
 Related software

@@ -57,20 +57,12 @@ recommend for users who are familiar with Python. You can
 download the Python installers from `pypi
 <https://pypi.python.org/pypi/hyperspy>`_.
 
-Debian/Ubuntu
--------------
-
-A Debian package (of 0.7.3, not the current version) `can be downloaded here 
-<http://sourceforge.net/projects/hyperspy/files/python-hyperspy_0.7.3-1_all.deb/download>`_. 
-It has been tested in Debian Wheezy and Jessie and should work in most Debian based distributions (e.g. Ubuntu, Mint, etc.).
-
-
-Mac OS
-------
+Linux and Mac OS
+----------------
 
 Follow `this link 
 <http://hyperspy.org/hyperspy-doc/current/user_guide/install.html#quick-instructions-to-install-hyperspy-in-macos>`_
-for quick instructions on how to install HyperSpy in MacOS.
+for quick instructions on how to install HyperSpy in MacOS and Linux.
 
 
 Related software

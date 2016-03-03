@@ -26,7 +26,7 @@ Highlights
 * Modular design for easy extensibility.
 
 The development has been motivated by the data analysis needs of the
-electron microscopy community but it is proving useful in many other fields. 
+electron microscopy community but it is proving useful in many other fields.
 
 News
 ====
@@ -36,7 +36,6 @@ News
    :title: HyperSpy News
    :link: http://hyperspy.org/
 
+   news/release_0.8.4
    news/release_0.8.2
    news/release_0.8.1
-   news/doi
-

@@ -22,14 +22,15 @@ Windows
 1. Windows bundle installers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-These installers includ e HyperSpy, all the
-required libraries and Mayavi. This is the *recommended installation method* in Windows.
+These installers install `WinPython <https://winpython.github.io/>`_ 3.4.4.1
+modified to include HyperSpy and its dependencies. This is the *recommended
+installation method* in Windows for users not familiar with Python.
 
-`HyperSpy-0.8.1 for Windows 32-bits
-<https://github.com/hyperspy/hyperspy/releases/download/v0.8.1/HyperSpy-0.8.1-Bundle-Windows-32bit.exe>`_
+`HyperSpy-0.8.4 for Windows 32-bits
+<https://github.com/hyperspy/hyperspy/releases/download/v0.8.4/HyperSpy-0.8.4-Bundle-Windows-32bit.exe>`_
 
-`HyperSpy-0.8.1 for Windows 64-bits
-<https://github.com/hyperspy/hyperspy/releases/download/v0.8.1/HyperSpy-0.8.1-Bundle-Windows-64bit.exe>`_
+`HyperSpy-0.8.4 for Windows 64-bits
+<https://github.com/hyperspy/hyperspy/releases/download/v0.8.4/HyperSpy-0.8.4-Bundle-Windows-64bit.exe>`_
 
 
 
@@ -41,13 +42,8 @@ required libraries and Mayavi. This is the *recommended installation method* in 
    <http://www.microsoft.com/download/en/details.aspx?id=29>`_).
 
 
-.. NOTE::
-
-        The bundle installers are customized `Winpython
-        <https://winpython.github.io/>`_ 2.7.10.2 distributions.
-
 .. _python_installers:
- 
+
 2. Windows HyperSpy Python installers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -57,12 +53,13 @@ recommend for users who are familiar with Python. You can
 download the Python installers from `pypi
 <https://pypi.python.org/pypi/hyperspy>`_.
 
-Mac OS
-------
+Mac OS, Linux and Windows
+-------------------------
 
-Follow `this link 
-<http://hyperspy.org/hyperspy-doc/current/user_guide/install.html#quick-instructions-to-install-hyperspy-in-macos>`_
-for quick instructions on how to install HyperSpy in MacOS.
+Follow `this link
+<http://hyperspy.org/hyperspy-doc/current/user_guide/install.html#quick-instructions-to-install-hyperspy-using-anaconda-linux-macos-windows>`_
+for quick instructions on how to install HyperSpy in MacOS, Linux or Windows
+using Anaconda.
 
 
 Related software
@@ -79,7 +76,7 @@ This Digital Micrograph plugin is designed to import Ripple files into Digital M
 
 When executed it will ask for 2 files:
 
-#. The riple file with the data  format and calibrations 
+#. The riple file with the data  format and calibrations
 #. The data itself in raw format.
 
 If a file with the same name and path as the riple file exits
@@ -89,5 +86,3 @@ ImportRPL was written by Luiz Fernando Zagonel.
 
 
 `Download ImportRPL <https://github.com/downloads/hyperspy/ImportRPL/ImportRPL.s>`_
-
-

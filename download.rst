@@ -9,6 +9,11 @@ Download
 Stable release
 ==============
 
+.. warning::
+
+    **Since version 0.8.4 HyperSpy only supports Python 3. If you need to install
+    HyperSpy in Python 2.7 install HyperSpy 0.8.3.**
+
 This page contains links to HyperSpy installers for different operating systems.
 These installers should meet the needs of most users.  Advanced installation options are
 documented in the `User Guide

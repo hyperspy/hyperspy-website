@@ -36,25 +36,6 @@ News
    :title: HyperSpy News
    :link: http://hyperspy.org/
 
-<<<<<<< HEAD
    news/SCANDEM2016
-   news/doi
-   news/release_0.8
-   news/cambridge2015
-
-Citing HyperSpy
-===============
-
-All of the authors of HyperSpy are connected with academic and scientific
-research, so it is important to us to be able to show the impact of our work in
-other projects and fields.
-
-If HyperSpy contributes to a project that leads to a scientific publication,
-please acknowledge this fact by citing the project. Please, read on `how to
-cite HyperSpy here <http://hyperspy.org/hyperspy-doc/current/citing.html>`_
-
-=======
    news/release_0.8.4
    news/release_0.8.2
-   news/release_0.8.1
->>>>>>> upstream/master

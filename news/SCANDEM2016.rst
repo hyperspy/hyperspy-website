@@ -5,7 +5,7 @@ HyperSpy workshop at SCANDEM2016
    :date: 2016-03-18
    
 We are happy to announce a HyperSpy workshop at the SCANDEM2016 conference. The workshop will take place on the 7th of June 2016 in Trondheim, 
-Norway. Only 20 places available. Registration to the conference is required.
+Norway. There area only 20 places available. Registration to the conference is required to register to the workshop.
 
 
 .. cut::

@@ -52,6 +52,7 @@ News
    :title: HyperSpy News
    :link: http://hyperspy.org/
 
+   news/SCANDEM2016
    news/doi
    news/release_0.8
    news/cambridge2015

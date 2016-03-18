@@ -48,8 +48,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'HyperSpy'
-copyright = u'The HyperSpy development team'
+project = 'HyperSpy'
+copyright = 'The HyperSpy development team'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -125,7 +125,7 @@ html_theme_path = ['themes']
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".ke
-html_title = u"HyperSpy"
+html_title = "HyperSpy"
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 html_short_title = "HyperSpy"

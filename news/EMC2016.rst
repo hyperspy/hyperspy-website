@@ -1,0 +1,23 @@
+HyperSpy workshop at SCANDEM2016
+================================
+
+.. feed-entry::
+   :date: 2016-03-18
+   
+We are happy to announce a HyperSpy workshop at the `16th European Microscopy Congress (EMC 2016) <http://emc2016.fr>`_. The workshop will take place on the 27th of August 2016 in Lyon, France.
+
+
+.. cut::
+
+More information and registration `at the conference website
+<http://emc2016.fr/en/pre-congress>`_. 
+
+Download  the program from `this link <http://cook.msm.cam.ac.uk/~hyperspy/EMC2016_HyperSpy_workshop_program.pdf>`_.
+
+.. image:: http://emc2016.mycongressonline.net/custom_css/emc2016/banner.jpg 
+    :alt: SCANDEM2016 logo
+    :width: 400
+    :target: https://www.ntnu.edu/physics/scandem2016
+
+   
+

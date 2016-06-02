@@ -36,7 +36,7 @@ News
    :title: HyperSpy News
    :link: http://hyperspy.org/
 
+   news/release_0.8.5
    news/EMC2016
    news/SCANDEM2016
    news/release_0.8.4
-   news/release_0.8.2

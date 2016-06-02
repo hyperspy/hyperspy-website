@@ -27,15 +27,15 @@ Windows
 1. Windows bundle installers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-These installers install `WinPython <https://winpython.github.io/>`_ 3.4.4.1
+These installers install `WinPython <https://winpython.github.io/>`_ 3.5.1.2
 modified to include HyperSpy and its dependencies. This is the *recommended
 installation method* in Windows for users not familiar with Python.
 
-`HyperSpy-0.8.4 for Windows 32-bits
-<https://github.com/hyperspy/hyperspy/releases/download/v0.8.4/HyperSpy-0.8.4-Bundle-Windows-32bit.exe>`_
+`HyperSpy-0.8.5 for Windows 32-bits
+<https://github.com/hyperspy/hyperspy/releases/download/v0.8.5/HyperSpy-0.8.5-Bundle-Windows-32bit.exe>`_
 
-`HyperSpy-0.8.4 for Windows 64-bits
-<https://github.com/hyperspy/hyperspy/releases/download/v0.8.4/HyperSpy-0.8.4-Bundle-Windows-64bit.exe>`_
+`HyperSpy-0.8.5 for Windows 64-bits
+<https://github.com/hyperspy/hyperspy/releases/download/v0.8.5/HyperSpy-0.8.5-Bundle-Windows-64bit.exe>`_
 
 
 

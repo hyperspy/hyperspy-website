@@ -6,6 +6,12 @@ News
    :title: HyperSpy News
    :link: http://hyperspy.org/
 
+   news/new_demos_scandem
+   news/release_0.8.5
+   news/EMC2016
+   news/SCANDEM2016
+   news/release_0.8.4
+   news/release_0.8.2
    news/release_0.8.1
    news/doi
    news/cambridge2015

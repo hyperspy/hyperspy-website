@@ -3,14 +3,14 @@
 Documentation
 =============
 
-Hyperpsy documentation
+HyperSpy documentation
 ----------------------
 
 .. release
 
 
-* `Current beta version <http://hyperspy.org/hyperspy-doc/current/index.html>`_
-* `Development version <http://hyperspy.org/hyperspy-doc/dev/index.html>`_ 
+* `Current version <http://hyperspy.org/hyperspy-doc/current/index.html>`_
+* `v0.8 <http://hyperspy.org/hyperspy-doc/v0.8/index.html>`_ 
 
 
 

@@ -41,10 +41,7 @@ installation method* in Windows for users not familiar with Python.
 
 .. NOTE::
 
-   If HyperSpy fails to start install the Microsoft Visual C++ 2008
-   redistributable packages (`64 bit
-   <http://www.microsoft.com/download/en/details.aspx?id=15336>`_ or `32 bit
-   <http://www.microsoft.com/download/en/details.aspx?id=29>`_).
+   If HyperSpy fails to start install the Visual C++ 2015 (`x64 and x86 <https://www.visualstudio.com/downloads/download-visual-studio-vs#d-visual-c>`_ for CPython 3.5) redistributable packages.
 
 
 .. _python_installers:

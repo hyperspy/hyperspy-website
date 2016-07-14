@@ -31,11 +31,11 @@ These installers install `WinPython <https://winpython.github.io/>`_ 3.5.1.2
 modified to include HyperSpy and its dependencies. This is the *recommended
 installation method* in Windows for users not familiar with Python.
 
-`HyperSpy-0.8.5 for Windows 32-bits
-<https://github.com/hyperspy/hyperspy/releases/download/v0.8.5/HyperSpy-0.8.5-Bundle-Windows-32bit.exe>`_
+`HyperSpy-1.0 for Windows 32-bits
+<https://github.com/hyperspy/hyperspy/releases/download/v1.0/HyperSpy-1.0-Bundle-Windows-32bit.exe>`_
 
-`HyperSpy-0.8.5 for Windows 64-bits
-<https://github.com/hyperspy/hyperspy/releases/download/v0.8.5/HyperSpy-0.8.5-Bundle-Windows-64bit.exe>`_
+`HyperSpy-1.0 for Windows 64-bits
+<https://github.com/hyperspy/hyperspy/releases/download/v1.0/HyperSpy-1.0-Bundle-Windows-64bit.exe>`_
 
 
 

@@ -6,6 +6,7 @@ News
    :title: HyperSpy News
    :link: http://hyperspy.org/
 
+   news/release_1.0.1
    news/scipy2016_talk
    news/release_1.0
    news/new_demos_scandem

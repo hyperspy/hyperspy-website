@@ -6,63 +6,35 @@ Download
 
 .. _stable-releases:
 
-Stable release
-==============
-
-.. warning::
-
-    **Since version 0.8.4 HyperSpy only supports Python 3. If you need to install
-    HyperSpy in Python 2.7 install HyperSpy 0.8.3.**
-
-This page contains links to HyperSpy installers for different operating systems.
-These installers should meet the needs of most users.  Advanced installation options are
-documented in the `User Guide
-<http://hyperspy.org/hyperspy-doc/current/user_guide/install.html>`_.
+HyperSpy
+========
 
 
-Windows
--------
+There are multiple ways to install HyperSpy, please refer to the 
+`installation chapter of the User Guide <http://hyperspy.org/hyperspy-doc/current/user_guide/install.html>`_ for details.
+
+If you are on Microsoft Windows and you are new to Python the easiest way to get started is installing the Windows bundle below. For other platforms and experience users we recommend installing with `Anaconda <http://hyperspy.org/hyperspy-doc/current/user_guide/install.html#quick-instructions-to-install-hyperspy-using-anaconda-linux-macos-windows>`_. 
 
 
-1. Windows bundle installers
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Windows bundle installers
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 These installers install `WinPython <https://winpython.github.io/>`_ 3.5.1.2
 modified to include HyperSpy and its dependencies. This is the *recommended
 installation method* in Windows for users not familiar with Python.
 
-`HyperSpy-1.1 for Windows 32-bits
-<https://github.com/hyperspy/hyperspy/releases/download/v1.1.0/HyperSpy-v1.1-Bundle-Windows-32bit.exe>`_
+`HyperSpy-1.1.2 for Windows 32-bits
+<https://github.com/hyperspy/hyperspy/releases/download/v1.1.2/HyperSpy-v1.1.2-Bundle-Windows-32bit.exe>`_
 
-`HyperSpy-1.1 for Windows 64-bits
-<https://github.com/hyperspy/hyperspy/releases/download/v1.1.0/HyperSpy-v1.1-Bundle-Windows-64bit.exe>`_
-
+`HyperSpy-1.1.2 for Windows 64-bits
+<https://github.com/hyperspy/hyperspy/releases/download/v1.1.2/HyperSpy-v1.1.2-Bundle-Windows-64bit.exe>`_
 
 
 .. NOTE::
 
    If HyperSpy fails to start install the Visual C++ 2015 (`x64 and x86 <https://www.visualstudio.com/downloads/download-visual-studio-vs#d-visual-c>`_ for CPython 3.5) redistributable packages.
 
-
-.. _python_installers:
-
-2. Windows HyperSpy Python installers
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-The  Python installers install only HyperSpy i.e. Python and all the required
-libraires must be installed separately. This installation method is only
-recommend for users who are familiar with Python. You can
-download the Python installers from `pypi
-<https://pypi.python.org/pypi/hyperspy>`_.
-
-Mac OS, Linux and Windows
--------------------------
-
-Follow `this link
-<http://hyperspy.org/hyperspy-doc/current/user_guide/install.html#quick-instructions-to-install-hyperspy-using-anaconda-linux-macos-windows>`_
-for quick instructions on how to install HyperSpy in MacOS, Linux or Windows
-using Anaconda.
-
+Older releases are available in `GitHub <https://github.com/hyperspy/hyperspy/releases>`_.
 
 Related software
 ================

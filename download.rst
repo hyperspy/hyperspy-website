@@ -13,7 +13,7 @@ HyperSpy
 There are multiple ways to install HyperSpy, please refer to the 
 `installation chapter of the User Guide <http://hyperspy.org/hyperspy-doc/current/user_guide/install.html>`_ for details.
 
-If you are on Microsoft Windows and you are new to Python the easiest way to get started is installing the Windows bundle below. For other platforms and experience users we recommend installing with `Anaconda <http://hyperspy.org/hyperspy-doc/current/user_guide/install.html#quick-instructions-to-install-hyperspy-using-anaconda-linux-macos-windows>`_. 
+If you are on Microsoft Windows and you are new to Python the easiest way to get started is installing the Windows bundle below. For other platforms and experienced users we recommend installing with `Anaconda <http://hyperspy.org/hyperspy-doc/current/user_guide/install.html#quick-instructions-to-install-hyperspy-using-anaconda-linux-macos-windows>`_. 
 
 
 Windows bundle installers

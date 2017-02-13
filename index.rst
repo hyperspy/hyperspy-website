@@ -37,3 +37,7 @@ Here is some of what our users say about Hyperspy:
    Hyperspy made it easy to process EELS and EDS data for presentation in my thesis!
 
    -- Tom Aarholt, University of Oxford
+   
+   My answer to any (S)TEM data analyses problem - use HyperSpy
+   
+   -- Vadim Migunov, Ernst Ruska-Centre (ER-C), Research Centre Juelich

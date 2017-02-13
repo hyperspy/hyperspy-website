@@ -28,17 +28,12 @@ Highlights
 The development has been motivated by the data analysis needs of the
 electron microscopy community but it is proving useful in many other fields.
 
-News
+Endorsements
 ====
+Here is some of what our users say about Hyperspy:
 
-.. feed::
-   :rss: news.rss
-   :title: HyperSpy News
-   :link: http://hyperspy.org/
+.. epigraph::
 
-   news/release_1.1.2
-   news/release_1.1
-   news/release_1.0.1
-   news/scipy2016_talk
-   news/release_1.0
-   news/new_demos_scandem
+   Hyperspy made it easy to process EELS and EDS data for presentation in my thesis!
+
+   -- Tom Aarholt, University of Oxford

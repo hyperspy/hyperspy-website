@@ -29,8 +29,11 @@ The development has been motivated by the data analysis needs of the
 electron microscopy community but it is proving useful in many other fields.
 
 Endorsements
-====
+============
+
 Here is some of what our users say about Hyperspy:
+
+(`Click here to add your thank you note <https://saythanks.io/to/hyperspy>`_)
 
 .. epigraph::
 

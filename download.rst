@@ -17,7 +17,7 @@ If you are on Microsoft Windows and you are new to Python the easiest way to get
 
 
 Windows bundle installers
-~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------
 
 These installers install `WinPython <https://winpython.github.io/>`_ 3.5.1.2
 modified to include HyperSpy and its dependencies. This is the *recommended
@@ -38,6 +38,7 @@ Older releases are available in `GitHub <https://github.com/hyperspy/hyperspy/re
 
 Related software
 ================
+
 
 .. _import-rpl:
 

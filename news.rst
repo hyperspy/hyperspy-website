@@ -6,6 +6,7 @@ News
    :title: HyperSpy News
    :link: http://hyperspy.org/
 
+   news/release_1.3
    news/release_1.2
    news/release_1.1.2
    news/release_1.1

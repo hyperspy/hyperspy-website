@@ -1,4 +1,4 @@
-HyperSpy 1.2  has been released!
+HyperSpy 1.3  has been released!
 ================================
 
 .. feed-entry::

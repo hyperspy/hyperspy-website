@@ -48,7 +48,9 @@ ImportRPL Digital Micrograph plugin
 
 Lastest version release date: 24/05/2012. Minor bugs were solved and new features added.
 
-This Digital Micrograph plugin is designed to import Ripple files into Digital Micrograph. It is used to easy data transit between DigitalMicrograph and HyperSpy without losing the calibration using the extra keywords that HyperSpy adds to the standard format.
+This Digital Micrograph plugin is designed to import Ripple files into Digital Micrograph. 
+It is used to ease data transit between DigitalMicrograph and HyperSpy without losing 
+the calibration using the extra keywords that HyperSpy adds to the standard format.
 
 When executed it will ask for 2 files:
 

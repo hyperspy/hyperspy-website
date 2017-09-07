@@ -62,3 +62,25 @@ ImportRPL was written by Luiz Fernando Zagonel.
 
 
 `Download ImportRPL <https://github.com/downloads/hyperspy/ImportRPL/ImportRPL.s>`_
+
+.. _hyperspy-matlab:
+
+readHyperSpyH5 MATLAB Plugin
+---------------------------
+
+Initial release date: 18/04/2017. 
+
+This MATLAB script is designed to import HyperSpy's saved .hdf5 files. 
+Like the Digital Micrograph script above, it is used to easily transfer data
+between MATLAB and HyperSpy without losing the axial calibration information.
+The underlying data is returned as the primary output, and axis metadata 
+(such as names, units, scales, etc.) are returned as supplemental output.
+
+The script has been tested on 2D and 3D hyperspectral data (spectrum images),
+but should work for arbitrarily sized data. Please raise an issue on 
+`Github <https://github.com/hyperspy/hyperspy/issues>`_ or in the 
+`Gitter chat <https://gitter.im/hyperspy/hyperspy>`_ with any issues.
+
+readHyperSpyH5 was written by `Joshua Taillon <https://www.nist.gov/people/joshua-taillon>`_.
+
+`Download readHyperSpyH5 <https://github.com/downloads/hyperspy/readHyperSpyH5/readHyperSpyH5.m>`_

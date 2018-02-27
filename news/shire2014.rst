@@ -9,6 +9,7 @@ April 2014 in Sheffield, UK.
 
 
 .. cut::
+
 Two HyperSpy developers, Pierre Burdet and Francisco de la Peña, will give
 HyperSpy-related talks in `SHIRE 2014
 <ihttp://www.sheffield.ac.uk/kroto/news/event_hyperspectral_imaging>`_.  They

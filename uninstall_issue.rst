@@ -1,3 +1,5 @@
+:orphan:
+
 .. _uninstallation_issue:
 
 Uninstalling HyperSpy 0.6 in Windows

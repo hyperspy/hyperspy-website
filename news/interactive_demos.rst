@@ -2,20 +2,33 @@ New interactive demos
 =====================
 
 .. feed-entry::
-   :date: 2018-02-27
+   :date: 2018-02-28
    
-The demos section of the HyperSpy website has been replaced by a new
-`interactive demos <https://mybinder.org/v2/gh/hyperspy/hyperspy-demos/master>`_
-page, making use of `mybinder.org <https://mybinder.org>`_.
+Interactive demos have been added to HyperSpy!
 
 .. cut::
 
-The demos are Jupyter notebooks and have been updated to be compatable with
-the latest version of HyperSpy. It is not necessary to download or install
-anything to give them a try, as all the code will be run remotely on
-the `mybinder.org <https://mybinder.org>`_ servers.
+The demos (available in the |hyperspy-demos| repository) are Jupyter notebooks and have
+been updated to be compatible with the latest version of HyperSpy.
+It is not necessary to download or install anything to give them a try, as all the code
+can be run remotely on the `mybinder.org <https://mybinder.org>`_ servers.
+See the |readme| of |hyperspy-demos| for more instructions and details on how to get started.
 
-Everybody is encouraged to contribute to the demos by making a
-`pull request <https://help.github.com/articles/using-pull-requests>`_
-to the `hyperspy-demos github repository <https://github.com/hyperspy/hyperspy-demos>`_
-or by email to the `hyperspy users mailing list <http://groups.google.com/group/hyperspy-users>`_.
+.. |hyperspy-demos| raw:: html
+
+    <a href="https://github.com/hyperspy/hyperspy-demos" target="_blank">hyperspy-demos</a>
+
+.. |readme| raw:: html
+
+    <a href="https://github.com/hyperspy/hyperspy-demos/blob/master/README.md" target="_blank">README</a>
+
+Everybody is encouraged to contribute to the demos by making a |pullrequest| to the |hyperspy-demos|
+Github repository, or by email to the |mailinglist|.
+
+.. |pullrequest| raw:: html
+
+    <a href="https://help.github.com/articles/about-pull-requests/" target="_blank">pull request</a>
+
+.. |mailinglist| raw:: html
+
+    <a href="https://groups.google.com/forum/#!forum/hyperspy-users" target="_blank">hyperspy users mailing list</a>

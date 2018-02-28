@@ -9,31 +9,40 @@ User Guide
 
 .. release
 
-* `Current version <http://hyperspy.org/hyperspy-doc/current/index.html>`_: |docbadge|
-* `v1.0 <http://hyperspy.org/hyperspy-doc/v1.0/index.html>`_ 
-* `v0.8 <http://hyperspy.org/hyperspy-doc/v0.8/index.html>`_ 
+* Current stable release:
+    + |currentUG|
+* Older versions:
+    + |v10UG|
+    + |v08UG|
 
-.. |docbadge| image:: https://readthedocs.org/projects/hyperspy/badge/?version=stable
-    :target: http://hyperspy.readthedocs.io/en/stable
-    :alt: Documentation Status
+.. |currentUG| raw:: html
+
+   <a href="http://hyperspy.org/hyperspy-doc/current/index.html" target="_blank">HyperSpy User Guide</a>
+
+.. |v10UG| raw:: html
+
+   <a href="http://hyperspy.org/hyperspy-doc/v1.0/index.html" target="_blank">v1.0</a>
+
+.. |v08UG| raw:: html
+
+   <a href="http://hyperspy.org/hyperspy-doc/v0.8/index.html" target="_blank">v0.8</a>
 
 Demos
 -----
 
-|gitterbadge|
+The |hyperspy-demos| git repository
+contains a number of helpful demonstrations on how to use HyperSpy.
+In order to get a feel for how HyperSpy works, the demos can be run locally on your machine
+or remotely without any installation necessary. For more information, follow the
+instructions in the repository's |readme|.
 
-Follow `this link <https://mybinder.org/v2/gh/hyperspy/hyperspy-demos/master>`_ (or click the button above)
-to launch a remote instance of HyperSpy. After a short wait, you will be presented with a folder of
-demonstration notebooks with the extension ``.ipynb``. Click on one of these files to launch that notebook
-on the `mybinder.org <https://mybinder.org>`_ servers, which will allow you to try HyperSpy's features
-without installing anything on your system.
+.. |hyperspy-demos| raw:: html
 
-.. |gitterbadge| image:: https://mybinder.org/badge.svg
-    :target: https://mybinder.org/v2/gh/hyperspy/hyperspy-demos/master
+    <a href="https://github.com/hyperspy/hyperspy-demos" target="_blank">hyperspy-demos</a>
 
-Alternatively, if you already have HyperSpy installed, you can download (or clone) the
-`hyperspy-demos <https://github.com/hyperspy/hyperspy-demos>`_ git repository to run the demo notebooks
-locally.
+.. |readme| raw:: html
+
+    <a href="https://github.com/hyperspy/hyperspy-demos/blob/master/README.md" target="_blank">README</a>
 
 Talks
 -----

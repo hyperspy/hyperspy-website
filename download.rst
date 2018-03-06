@@ -1,4 +1,4 @@
-
+:orphan:
 
 ********
 Download
@@ -11,9 +11,13 @@ HyperSpy
 
 
 There are multiple ways to install HyperSpy, please refer to the 
-`installation chapter of the User Guide <http://hyperspy.org/hyperspy-doc/current/user_guide/install.html>`_ for details.
+`installation chapter of the User Guide <http://hyperspy.org/hyperspy-doc/current/user_guide/install.html>`_
+for details.
 
-If you are on Microsoft Windows and you are new to Python the easiest way to get started is installing the Windows bundle below. For other platforms and experienced users we recommend installing with `Anaconda <http://hyperspy.org/hyperspy-doc/current/user_guide/install.html#quick-instructions-to-install-hyperspy-using-anaconda-linux-macos-windows>`_. 
+If you are on Microsoft Windows and you are new to Python the easiest
+way to get started is installing the Windows bundle below. For other platforms and
+experienced users we recommend installing with
+`Anaconda <http://hyperspy.org/hyperspy-doc/current/user_guide/install.html#quick-instructions-to-install-hyperspy-using-anaconda-linux-macos-windows>`_.
 
 
 Windows bundle installers
@@ -33,7 +37,9 @@ includes `HyperSpyUI <http://hyperspy.org/hyperspyUI/>`_.
 
 .. NOTE::
 
-   If HyperSpy fails to start install the Visual C++ 2015 (`x64 and x86 <https://www.visualstudio.com/downloads/download-visual-studio-vs#d-visual-c>`_ for CPython 3.5) redistributable packages.
+   If HyperSpy fails to start install the Visual C++ 2015
+   (`x64 and x86 <https://www.visualstudio.com/downloads/download-visual-studio-vs#d-visual-c>`_
+   for CPython 3.5) redistributable packages.
 
 Older releases are available in `GitHub <https://github.com/hyperspy/hyperspy/releases>`_.
 
@@ -68,7 +74,7 @@ ImportRPL was written by Luiz Fernando Zagonel.
 .. _hyperspy-matlab:
 
 readHyperSpyH5 MATLAB Plugin
----------------------------
+----------------------------
 
 This MATLAB script is designed to import HyperSpy's saved HDF5 files (``.hspy`` extension). 
 Like the Digital Micrograph script above, it is used to easily transfer data

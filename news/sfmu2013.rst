@@ -8,6 +8,7 @@ A tutorial on analysis of multidimensional spectra using HyperSpy is
 available as part of the official program of SFMu 2013.
 
 .. cut::
+
 See :ref:`trainings` for more details.
 
 

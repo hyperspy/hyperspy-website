@@ -1,12 +1,13 @@
+:orphan:
+
 =======
 Support
 =======
 
-If you could not find the answer to your question in the `the docs
-<http://hyperspy.org/hyperspy-doc/dev>`_ you are welcome to send it to the
-users mailing list hyperspy-users@googlegroups.com or start a conversation in
-the gitter chat (`here <https://gitter.im/hyperspy/hyperspy>`_ or by clicking
-"Open chat" the lower right-hand corner of the window).
+If you could not find the answer to your question in the |user_guide|,
+you are welcome to send it to the users mailing list
+hyperspy-users@googlegroups.com or start a conversation in
+the Gitter chat |gitterbadge|.
 
 If you want to
 join the mailing list without a Google account send an email to
@@ -20,3 +21,11 @@ please create a new issue in the `issues tracker
 
 You may also be interested in joining us for any forthcoming training
 :ref:`trainings` or in inviting us to organize one.
+
+.. |user_guide| raw:: html
+
+    <a href="http://hyperspy.org/hyperspy-doc/current/index.html" target="_blank">User Guide</a>
+
+.. |gitterbadge| image:: https://badges.gitter.im/gitterHQ/gitter.png
+    :target: https://gitter.im/hyperspy/hyperspy
+    :alt: Gitter chat

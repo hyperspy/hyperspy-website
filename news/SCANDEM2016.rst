@@ -9,6 +9,7 @@ Norway. There area only 20 places available. Registration to the conference is r
 
 
 .. cut::
+
 More information 
 `in the conference website <https://www.ntnu.edu/physics/scandem2016/hyperspy>`_.
 

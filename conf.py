@@ -24,7 +24,7 @@ sys.path.append(os.path.abspath('sphinxext'))
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
 extensions = ['sphinx.ext.doctest',
               'sphinx.ext.todo',
-              'sphinx.ext.pngmath',
+              'sphinx.ext.imgmath',
               'sphinx.ext.ifconfig',
               'sphinx.ext.intersphinx',
               'sphinxcontrib.newsfeed',
@@ -133,16 +133,16 @@ html_short_title = "HyperSpy"
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
 #html_logo = None
-html_logo = "hyperspy_banner.png"
+html_logo = "images/hyperspy_banner.png"
 
 # The name of an image file (within the static path) to use as favicon of the
 # pixels large.
-html_favicon = "hyperspy_logo.ico"
+html_favicon = "images/hyperspy_logo.ico"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['_static']
+# html_static_path = ['_static']
 
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
 # using the given strftime format.

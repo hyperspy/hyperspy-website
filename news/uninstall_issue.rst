@@ -1,3 +1,5 @@
+:orphan:
+
 Important: Read this before uninstalling HyperSpy
 =================================================
 

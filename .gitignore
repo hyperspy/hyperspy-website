@@ -9,3 +9,4 @@ sphinxext
 
 *~
 .build/*
+.idea/*

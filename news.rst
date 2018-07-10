@@ -8,6 +8,7 @@ News
    :title: HyperSpy News
    :link: http://hyperspy.org/
 
+   news/release_1.3.2
    news/release_1.3.1
    news/interactive_demos
    news/release_1.3

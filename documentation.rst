@@ -12,12 +12,27 @@ User Guide
 * Current stable release:
     + |currentUG|
 * Older versions:
+    + |v13UG|
+    + |v12UG|
+    + |v11UG|
     + |v10UG|
     + |v08UG|
 
 .. |currentUG| raw:: html
 
    <a href="http://hyperspy.org/hyperspy-doc/current/index.html" target="_blank">HyperSpy User Guide</a>
+
+.. |v13UG| raw:: html
+
+   <a href="http://hyperspy.org/hyperspy-doc/v1.3/index.html" target="_blank">v1.3</a>
+
+.. |v12UG| raw:: html
+
+   <a href="http://hyperspy.org/hyperspy-doc/v1.2/index.html" target="_blank">v1.2</a>
+
+.. |v11UG| raw:: html
+
+   <a href="http://hyperspy.org/hyperspy-doc/v1.1/index.html" target="_blank">v1.1</a>
 
 .. |v10UG| raw:: html
 

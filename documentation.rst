@@ -4,8 +4,8 @@
 Documentation
 =============
 
-User Guide
-----------
+User and Developer Guide
+------------------------
 
 .. release
 
@@ -41,6 +41,9 @@ User Guide
 .. |v08UG| raw:: html
 
    <a href="http://hyperspy.org/hyperspy-doc/v0.8/index.html" target="_blank">v0.8</a>
+
+The latest stable and development versions of the User and Developer Guide are
+also available at `ReadTheDocs <https://hyperspy.readthedocs.io/en/stable/>`_.
 
 Demos
 -----

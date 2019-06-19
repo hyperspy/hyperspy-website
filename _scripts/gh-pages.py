@@ -97,8 +97,8 @@ if __name__ == '__main__':
 
     try:
         cd(pages_dir)
-        status = sh2('git status | head -1')
-        branch = re.search('On branch (.*)$', status).group(1)
+        status = str(sh2('git status | head -1'))
+        branch = re.search('On branch (.*)$', status).group(1)[:-1]
         if branch != 'master':
             e = 'On %r, git branch is %r, MUST be "master"' % (pages_dir,
                                                                  branch)
@@ -106,13 +106,13 @@ if __name__ == '__main__':
 
         sh('git add -A')
         sh('git commit -m"Updated website (automated commit)"')
-        print
-        print 'Most recent 3 commits:'
+        print()
+        print('Most recent 3 commits:')
         sys.stdout.flush()
         sh('git --no-pager log --oneline HEAD~3..')
     finally:
         cd(startdir)
 
-    print
-    print 'Now verify the build in: %r' % pages_dir
-    print "If everything looks good, 'git push'"
+    print()
+    print('Now verify the build in: %r' % pages_dir)
+    print("If everything looks good, 'git push'")

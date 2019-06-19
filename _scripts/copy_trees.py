@@ -5,9 +5,9 @@
 #-----------------------------------------------------------------------------
 # Imports
 #-----------------------------------------------------------------------------
-from __future__ import print_function
 
-import __builtin__
+
+import builtins
 import os
 import sys
 
@@ -19,7 +19,7 @@ from os.path import join as pjoin
 
 # From sphinx conf.py
 sphinx_conf = {}
-execfile('conf.py',{},sphinx_conf)
+exec(compile(open('conf.py', "rb").read(), 'conf.py', 'exec'),{},sphinx_conf)
 
 # Local
 verbose = False
@@ -53,7 +53,7 @@ skip_files = ['Makefile',]
 def print(*args, **kw):
     verb = kw.pop('verbose', verbose)
     if verb:
-        __builtin__.print(*args, **kw)
+        builtins.print(*args, **kw)
 
 
 def keep_filename(f, skip_ext=skip_extensions, skip_f = skip_files):
@@ -98,7 +98,7 @@ def main():
             print('top-level dirs:', dirs)
             #continue
 
-        files = filter(keep_filename, files)
+        files = list(filter(keep_filename, files))
         print('  dirs:', dirs)
         print('   files:', files)
         # Now, create the list of subdirs and files in the output

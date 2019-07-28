@@ -8,6 +8,8 @@ News
    :title: HyperSpy News
    :link: http://hyperspy.org/
 
+   news/release_1.5.1
+   news/release_1.5
    news/release_1.4.2
    news/release_1.4
    news/release_1.3.2

@@ -4,7 +4,7 @@ HyperSpy 1.4  has been released!
 .. feed-entry::
    :date: 2018-9-4
 
-We are pleased to announce the release of HyperSpy 1.4. See the `changelog <hyperspy.org/hyperspy-doc/current/user_guide/what_is_new.html#v1-4>`_ for
+We are pleased to announce the release of HyperSpy 1.4. See the `changelog <http://hyperspy.org/hyperspy-doc/current/user_guide/what_is_new.html#v1-4>`_ for
 details.
 
 We have also released hyperspy-gui-traitsui 1.1.0 and hyperspy-gui-ipywidgets

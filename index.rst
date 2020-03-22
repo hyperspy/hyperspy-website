@@ -15,6 +15,20 @@ of the dataset.
 Its modular structure makes it easy to add features to analyze different kinds
 of signals.
 
+Help fight COVID 19
+===================
+
+.. image:: images/CDC-coronavirus-image-23311-for-web.jpg
+    :width: 100pt
+If you are interested in HyperSpy, chances are that your skills can be useful to
+help fighting `SARS-CoV-2
+<https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus_2>`_
+aka COVID 19. Therefore, please consider contributing to the following two
+projects:
+
+* `COVID-19 Open-Source Helpdesk <https://discourse.covid-oss-help.org/>`_
+* `Crowdfight COVID-19 <https://crowdfightcovid19.org/>`_
+
 Highlights
 ==========
 

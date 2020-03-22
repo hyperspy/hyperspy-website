@@ -19,7 +19,7 @@ Help fight COVID 19
 ===================
 
 .. image:: images/CDC-coronavirus-image-23311-for-web.jpg
-    :width: 200pt
+    :width: 100pt
 If you are interested in HyperSpy, chances are that your skills can be useful to
 help fighting `SARS-CoV-2
 <https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus_2>`_

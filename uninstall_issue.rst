@@ -20,9 +20,9 @@ If you prefer to uninstall HyperSpy Bundle 0.6 manually
 you can read the rest of this document that explains how to determine if your
 installation is affected by this issue and how to manually uninstall HyperSpy
 0.6 if that is the case. If after reading this document you are
-still unsure about what to do, please do not heasitate to contact us through
-the `developers mailing list <http://groups.google.com/group/hyperspy-devel>`_
-before taking any action.
+still unsure about what to do, please do not heasitate to contact us through the
+`developers mailing list <https://gitter.im/hyperspy/hyperspyl>`_ before taking
+any action.
 
 How do I know if my installation is affected?
 ---------------------------------------------
@@ -50,7 +50,7 @@ follows:
 Finding your HyperSpy installation folder
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. Find HyperSpy in the Windows "Start Menu".   
+1. Find HyperSpy in the Windows "Start Menu".
 
    .. figure::  images/start_menu_hyperspy.png
       :align:   center
@@ -64,7 +64,7 @@ Finding your HyperSpy installation folder
 
 3. Left-click in "Open file location".
 
-Following the above instruction the file manager should appear showing 
+Following the above instruction the file manager should appear showing
 the HyperSpy installation folder as in the following image.
 
    .. figure::  images/hyperspy_installation_folder.png
@@ -84,14 +84,14 @@ Uninstalling HyperSpy 0.6 if your installation is affected
 ----------------------------------------------------------
 
 If you are affected by this bug you need to uninstall HyperSpy manually or use
-the Hyperspy Bundle 0.7 installer (or newer) to uninstall it (reccommended). 
+the Hyperspy Bundle 0.7 installer (or newer) to uninstall it (reccommended).
 
 Manually uninstalling HyperSpy 0.6 in Windows
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. Note::
 
-   You only need to uninstall HyperSpy following these instructions if your 
+   You only need to uninstall HyperSpy following these instructions if your
    installation is affected by this bug.
 
 Uninstall the context menu entries
@@ -141,7 +141,7 @@ Delete the HyperSpy files
    * WinPython Command Prompt.exe
    * WinPython Control Panel.exe
 
-Delete the StartMenu entry 
+Delete the StartMenu entry
 """"""""""""""""""""""""""
 
 1. Find HyperSpy in the Windows "Start Menu".
@@ -149,5 +149,5 @@ Delete the StartMenu entry
     .. figure::  images/delete_start_menu_hyperspy.png
        :align:   center
        :width:   200
-3. Left-click on "Delete". 
+3. Left-click on "Delete".
 

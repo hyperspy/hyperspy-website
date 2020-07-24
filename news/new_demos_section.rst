@@ -3,9 +3,9 @@ New demos section
 
 .. feed-entry::
    :date: 2014-06-19
-   
+
 The examples section in the HyperSpy website has been replaced by a new `demos
-<http://nbviewer.ipython.org/github/hyperspy/hyperspy-demos/tree/master/>`_
+<https://nbviewer.ipython.org/github/hyperspy/hyperspy-demos/tree/master/>`_
 section.
 
 .. cut::
@@ -19,7 +19,7 @@ Everybody is encouraged to contribute demos by making a `pull request
 `hyperspy-demos github repository
 <https://github.com/hyperspy/hyperspy-demos>`_
 or by email to the `hyperspy users mailing list
-<http://groups.google.com/group/hyperspy-users>`_.
+<https://groups.google.com/group/hyperspy-users>`_.
 
-   
+
 

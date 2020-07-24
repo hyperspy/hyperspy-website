@@ -24,7 +24,7 @@ You may also be interested in joining us for any forthcoming training
 
 .. |user_guide| raw:: html
 
-    <a href="http://hyperspy.org/hyperspy-doc/current/index.html" target="_blank">User Guide</a>
+    <a href="https://hyperspy.org/hyperspy-doc/current/index.html" target="_blank">User Guide</a>
 
 .. |gitterbadge| image:: https://badges.gitter.im/gitterHQ/gitter.png
     :target: https://gitter.im/hyperspy/hyperspy

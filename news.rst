@@ -6,7 +6,7 @@ News
 .. feed::
    :rss: news.rss
    :title: HyperSpy News
-   :link: http://hyperspy.org/
+   :link: https://hyperspy.org/
 
    news/release_1.5.2
    news/release_1.5.1
@@ -14,6 +14,7 @@ News
    news/release_1.4.2
    news/release_1.4
    news/release_1.3.2
+   news/superstem2018
    news/release_1.3.1
    news/interactive_demos
    news/release_1.3

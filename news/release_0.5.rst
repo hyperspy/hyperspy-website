@@ -8,6 +8,6 @@ We are proud to announce a new release of HyperSpy.
 
 .. cut::
 
-See `changes since last release <http://hyperspy.org/hyperspy-doc/current/user_guide/what_is_new.html#v0-5>`_
+See `changes since last release <https://hyperspy.org/hyperspy-doc/current/user_guide/what_is_new.html#v0-5>`_
 
 

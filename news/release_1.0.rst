@@ -11,6 +11,6 @@ We are pleased to announce the release of HyperSpy 1.0.
 
 HyperSpy 1.0 is a mayor release with too many new features to list here. See
 the `release notes
-<http://hyperspy.org/hyperspy-doc/current/user_guide/what_is_new.html#v0-1>`_
-for more details. 
+<https://hyperspy.org/hyperspy-doc/current/user_guide/what_is_new.html#v0-1>`_
+for more details.
 

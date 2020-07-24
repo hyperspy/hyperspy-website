@@ -21,31 +21,31 @@ User and Developer Guide
 
 .. |currentUG| raw:: html
 
-   <a href="http://hyperspy.org/hyperspy-doc/current/index.html" target="_blank">HyperSpy User Guide</a>
+   <a href="https://hyperspy.org/hyperspy-doc/current/index.html" target="_blank">HyperSpy User Guide</a>
 
 .. |v14UG| raw:: html
 
-   <a href="http://hyperspy.org/hyperspy-doc/v1.4/index.html" target="_blank">v1.4</a>
+   <a href="https://hyperspy.org/hyperspy-doc/v1.4/index.html" target="_blank">v1.4</a>
 
 .. |v13UG| raw:: html
 
-   <a href="http://hyperspy.org/hyperspy-doc/v1.3/index.html" target="_blank">v1.3</a>
+   <a href="https://hyperspy.org/hyperspy-doc/v1.3/index.html" target="_blank">v1.3</a>
 
 .. |v12UG| raw:: html
 
-   <a href="http://hyperspy.org/hyperspy-doc/v1.2/index.html" target="_blank">v1.2</a>
+   <a href="https://hyperspy.org/hyperspy-doc/v1.2/index.html" target="_blank">v1.2</a>
 
 .. |v11UG| raw:: html
 
-   <a href="http://hyperspy.org/hyperspy-doc/v1.1/index.html" target="_blank">v1.1</a>
+   <a href="https://hyperspy.org/hyperspy-doc/v1.1/index.html" target="_blank">v1.1</a>
 
 .. |v10UG| raw:: html
 
-   <a href="http://hyperspy.org/hyperspy-doc/v1.0/index.html" target="_blank">v1.0</a>
+   <a href="https://hyperspy.org/hyperspy-doc/v1.0/index.html" target="_blank">v1.0</a>
 
 .. |v08UG| raw:: html
 
-   <a href="http://hyperspy.org/hyperspy-doc/v0.8/index.html" target="_blank">v0.8</a>
+   <a href="https://hyperspy.org/hyperspy-doc/v0.8/index.html" target="_blank">v0.8</a>
 
 The latest stable and development versions of the User and Developer Guide are
 also available at `ReadTheDocs <https://hyperspy.readthedocs.io/en/stable/>`_.

@@ -20,6 +20,7 @@ Help fight COVID 19
 
 .. image:: images/CDC-coronavirus-image-23311-for-web.jpg
     :width: 100pt
+
 If you are interested in HyperSpy, chances are that your skills can be useful to
 help fighting `SARS-CoV-2
 <https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus_2>`_
@@ -54,7 +55,7 @@ Here is some of what our users say about Hyperspy:
    Hyperspy made it easy to process EELS and EDS data for presentation in my thesis!
 
    -- Tom Aarholt, University of Oxford
-   
+
    My answer to any (S)TEM data analyses problem - use HyperSpy
-   
+
    -- Vadim Migunov, Ernst Ruska-Centre (ER-C), Research Centre Juelich

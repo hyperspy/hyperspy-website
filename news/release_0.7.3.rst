@@ -8,6 +8,6 @@ New maintenance release to solve a library compatibility issue.
 
 .. cut::
 
-See `changes since last release <http://hyperspy.org/hyperspy-doc/current/user_guide/what_is_new.html#v0-7-3>`_
+See `changes since last release <https://hyperspy.org/hyperspy-doc/current/user_guide/what_is_new.html#v0-7-3>`_
 
 

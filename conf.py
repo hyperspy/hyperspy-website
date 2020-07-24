@@ -28,11 +28,11 @@ extensions = ['sphinx.ext.doctest',
               'sphinx.ext.ifconfig',
               'sphinx.ext.intersphinx',
               'sphinxcontrib.newsfeed',
-              
+
               #'ipython_console_highlighting',
               ]
 
-# Add comments to news using diskus 
+# Add comments to news using diskus
 #disqus_shortname = 'hyperspy'
 
 # Add any paths that contain templates here, relative to this directory.
@@ -190,5 +190,5 @@ html_show_sourcelink = False
 
 # Setting intersphinx to resolve the links to the project's docs.
 
-intersphinx_mapping = {'hyperspy': ('http://hyperspy.org/hyperspy-doc/current/', None)}
+intersphinx_mapping = {'hyperspy': ('https://hyperspy.org/hyperspy-doc/current/', None)}
 

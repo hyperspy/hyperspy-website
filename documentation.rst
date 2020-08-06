@@ -12,6 +12,7 @@ User and Developer Guide
 * Current stable release:
     + |currentUG|
 * Older versions:
+    + |v15UG|
     + |v14UG|
     + |v13UG|
     + |v12UG|
@@ -21,7 +22,12 @@ User and Developer Guide
 
 .. |currentUG| raw:: html
 
-   <a href="https://hyperspy.org/hyperspy-doc/current/index.html" target="_blank">HyperSpy User Guide</a>
+   <a href="https://hyperspy.org/hyperspy-doc/current/index.html"
+   target="_blank">HyperSpy User Guide</a>
+
+.. |v15UG| raw:: html
+
+   <a href="https://hyperspy.org/hyperspy-doc/v1.5/index.html" target="_blank">v1.5</a>
 
 .. |v14UG| raw:: html
 

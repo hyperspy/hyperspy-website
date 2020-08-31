@@ -4,16 +4,12 @@
 Support
 =======
 
-If you could not find the answer to your question in the |user_guide|,
-you are welcome to send it to the users mailing list
-hyperspy-users@googlegroups.com or start a conversation in
-the Gitter chat |gitterbadge|.
+If you could not find the answer to start a conversation in the Gitter chat
+|gitterbadge|.
 
-If you want to
-join the mailing list without a Google account send an email to
-hyperspy-users+subscribe@googlegroups.com. There is also `a web-based version
-<http://groups.google.com/group/hyperspy-users>`_ of this list but you need to
-have a Google account to use it.
+If you want to be notified about new releases, please *Watch (Releases only)* 
+the `hyperspy repositorium on GitHub <https://github.com/hyperspy/hyperspy/>`_ 
+(requires a `GitHub account <https://github.com/login>`_).
 
 If you think that you have found a bug or you would like to request a feature,
 please create a new issue in the `issues tracker

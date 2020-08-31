@@ -8,7 +8,7 @@ If you could not find the answer to start a conversation in the Gitter chat
 |gitterbadge|.
 
 If you want to be notified about new releases, please *Watch (Releases only)* 
-the `hyperspy repositorium on GitHub <https://github.com/hyperspy/hyperspy/>`_ 
+the `hyperspy repository on GitHub <https://github.com/hyperspy/hyperspy/>`_ 
 (requires a `GitHub account <https://github.com/login>`_).
 
 If you think that you have found a bug or you would like to request a feature,

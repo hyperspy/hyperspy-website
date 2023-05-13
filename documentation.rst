@@ -9,6 +9,8 @@ User and Developer Guide
 
 .. release
 
+* Development v2.0:
+    + |dev|
 * Current stable release:
     + |currentUG|
 * Older versions:
@@ -20,6 +22,10 @@ User and Developer Guide
     + |v11UG|
     + |v10UG|
     + |v08UG|
+
+.. |dev| raw:: html
+
+   <a href="https://hyperspy.org/hyperspy-doc/dev/index.html" target="_blank">Development v2.0</a>
 
 .. |currentUG| raw:: html
 

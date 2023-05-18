@@ -31,6 +31,7 @@ sys.path.append(os.path.abspath('sphinxext'))
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
 extensions = ['sphinx.ext.intersphinx',
+              'sphinx.ext.githubpages',
               'sphinxcontrib.newsfeed',
               ]
 
@@ -194,3 +195,5 @@ html_show_sourcelink = False
 
 intersphinx_mapping = {'hyperspy': ('https://hyperspy.org/hyperspy-doc/current/', None)}
 
+# https://www.sphinx-doc.org/en/master/usage/extensions/githubpages.html
+html_baseurl = 'https://hyperspy.org'

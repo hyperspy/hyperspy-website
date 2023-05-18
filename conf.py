@@ -11,7 +11,15 @@
 # All configuration values have a default; values that are commented out
 # serve to show the default.
 
+from packaging.version import Version
 import sys, os
+
+import sphinx
+
+if Version(sphinx.__version__) >= Version('6.0'):
+   # Issue with the logo banner
+    raise RuntimeError("Only Sphinx < 6.0 is currently supported.")
+    
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -22,14 +30,8 @@ sys.path.append(os.path.abspath('sphinxext'))
 
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
-extensions = ['sphinx.ext.doctest',
-              'sphinx.ext.todo',
-              'sphinx.ext.imgmath',
-              'sphinx.ext.ifconfig',
-              'sphinx.ext.intersphinx',
+extensions = ['sphinx.ext.intersphinx',
               'sphinxcontrib.newsfeed',
-
-              #'ipython_console_highlighting',
               ]
 
 # Add comments to news using diskus

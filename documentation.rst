@@ -9,11 +9,12 @@ User and Developer Guide
 
 .. release
 
-* Development v2.0:
+* Development:
     + |dev|
 * Current stable release:
     + |currentUG|
 * Older versions:
+    + |v17UG|
     + |v16UG|
     + |v15UG|
     + |v14UG|
@@ -25,12 +26,16 @@ User and Developer Guide
 
 .. |dev| raw:: html
 
-   <a href="https://hyperspy.org/hyperspy-doc/dev/index.html" target="_blank">Development v2.0</a>
+   <a href="https://hyperspy.org/hyperspy-doc/dev/index.html" target="_blank">Development</a>
 
 .. |currentUG| raw:: html
 
    <a href="https://hyperspy.org/hyperspy-doc/current/index.html"
-   target="_blank">HyperSpy User Guide</a>
+   target="_blank">v2.x</a>
+
+.. |v17UG| raw:: html
+
+   <a href="https://hyperspy.org/hyperspy-doc/v1.7/index.html" target="_blank">v1.7</a>
 
 .. |v16UG| raw:: html
 

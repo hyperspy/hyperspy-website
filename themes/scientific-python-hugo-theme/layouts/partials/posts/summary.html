@@ -1,0 +1,10 @@
+{{- $featuredImage := .Resources.GetMatch "featuredImage" -}}
+<div class="post-summary">
+  {{ with $featuredImage }}
+  <img src="{{ .RelPermalink }}" {{ if .Params.description }}alt="{{ .Params.description }}"{{ end }}/>
+  {{ end }}
+  {{ strings.Chomp .Summary }}
+  <span class="read-more">
+      <a href="{{ .RelPermalink }}">Read more...</a>
+  </span>
+</div>

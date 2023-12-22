@@ -1,0 +1,28 @@
+{{ define "main" }}
+<section class="section content-padding">
+  <div class="content-container">
+    {{ partial "breadcrumbs.html" . }}
+    <h1>{{ .Title }}</h1>
+    {{ if .Params.Subtitle }}
+    <h5 class="subtitle">{{ .Params.Subtitle }}</h5>
+    {{ end }}
+    {{ if .Content }}
+    {{ .Content }}
+    {{ end }}
+    {{ if (or (not .Content) .Params.listPages) }}
+    <div class="page-list">
+      <ul>
+        {{ range .Pages }}
+        {{ if .Title }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
+  </div>
+  {{ if .Content }}
+  {{ partial "shortcuts.html" . }}
+  {{ end }}
+</section>
+{{ end }}

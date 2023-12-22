@@ -1,0 +1,101 @@
+baseURL: "https://theme.scientific-python.org/"
+languageCode: "en-us"
+title: "HyperSpy"
+theme: scientific-python-hugo-theme
+relativeURLs: true
+disableKinds: ["taxonomy"]
+
+markup:
+  highlight:
+    noClasses: false
+
+
+params:
+  author:
+    name: "HyperSpy Development team"
+  description: "Landing site for HyperSpy organization."
+  images:
+    - /images/hyperspy_logo.png
+    - /images/pyxem.png
+  navbarlogo:
+    image: hyperspy_logo.png
+    text: HyperSpy
+    link: /
+  hero:
+    title: HyperSpy
+    image: hyperspy_logo.png
+    buttontext: Get Started
+    buttonlink: /getstarted/
+  navbar:
+    - title: Features
+      url: /features/
+    - title: Blog
+      url: /blog/
+    - title: Shortcodes
+      url: /shortcodes/
+    - title: Examples
+      url: /examples/
+
+  keyfeatures:
+    features:
+      - title: Named and Scaled Axes
+        text:  "Two families of named and scaled axes: signal and navigation"
+      - title: Visualization
+        text:  Visualization tools for multi-dimensional spectra and images.
+      - title: Analysis
+        text:  Easy access multi-dimensional curve fitting and blind source separation.
+      - title: Performance
+        text:  Built on top of NumPy, SciPy, matplotlib, dask and scikit-learn for high performance.
+      - title: Extensible
+        text: Modular design for easy extensibility.
+      - title: Community Maintained
+        text: The theme is maintained by the [Hyperspy Developers](/about/).
+
+  casestudies:
+    title: HyperSpy Ecosystem
+    features:
+        - img: /images/pyxem.png
+          alttext: Logo of Pyxem
+          url: https://pyxem.readthedocs.io/en/stable/
+        - img: /images/rosettasciio.svg
+          alttext: Logo for rosettasciio
+          url: https://hyperspy.org/rosettasciio/
+        - img: /images/kikuchipy.svg
+          alttext: Logo of kikuchipy
+          url: https://kikuchipy.org/en/stable/
+        - img: /images/lumispy.svg
+          alttext: Logo of lumispy
+          url: https://docs.lumispy.org/en/latest/
+        - img: /images/atomaplogo.png
+          alttext: Logo of atomap
+          url: https://atomap.org
+        - img: /images/hyperspy_logo.png
+          alttext: Logo of exspy
+          url: https://exspy.readthedocs.io/en/latest/
+        - img: /images/hyperspy_logo.png
+          alttext: Logo of holospy
+          url: https://holospy.readthedocs.io/en/latest/
+  footer:
+    logo: hyperspy_logo.png
+    socialmediatitle: ""
+    socialmedia:
+      - link: https://scientific-python.org/
+        icon: scientific-python
+      - link: https://discuss.scientific-python.org/
+        icon: discourse
+      - link: https://github.com/scientific-python/
+        icon: github
+    quicklinks:
+      column1:
+        title: ""
+        links:
+          - text: About
+            link: /about/
+          - text: Theme GitHub
+            link: https://github.com/scientific-python/scientific-python-hugo-theme
+      column2:
+        links:
+          - text: Scientific Python Forum
+            link: https://discuss.scientific-python.org
+      column3:
+        links:

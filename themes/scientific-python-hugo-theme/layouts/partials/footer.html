@@ -1,0 +1,45 @@
+{{- $title       := .Site.Title }}
+{{- $author      := .Site.Params.author.name }}
+{{- $footer      := .Site.Params.footer }}
+{{- $logo        := index $footer "logo" }}
+{{- $quickLinks  := index $footer "quicklinks" }}
+{{- $socialMedia := index $footer "socialmedia" }}
+{{- $navbarLogo     := .Site.Params.navbarlogo }}
+
+<footer id="footer">
+  <div class="container is-max-widescreen">
+    <div id="footer-columns" class="columns">
+      <div id="footer-logo-column">
+        <img id="footer-logo" src="{{ printf "/images/%s" $logo | relURL }}" alt="{{ $title }} logo. {{ $navbarLogo.altText }}">
+      </div>
+      {{- range $quickLinks }}
+      <div class="footer-column">
+        {{- range .links }}
+        <div class="footer-item">
+          <a href="{{ .link }}">
+            {{ .text }}
+          </a>
+        </div>
+        {{- end }}
+      </div>
+      {{- end }}
+        <div class="footer-actions">
+          {{ partial "footer_actions.html" . }}
+          <nav class="level is-mobile">
+            <div class="community-icons">
+              {{- range $socialMedia }}
+              <a class="level-item" href="{{ .link }}" aria-label="{{ .link }}">
+                {{if .icon -}}
+                {{- partial "svg-icon" .icon -}}
+                {{- else -}}
+                <span class="icon">ⓘ</span>
+                {{- end }}
+              </a>
+              {{- end }}
+            </div>
+          </nav>
+          <div class="copyright">&copy; {{ now.Year}} {{ $author }}. All rights reserved.</div>
+        </div>
+    </div>
+  </div>
+</footer>

@@ -17,7 +17,7 @@ Its modular structure makes it easy to add features to analyze different kinds
 of signals.
 
 ---
-subtitle: "Highlights"
+Highlights
 ---
 
 * Two families of named and scaled axes: *signal* and *navigation*.

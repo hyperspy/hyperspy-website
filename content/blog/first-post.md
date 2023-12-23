@@ -7,7 +7,14 @@ summary: Blog for Hyperspy
 
 Hi everyone! I think there are some topics related to hyperspy which might deserve longer form 
 posts.  For example, I've made a couple of posts as hyperspy issues such as this 
-[post about large data](https://github.com/hyperspy/hyperspy/issues/3107) which talk about large data.
+[post about large data](https://github.com/hyperspy/hyperspy/issues/3107) which talk about properly processing
+large data in hyperspy. These aren't specifically documentation or tutorials, but they dig a little deeper into
+how hyperspy works and why we do things the way we do.
+
+Examples of things I (personally) think would be good for a blog post:
+
+- How to use hyperspy with other libraries (e.g. scikit-learn, pytorch, tensorflow, etc.)
+- 
 
 There are lots of people doing lots of cool things using hyperspy but some of these things get lost in the
 noise of the large number of issues and PRs.  I think it would be nice to have a place to highlight some of these

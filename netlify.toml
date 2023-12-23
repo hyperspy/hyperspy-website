@@ -14,21 +14,14 @@
   ignore = "false"
 
 [build]
-  base = "doc"
+  base = "/"
   publish = "public"
   command = """\
     export DART_SASS_TARBALL="dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz" && \
-    (cd /tmp && \
-     curl -LJO ${DART_SASS_URL}/${DART_SASS_VERSION}/${DART_SASS_TARBALL} && \
-     tar -xf ${DART_SASS_TARBALL} && \
-     rm ${DART_SASS_TARBALL}) && \
-    export PATH=/tmp/dart-sass:$PATH && \
-    (cd ../.. && ln -s repo scientific-python-hugo-theme) && \
-    (cd .. && make ${BUILD_TARGET})
+    curl -LJO ${DART_SASS_URL}/${DART_SASS_VERSION}/${DART_SASS_TARBALL} && \
+    tar -xf ${DART_SASS_TARBALL} && \
+    rm ${DART_SASS_TARBALL} && \
+    export PATH=/opt/build/repo/dart-sass:$PATH && \
+    pip install pyyaml && \
+    make html \
     """
-
-[[plugins]]
-  package = "netlify-plugin-checklinks"
-
-  [plugins.inputs]
-  skipPatterns = ['https://fonts.gstatic.com', 'https://fonts.googleapis.com']

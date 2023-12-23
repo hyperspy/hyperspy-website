@@ -25,16 +25,21 @@ params:
     title: HyperSpy
     image: hyperspy_logo.png
     buttontext: Get Started
-    buttonlink: /getstarted/
+    buttonlink: https://hyperspy.org/hyperspy-doc/current/index.html
   navbar:
-    - title: Features
-      url: /features/
     - title: Blog
       url: /blog/
-    - title: Shortcodes
-      url: /shortcodes/
-    - title: Examples
-      url: /examples/
+    - title: Documentation
+      url: https://hyperspy.org/hyperspy-doc/current/index.html
+    - title: Installation
+      url: http://hyperspy.org/hyperspy-doc/current/user_guide/install.html
+    - title: News
+      url: /news/
+    - title: Gitter
+      url: https://gitter.im/hyperspy/hyperspy
+    - title: GitHub
+      url: github.com/hyperspy
+      icon: github
 
   keyfeatures:
     features:
@@ -69,33 +74,17 @@ params:
         - img: /images/atomaplogo.png
           alttext: Logo of atomap
           url: https://atomap.org
-        - img: /images/hyperspy_logo.png
+        - img: /images/exspy2_white.png
           alttext: Logo of exspy
           url: https://exspy.readthedocs.io/en/latest/
-        - img: /images/hyperspy_logo.png
+        - img: /images/holospy2.png
           alttext: Logo of holospy
           url: https://holospy.readthedocs.io/en/latest/
   footer:
     logo: hyperspy_logo.png
     socialmediatitle: ""
     socialmedia:
-      - link: https://scientific-python.org/
-        icon: scientific-python
-      - link: https://discuss.scientific-python.org/
+      - link: https://app.gitter.im/#/room/#hyperspy_hyperspy:gitter.im
         icon: discourse
-      - link: https://github.com/scientific-python/
+      - link: https://github.com/hyperspy/
         icon: github
-    quicklinks:
-      column1:
-        title: ""
-        links:
-          - text: About
-            link: /about/
-          - text: Theme GitHub
-            link: https://github.com/scientific-python/scientific-python-hugo-theme
-      column2:
-        links:
-          - text: Scientific Python Forum
-            link: https://discuss.scientific-python.org
-      column3:
-        links:

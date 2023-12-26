@@ -1,2 +1,0 @@
-pre-commit==3.6.0
-changelist==0.4

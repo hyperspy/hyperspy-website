@@ -76,10 +76,10 @@ params:
           url: https://atomap.org
         - img: /images/exspy2_white.png
           alttext: Logo of exspy
-          url: https://exspy.readthedocs.io/en/latest/
+          url: https://hyperspy.org/exspy/
         - img: /images/holospy2.png
           alttext: Logo of holospy
-          url: https://holospy.readthedocs.io/en/latest/
+          url: https://hyperspy.org/holospy/
   footer:
     logo: hyperspy_logo.png
     socialmediatitle: ""

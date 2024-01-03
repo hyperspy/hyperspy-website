@@ -11,20 +11,17 @@
 # All configuration values have a default; values that are commented out
 # serve to show the default.
 
+from datetime import datetime
 from packaging.version import Version
 import sys, os
 
 import sphinx
-
-if Version(sphinx.__version__) >= Version('6.0'):
-   # Issue with the logo banner
-    raise RuntimeError("Only Sphinx < 6.0 is currently supported.")
     
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
-sys.path.append(os.path.abspath('sphinxext'))
+#sys.path.append(os.path.abspath('sphinxext'))
 
 # -- General configuration -----------------------------------------------------
 
@@ -32,7 +29,6 @@ sys.path.append(os.path.abspath('sphinxext'))
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
 extensions = ['sphinx.ext.intersphinx',
               'sphinx.ext.githubpages',
-              'sphinxcontrib.newsfeed',
               ]
 
 # Add comments to news using diskus
@@ -52,7 +48,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'HyperSpy'
-copyright = u'The HyperSpy development team'
+copyright = f'2011-{datetime.today().year}, The HyperSpy development team'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -78,8 +74,7 @@ unused_docs = []
 
 # List of directories, relative to source directory, that shouldn't be searched
 # for source files.
-exclude_trees = ['_build','.git','s','resources','attic','blog',
-                 'code/lyxport/dist']
+exclude_trees = ['_build']
 
 # The reST default role (used for this markup: `text`) to use for all documents.
 #default_role = None
@@ -106,25 +101,37 @@ pygments_style = 'sphinx'
 
 # The theme to use for HTML and HTML Help pages.  Major themes that come with
 # Sphinx are currently 'default' and 'sphinxdoc'.
-#html_theme = 'default'
-#html_theme = 'sphinxdoc'
-html_theme = 'agogo'  # inherits from sphinxdoc and modifies it a little
-
-# The style sheet to use for HTML and HTML Help pages. A file of that name
-# must exist either in Sphinx' static/ path, or in one of the custom paths
-# given in html_static_path.
-html_style = 'agogo.css'
+html_theme = 'pydata_sphinx_theme' 
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
-html_theme_options = {}
+html_theme_options = {
+   "github_url": "https://github.com/hyperspy/hyperspy",
+   "icon_links": [
+      {
+         "name": "Gitter",
+         "url": "https://gitter.im/hyperspy/hyperspy",
+         "icon": "fab fa-gitter",
+      },
+      {
+         "name": "HyperSpy",
+         "url": "https://hyperspy.org",
+         "icon": "_static/hyperspy.ico",
+         "type": "local",
+      },
+   ],
+   "logo": {
+      "text": "HyperSpy",
+   },
+   "announcement": "HyperSpy API changed in version 2.0, see the <a href='https://hyperspy.org/hyperspy-doc/v2.0/changes.html'>release notes!</a>",
+}
 
 # Only works with the default theme, makes the sidebar not scroll:
 #html_theme_options = { "stickysidebar": "true" }
 
 # Add any paths that contain custom themes here, relative to this directory.
-html_theme_path = ['themes']
+#html_theme_path = ['themes']
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".ke

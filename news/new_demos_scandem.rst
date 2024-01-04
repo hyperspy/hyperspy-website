@@ -1,13 +1,11 @@
+
+.. post:: 2016-06-17
+
 New demos added
 ===============
 
-.. feed-entry::
-   :date: 2016-06-17
-   
 The existing
 `demos <http://nbviewer.jupyter.org/github/hyperspy/hyperspy-demos/tree/master/>`_ have been updated and three new demos have been added.
-
-.. cut::
 
 The new demos are:
 

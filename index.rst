@@ -5,7 +5,7 @@
 .. toctree::
    :hidden:
    
-   news
+   news/index
 
 
 .. image:: _static/hyperspy_banner.png

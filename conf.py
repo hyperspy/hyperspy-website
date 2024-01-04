@@ -14,9 +14,11 @@ author = 'The HyperSpy community'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
+    'ablog',
     'sphinx_design',
-    "sphinx_favicon",
-    "sphinx.ext.githubpages",
+    'sphinx.ext.intersphinx',
+    'sphinx.ext.githubpages',
+    'sphinx_favicon',
 ]
 
 templates_path = ['_templates']
@@ -59,4 +61,25 @@ html_theme_options = {
     },
     "announcement": "<a href='https://hyperspy.org/hyperspy-doc/v2.0/changes.html'>HyperSpy 2.0 released!</a>",
     "secondary_sidebar_items": [],
+}
+
+# -- ABlog ---------------------------------------------------
+
+blog_path = "news/index"
+blog_authors = {
+    "hyperspy": ("HyperSpy", "https://hyperspy.org"),
+}
+
+html_sidebars = {
+    # Blog sidebars
+    "news/**": [
+        "ablog/postcard.html",
+        "ablog/recentposts.html",
+        "ablog/tagcloud.html",
+        "ablog/categories.html",
+        "ablog/authors.html",
+        "ablog/languages.html",
+        "ablog/locations.html",
+        "ablog/archives.html",
+    ],
 }

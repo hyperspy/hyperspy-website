@@ -1,61 +1,153 @@
-=================================================
-HyperSpy: multi-dimensional data analysis toolbox
-=================================================
+:sd_hide_title:
 
-HyperSpy is an open source Python library which provides tools to facilitate
-the interactive data analysis of multi-dimensional datasets that can be
-described as multi-dimensional arrays of a given signal (e.g. a 2D array of
-spectra a.k.a spectrum image).
+.. title:: Home
 
-HyperSpy aims at making it easy and natural to apply analytical procedures that
-operate on an individual signal to multi-dimensional arrays, as well as
-providing easy access to analytical tools that exploit the multi-dimensionality
-of the dataset.
-
-Its modular structure makes it easy to add features to analyze different kinds
-of signals.
-
-Help fight COVID 19
-===================
-
-.. image:: images/CDC-coronavirus-image-23311-for-web.jpg
-    :width: 100pt
-
-If you are interested in HyperSpy, chances are that your skills can be useful to
-help fighting `SARS-CoV-2
-<https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus_2>`_
-aka COVID 19. Therefore, please consider contributing to the following two
-projects:
-
-* `COVID-19 Open-Source Helpdesk <https://discourse.covid-oss-help.org/>`_
-* `Crowdfight COVID-19 <https://crowdfightcovid19.org/>`_
-
-Highlights
-==========
+.. toctree::
+   :hidden:
+   
+   news
 
 
-* Two families of named and scaled axes: *signal* and *navigation*.
-* Visualization tools for multi-dimensional spectra and images.
-* Easy access multi-dimensional curve fitting and blind source separation.
-* Built on top of NumPy, SciPy, matplotlib and scikit-learn.
-* Modular design for easy extensibility.
+.. image:: _static/hyperspy_banner.png
+   :alt: HyperSpy logo
+   :class: logo, mainlogo, only-light
+   :align: center
 
-The development has been motivated by the data analysis needs of the
-electron microscopy community but it is proving useful in many other fields.
+.. image:: _static/hyperspy_banner.png
+   :alt: HyperSpy logo
+   :class: logo, mainlogo, only-dark
+   :align: center
 
-Endorsements
-============
+.. div:: sd-text-center sd-font-weight-bold sd-fs-4 sd-width-50
+   
+   Open source Python framework for exploring, visualising and analysing 
+   multi-dimensional data.
 
-Here is some of what our users say about Hyperspy:
 
-(`Click here to add your thank you note <https://saythanks.io/to/hyperspy>`_)
 
-.. epigraph::
+.. grid:: 2 3 3 3
+  :gutter: 4
 
-   Hyperspy made it easy to process EELS and EDS data for presentation in my thesis!
+  .. grid-item-card::
 
-   -- Tom Aarholt, University of Oxford
+    Visualization
+    ^^^
 
-   My answer to any (S)TEM data analyses problem - use HyperSpy
+    Visualization tools for multi-dimensional spectra and images.
 
-   -- Vadim Migunov, Ernst Ruska-Centre (ER-C), Research Centre Juelich
+  .. grid-item-card::
+
+    Analysis
+    ^^^
+
+    Easy access multi-dimensional curve fitting and blind source separation.
+
+  .. grid-item-card::
+
+    Named and Scaled Axes
+    ^^^
+
+    Two families of named and scaled axes: *signal* and *navigation*.
+
+  .. grid-item-card::
+
+    Performance
+    ^^^
+
+    Built on top of NumPy, SciPy, matplotlib, dask and scikit-learn for high performance.
+
+  .. grid-item-card::
+
+    Ecosystem
+    ^^^
+
+    Modular design for easy extensibility and fostering of ecosystem.
+
+  .. grid-item-card::
+
+    Community driven
+    ^^^
+
+    Developed by and for Scientists.
+
+
+.. rst-class:: text-center sd-font-weight-bold sd-fs-3
+   
+   HyperSpy Ecosystem
+
+
+.. grid:: 2 3 4 4
+   :gutter: 3
+
+   .. grid-item-card:: HyperSpy
+      :img-top: _static/hyperspy_logo.png
+      :img-alt:
+      :link: https://hyperspy.org/hyperspy-doc/current
+
+      ^^^
+      Generic multi-dimensional data analysis toolbox
+
+   .. grid-item-card:: RosettaSciIO
+      :img-top: _static/rosettasciio.svg
+      :img-alt:
+      :link: https://hyperspy.org/rosettasciio/
+
+      ^^^
+      Reading and writing scientific data formats
+
+
+   .. grid-item-card:: exSpy
+      :img-top: _static/hyperspy_logo.png
+      :img-alt:
+      :link: https://hyperspy.org/exspy
+
+      ^^^
+      X-rays Energy Dispersive Spectroscopy (EDS) and Electron Energy Loss Spectroscopy (EELS)
+
+   .. grid-item-card:: pyxem
+      :img-top: _static/pyxem.png
+      :img-alt:
+      :link: https://pyxem.readthedocs.io
+
+      ^^^
+      Electron diffraction data (4DSTEM)
+
+   .. grid-item-card:: kikuchipy
+      :img-top: _static/kikuchipy.svg
+      :img-alt:
+      :link: https://kikuchipy.org/
+
+      ^^^
+      Electron backscatter diffraction (EBSD) 
+
+   .. grid-item-card:: LumiSpy
+      :img-top: _static/lumispy.svg
+      :img-alt:
+      :link: https://docs.lumispy.org
+
+      ^^^
+      Luminescence spectroscopy (cathodoluminescence, photoluminescence, Raman)
+
+   .. grid-item-card:: atomap
+      :img-top: _static/atomaplogo.png
+      :img-alt:
+      :link: https://atomap.org
+
+      ^^^
+      Atomic resolution scanning transmission electron 
+
+   .. grid-item-card:: HoloSpy
+      :img-top: _static/hyperspy_logo.png
+      :img-alt:
+      :link: https://hyperspy.org/holospy
+
+      ^^^
+      Off-axis electron holograph
+
+   .. grid-item-card:: HyperSpyUI
+      :img-top: _static/hyperspyui_logo.png
+      :img-alt:
+      :link: https://hyperspy.org/hyperspyUI
+
+      ^^^
+      Streamlined user interface to HyperSpy

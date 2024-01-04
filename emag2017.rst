@@ -1,4 +1,0 @@
-Tutorial files
---------------
-
-`Tutorial files download link <https://www.dropbox.com/s/dt6bc3dtg373ahw/machine_learning.zip?dl=1>`_

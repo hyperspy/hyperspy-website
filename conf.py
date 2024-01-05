@@ -45,6 +45,10 @@ html_theme_options = {
             "url": "https://hyperspy.org/hyperspy-doc/current/user_guide/install.html",
             "name": "Install",
         },
+        {
+            "url": "https://hyperspy.org/jupyterlite-hyperspy",
+            "name": "Try",
+        },
     ],
     "github_url": "https://github.com/hyperspy/hyperspy",
     "icon_links": [

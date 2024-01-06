@@ -1,6 +1,6 @@
 
 .. post:: 2022-01-05
-   :tags: training
+   :tags: training, diamond
 
 HyperSpy Workshop @ Diamond, 9-13th of May 2022
 ===============================================

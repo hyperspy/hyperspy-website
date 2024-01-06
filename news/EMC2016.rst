@@ -1,7 +1,7 @@
 
 
 .. post:: 2016-05-6
-   :tags: training
+   :tags: training, EMC
 
 HyperSpy workshop at EMC2016
 ============================

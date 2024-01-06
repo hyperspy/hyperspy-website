@@ -1,7 +1,7 @@
 
 
 .. post:: 2021-03-01
-   :tags: training
+   :tags: training, M&M
 
 HyperSpy Workshop at M&M 2021
 =============================

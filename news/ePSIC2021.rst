@@ -1,6 +1,6 @@
 
 .. post:: 2021-02-01
-   :tags: training
+   :tags: training, diamond
 
 HyperSpy Workshop @ Diamond, 19-24th of April 2021
 ==================================================

@@ -19,7 +19,7 @@ See the |readme| of |hyperspy-demos| for more instructions and details on how to
 
 .. |readme| raw:: html
 
-    <a href="https://github.com/hyperspy/hyperspy-demos/blob/master/README.md" target="_blank">README</a>
+    <a href="https://github.com/hyperspy/hyperspy-demos/blob/main/README.md" target="_blank">README</a>
 
 Everybody is encouraged to contribute to the demos by making a |pullrequest| to the |hyperspy-demos|
 Github repository, or by email to the |mailinglist|.

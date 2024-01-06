@@ -5,7 +5,7 @@ New demos section
 =================
 
 The examples section in the HyperSpy website has been replaced by a new `demos
-<https://nbviewer.ipython.org/github/hyperspy/hyperspy-demos/tree/master/>`_
+<https://nbviewer.jupyter.org/github/hyperspy/hyperspy-demos/tree/main/>`_
 section.
 
 The demos are

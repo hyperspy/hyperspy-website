@@ -5,4 +5,4 @@ New release of ImportRPL
 
 We are proud to announce a new release of the ImportRPL Digital Micrograph plugin.
 
-Download it from `here <https://github.com/downloads/hyperspy/ImportRPL/ImportRPL.s>`_
+Download it from `here <https://github.com/hyperspy/ImportRPL>`_

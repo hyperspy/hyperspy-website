@@ -28,42 +28,42 @@
 
   .. grid-item-card::
 
-    Visualization
+    :octicon:`eye;2em;sd-text-info` Visualization
     ^^^
 
     Visualization tools for multi-dimensional spectra and images.
 
   .. grid-item-card::
 
-    Analysis
+    :octicon:`gear;2em;sd-text-info` Analysis
     ^^^
 
     Easy access multi-dimensional curve fitting and blind source separation.
 
   .. grid-item-card::
 
-    Named and Scaled Axes
+    :octicon:`table;2em;sd-text-info` Named and Scaled Axes
     ^^^
 
     Two families of named and scaled axes: *signal* and *navigation*.
 
   .. grid-item-card::
 
-    Performance
+    :octicon:`zap;2em;sd-text-info` Performance
     ^^^
 
     Built on top of NumPy, SciPy, matplotlib, dask and scikit-learn for high performance.
 
   .. grid-item-card::
 
-    Ecosystem
+    :octicon:`rocket;2em;sd-text-info` Ecosystem
     ^^^
 
     Modular design for easy extensibility and fostering of ecosystem.
 
   .. grid-item-card::
 
-    Community driven
+    :octicon:`people;2em;sd-text-info` Community driven
     ^^^
 
     Developed by and for Scientists.

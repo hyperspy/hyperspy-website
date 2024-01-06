@@ -68,6 +68,7 @@ html_theme_options = {
     },
     "navbar_align": "content",
     "secondary_sidebar_items": [],
+    "show_prev_next": False,
 }
 
 # -- ABlog ---------------------------------------------------

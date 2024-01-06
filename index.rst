@@ -76,7 +76,7 @@
    HyperSpy Ecosystem
 
 
-.. grid:: 2 3 4 4
+.. grid:: 2 3 4 5
    :gutter: 3
 
    .. grid-item-card:: HyperSpy

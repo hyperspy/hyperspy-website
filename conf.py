@@ -32,11 +32,13 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 html_theme = 'pydata_sphinx_theme'
 html_static_path = ['_static']
+html_css_files = ["custom.css"]
 
 favicons = ["hyperspy_logo.ico", ]
 
 
 html_theme_options = {
+    "announcement": "<a href='https://hyperspy.org/hyperspy-doc/v2.0/changes.html'>HyperSpy 2.0 released!</a>",
     "external_links": [
         {
             "url": "https://hyperspy.org/hyperspy-doc/current",
@@ -64,7 +66,7 @@ html_theme_options = {
         "image_light": "_static/hyperspy_logo.png",
         "image_dark": "_static/hyperspy_logo.png",
     },
-    "announcement": "<a href='https://hyperspy.org/hyperspy-doc/v2.0/changes.html'>HyperSpy 2.0 released!</a>",
+    "navbar_align": "content",
     "secondary_sidebar_items": [],
 }
 

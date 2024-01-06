@@ -1,6 +1,6 @@
 
 .. post:: 2014-06-18
-   :tags: Training
+   :tags: training
 
 HyperSpy practical at the SuperSTEM Summer School
 =================================================

@@ -1,6 +1,6 @@
 
 .. post:: 2013-06-04
-   :tags: Training
+   :tags: training
 
 HyperSpy tutorial at the SFmu2013
 =================================

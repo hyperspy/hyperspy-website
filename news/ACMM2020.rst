@@ -1,7 +1,7 @@
 
 
 .. post:: 2019-10-01
-   :tags: Training
+   :tags: training
 
 HyperSpy Workshop at ACMM 2020
 ==============================

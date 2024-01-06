@@ -1,5 +1,5 @@
 .. post:: 2014-04-1
-   :tags: Training
+   :tags: training
 
 HyperSpy training at the IMC2014
 ================================

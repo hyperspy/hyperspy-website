@@ -1,7 +1,7 @@
 
 
 .. post:: 2018-10-01
-   :tags: Training
+   :tags: training
 
 HyperSpy Workshop at TU Delft
 =============================

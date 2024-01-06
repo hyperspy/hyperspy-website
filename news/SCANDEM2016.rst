@@ -1,6 +1,6 @@
 
 .. post:: 2016-03-18
-   :tags: Training
+   :tags: training
 
 HyperSpy workshop at SCANDEM2016
 ================================

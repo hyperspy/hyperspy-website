@@ -1,6 +1,6 @@
 
 .. post:: 2015-03-18
-   :tags: Training
+   :tags: training
 
 HyperSpy Workshop @ Cambridge (UK), 13th of April 2015
 ======================================================

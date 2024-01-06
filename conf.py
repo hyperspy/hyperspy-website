@@ -66,7 +66,7 @@ html_theme_options = {
         "image_light": "_static/hyperspy_logo.png",
         "image_dark": "_static/hyperspy_logo.png",
     },
-    "navbar_align": "content",
+    "navbar_persistent": [ ],
     "secondary_sidebar_items": [],
     "show_prev_next": False,
 }

@@ -23,8 +23,6 @@
    Open source Python framework for exploring, visualising and analysing 
    multi-dimensional data.
 
-
-
 .. grid:: 2 3 3 3
   :gutter: 4
 
@@ -69,6 +67,15 @@
     ^^^
 
     Developed by and for Scientists.
+
+
+.. rst-class:: text-center sd-font-weight-bold sd-fs-3
+   
+   Latest News
+
+.. postlist:: 2
+   :list-style: circle
+   :format: {title}
 
 
 .. rst-class:: text-center sd-font-weight-bold sd-fs-3

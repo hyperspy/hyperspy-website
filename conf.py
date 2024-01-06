@@ -19,6 +19,7 @@ extensions = [
     'sphinx.ext.intersphinx',
     'sphinx.ext.githubpages',
     'sphinx_favicon',
+    'sphinxcontrib.youtube',
 ]
 
 templates_path = ['_templates']

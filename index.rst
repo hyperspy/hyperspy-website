@@ -64,25 +64,27 @@
     :octicon:`table;2em;sd-text-info` Named and Scaled Axes
     ^^^
 
-    Two families of named and scaled axes: *signal* and *navigation*.
+    Two families of named and scaled axes: *signal* and *navigation* with support
+    for non-uniform axis.
 
   .. grid-item-card::
 
     :octicon:`zap;2em;sd-text-info` Performance
     ^^^
 
-    Built on top of NumPy, SciPy, matplotlib, dask and scikit-learn for high performance.
+    Built on top of NumPy, SciPy, Numba, Matplotlib, Dask and Scikit-learn for
+    high performance and stability.
 
   .. grid-item-card::
 
     :octicon:`rocket;2em;sd-text-info` Ecosystem
     ^^^
 
-    Modular design for easy extensibility and fostering of ecosystem.
+    Domain-specific libraries and modular design for easy extensibility.
 
   .. grid-item-card::
 
-    :octicon:`people;2em;sd-text-info` Community driven
+    :octicon:`people;2em;sd-text-info` Community Driven
     ^^^
 
     Developed by and for Scientists.

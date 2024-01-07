@@ -4,24 +4,43 @@
 
 .. toctree::
    :hidden:
-   
+
    news/index
 
+.. grid:: 1 2 2 2
 
-.. image:: _static/hyperspy_banner.png
-   :alt: HyperSpy logo
-   :class: logo, mainlogo, only-light
-   :align: center
+    .. grid-item::
+        :columns: 12 5 5 5
+        :child-align: center
 
-.. image:: _static/hyperspy_banner.png
-   :alt: HyperSpy logo
-   :class: logo, mainlogo, only-dark
-   :align: center
+        .. image:: _static/hyperspy_banner_light.png
+           :alt: HyperSpy logo
+           :class: logo, mainlogo, only-light
+           :align: center
+           :width: 400
 
-.. div:: sd-text-center sd-font-weight-bold sd-fs-4 sd-width-50
-   
-   Open source Python framework for exploring, visualising and analysing 
-   multi-dimensional data.
+        .. image:: _static/hyperspy_dark_banner.svg
+           :alt: HyperSpy logo
+           :class: logo, mainlogo, only-dark
+           :align: center
+           :width: 400
+
+
+    .. grid-item::
+        :columns: 12 7 7 7
+
+        .. div:: sd-text-left sd-font-weight-bold sd-fs-4 sd-width-50
+
+           Open source Python framework for exploring, visualising and analysing
+           multi-dimensional data
+
+        .. button-link:: https://hyperspy.org/hyperspy-doc/current/user_guide/index.html
+            :color: primary
+            :shadow:
+            :class: sd-rounded-3
+
+            :fa:`rocket` Get Started
+
 
 .. grid:: 2 3 3 3
   :gutter: 4
@@ -70,7 +89,7 @@
 
 
 .. rst-class:: text-center sd-font-weight-bold sd-fs-3
-   
+
    Latest News
 
 .. postlist:: 2
@@ -79,7 +98,7 @@
 
 
 .. rst-class:: text-center sd-font-weight-bold sd-fs-3
-   
+
    HyperSpy Ecosystem
 
 
@@ -125,7 +144,7 @@
       :link: https://kikuchipy.org/
 
       ^^^
-      Electron backscatter diffraction (EBSD) 
+      Electron backscatter diffraction (EBSD)
 
    .. grid-item-card:: LumiSpy
       :img-top: _static/lumispy.svg
@@ -141,7 +160,7 @@
       :link: https://atomap.org
 
       ^^^
-      Atomic resolution scanning transmission electron 
+      Atomic resolution scanning transmission electron
 
    .. grid-item-card:: HoloSpy
       :img-top: _static/hyperspy_logo.png

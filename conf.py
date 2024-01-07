@@ -53,7 +53,7 @@ html_theme_options = {
             "name": "Try",
         },
     ],
-    "github_url": "https://github.com/hyperspy/hyperspy",
+    "github_url": "https://github.com/hyperspy",
     "icon_links": [
         {
             "name": "Gitter",

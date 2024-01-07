@@ -179,3 +179,47 @@
 
       ^^^
       Streamlined user interface to HyperSpy
+
+
+.. rst-class:: text-center sd-font-weight-bold sd-fs-3
+
+   Support
+
+
+.. grid:: 2 2 4 4
+  :gutter: 4
+
+  .. grid-item-card::
+
+    User Guide
+    ^^^
+
+    Comprehensive documentation on how to use the various libraries, each
+    librairy have its own documentation
+
+  .. grid-item-card::
+
+    Tutorials
+    ^^^
+
+    Each library have tutorials in form of jupyter notebooks to demontrate
+    typically analysis workflows.
+
+  .. grid-item-card::
+
+    Workshops
+    ^^^
+
+    Attend one of the HyperSpy workshop orgenised regularly. See the :ref:`news_label`
+    for past and future workshops.
+
+  .. grid-item-card::
+
+    Chat
+    ^^^
+
+    Ask the HyperSpy Community on the Gitter chat.
+
+    .. image:: https://img.shields.io/gitter/room/hyperspy/hyperspy
+        :target: https://gitter.im/hyperspy/hyperspy
+        :alt: Gitter chat

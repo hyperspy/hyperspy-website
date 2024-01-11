@@ -50,22 +50,23 @@
     :octicon:`eye;2em;sd-text-info` Visualization
     ^^^
 
-    Visualization tools for multi-dimensional spectra and images.
+    Interactive visualization tools for multi-dimensional spectra and images.
 
   .. grid-item-card::
 
     :octicon:`gear;2em;sd-text-info` Analysis
     ^^^
 
-    Easy access multi-dimensional curve fitting and blind source separation.
+    Easy access to analytical tools that exploit the multi-dimensionality
+    of datasets, including curve fitting and blind source separation.
 
   .. grid-item-card::
 
     :octicon:`table;2em;sd-text-info` Named and Scaled Axes
     ^^^
 
-    Two families of named and scaled axes: *signal* and *navigation* with support
-    for non-uniform axis.
+    Two families of named and scaled axes: *signal* and *navigation* with powerful
+    numpy-style indexing mechanism and support for non-uniform axes.
 
   .. grid-item-card::
 
@@ -87,7 +88,7 @@
     :octicon:`people;2em;sd-text-info` Community Driven
     ^^^
 
-    Developed by and for Scientists.
+    Developed by scientists for scientists.
 
 
 .. rst-class:: text-center sd-font-weight-bold sd-fs-3
@@ -98,6 +99,8 @@
    :list-style: circle
    :format: {title}
 
+
+.. _ecosystem_label:
 
 .. rst-class:: text-center sd-font-weight-bold sd-fs-3
 
@@ -181,6 +184,8 @@
       Streamlined user interface to HyperSpy
 
 
+.. _support_label:
+
 .. rst-class:: text-center sd-font-weight-bold sd-fs-3
 
    Support
@@ -191,34 +196,35 @@
 
   .. grid-item-card::
 
-    User Guide
+    User Guides
     ^^^
 
-    Comprehensive documentation on how to use the various libraries, each
-    librairy have its own documentation
+    Comprehensive documentation on how to use `Hyperspy <https://hyperspy.org/hyperspy-doc/current>`_
+    and the various extensions that form the :ref:`Ecosystem <ecosystem_label>`.
 
   .. grid-item-card::
 
     Tutorials
     ^^^
 
-    Each library have tutorials in form of jupyter notebooks to demontrate
-    typically analysis workflows.
+    Tutorials in the form of jupyter notebooks to demonstrate typical analysis
+    workflows are hosted in dedicated repositories for each library, see e.g.
+    `HyperSpy demos <https://github.com/hyperspy/hyperspy-demos>`_.
 
   .. grid-item-card::
 
     Workshops
     ^^^
 
-    Attend one of the HyperSpy workshop orgenised regularly. See the :ref:`news_label`
-    for past and future workshops.
+    Attend one of the HyperSpy workshops orgenised regularly. Past and future
+    events can be found under :ref:`news_label`.
 
   .. grid-item-card::
 
     Chat
     ^^^
 
-    Ask the HyperSpy Community on the Gitter chat.
+    Ask the HyperSpy Community on the `Gitter chat <https://gitter.im/hyperspy/hyperspy>`_.
 
     .. image:: https://img.shields.io/gitter/room/hyperspy/hyperspy
         :target: https://gitter.im/hyperspy/hyperspy

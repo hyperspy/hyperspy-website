@@ -18,5 +18,5 @@ make html
 
 The news entries are managed using the [ABlog](https://ablog.readthedocs.io) Sphinx extension.
 
-- add a entry in the `news` folder
+- add an entry in the `news` folder
 - use the `post` directive

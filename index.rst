@@ -4,24 +4,43 @@
 
 .. toctree::
    :hidden:
-   
+
    news/index
 
+.. grid:: 1 2 2 2
 
-.. image:: _static/hyperspy_banner.png
-   :alt: HyperSpy logo
-   :class: logo, mainlogo, only-light
-   :align: center
+    .. grid-item::
+        :columns: 12 5 5 5
+        :child-align: center
 
-.. image:: _static/hyperspy_banner.png
-   :alt: HyperSpy logo
-   :class: logo, mainlogo, only-dark
-   :align: center
+        .. image:: _static/hyperspy_banner_light.png
+           :alt: HyperSpy logo
+           :class: logo, mainlogo, only-light
+           :align: center
+           :width: 400
 
-.. div:: sd-text-center sd-font-weight-bold sd-fs-4 sd-width-50
-   
-   Open source Python framework for exploring, visualising and analysing 
-   multi-dimensional data.
+        .. image:: _static/hyperspy_dark_banner.svg
+           :alt: HyperSpy logo
+           :class: logo, mainlogo, only-dark
+           :align: center
+           :width: 400
+
+
+    .. grid-item::
+        :columns: 12 7 7 7
+
+        .. div:: sd-text-left sd-font-weight-bold sd-fs-4 sd-width-50
+
+           Open source Python framework for exploring, visualising and analysing
+           multi-dimensional data
+
+        .. button-link:: https://hyperspy.org/hyperspy-doc/current/user_guide/index.html
+            :color: primary
+            :shadow:
+            :class: sd-rounded-3
+
+            :fa:`rocket` Get Started
+
 
 .. grid:: 2 3 3 3
   :gutter: 4
@@ -31,46 +50,49 @@
     :octicon:`eye;2em;sd-text-info` Visualization
     ^^^
 
-    Visualization tools for multi-dimensional spectra and images.
+    Interactive visualization tools for multi-dimensional spectra and images.
 
   .. grid-item-card::
 
     :octicon:`gear;2em;sd-text-info` Analysis
     ^^^
 
-    Easy access multi-dimensional curve fitting and blind source separation.
+    Easy access to analytical tools that exploit the multi-dimensionality
+    of datasets, including curve fitting and blind source separation.
 
   .. grid-item-card::
 
     :octicon:`table;2em;sd-text-info` Named and Scaled Axes
     ^^^
 
-    Two families of named and scaled axes: *signal* and *navigation*.
+    Two families of named and scaled axes: *signal* and *navigation* with powerful
+    numpy-style indexing mechanism and support for non-uniform axes.
 
   .. grid-item-card::
 
     :octicon:`zap;2em;sd-text-info` Performance
     ^^^
 
-    Built on top of NumPy, SciPy, matplotlib, dask and scikit-learn for high performance.
+    Built on top of NumPy, SciPy, Numba, Matplotlib, Dask and Scikit-learn for
+    high performance and stability.
 
   .. grid-item-card::
 
     :octicon:`rocket;2em;sd-text-info` Ecosystem
     ^^^
 
-    Modular design for easy extensibility and fostering of ecosystem.
+    Domain-specific libraries and modular design for easy extensibility.
 
   .. grid-item-card::
 
-    :octicon:`people;2em;sd-text-info` Community driven
+    :octicon:`people;2em;sd-text-info` Community Driven
     ^^^
 
-    Developed by and for Scientists.
+    Developed by scientists for scientists.
 
 
 .. rst-class:: text-center sd-font-weight-bold sd-fs-3
-   
+
    Latest News
 
 .. postlist:: 2
@@ -78,8 +100,10 @@
    :format: {title}
 
 
+.. _ecosystem_label:
+
 .. rst-class:: text-center sd-font-weight-bold sd-fs-3
-   
+
    HyperSpy Ecosystem
 
 
@@ -125,7 +149,7 @@
       :link: https://kikuchipy.org/
 
       ^^^
-      Electron backscatter diffraction (EBSD) 
+      Electron backscatter diffraction (EBSD)
 
    .. grid-item-card:: LumiSpy
       :img-top: _static/lumispy.svg
@@ -141,7 +165,7 @@
       :link: https://atomap.org
 
       ^^^
-      Atomic resolution scanning transmission electron 
+      Atomic resolution scanning transmission electron
 
    .. grid-item-card:: HoloSpy
       :img-top: _static/hyperspy_logo.png
@@ -158,3 +182,50 @@
 
       ^^^
       Streamlined user interface to HyperSpy
+
+
+.. _support_label:
+
+.. rst-class:: text-center sd-font-weight-bold sd-fs-3
+
+   Support
+
+
+.. grid:: 2 2 4 4
+  :gutter: 4
+
+  .. grid-item-card::
+
+    User Guides
+    ^^^
+
+    Comprehensive documentation on how to use `Hyperspy <https://hyperspy.org/hyperspy-doc/current>`_
+    and the various extensions that form the :ref:`Ecosystem <ecosystem_label>`.
+
+  .. grid-item-card::
+
+    Tutorials
+    ^^^
+
+    Tutorials in the form of jupyter notebooks to demonstrate typical analysis
+    workflows are hosted in dedicated repositories for each library, see e.g.
+    `HyperSpy demos <https://github.com/hyperspy/hyperspy-demos>`_.
+
+  .. grid-item-card::
+
+    Workshops
+    ^^^
+
+    Attend one of the HyperSpy workshops orgenised regularly. Past and future
+    events can be found under :ref:`news_label`.
+
+  .. grid-item-card::
+
+    Chat
+    ^^^
+
+    Ask the HyperSpy Community on the `Gitter chat <https://gitter.im/hyperspy/hyperspy>`_.
+
+    .. image:: https://img.shields.io/gitter/room/hyperspy/hyperspy
+        :target: https://gitter.im/hyperspy/hyperspy
+        :alt: Gitter chat

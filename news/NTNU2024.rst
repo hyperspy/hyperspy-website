@@ -1,0 +1,42 @@
+.. post:: 2024-01-12
+   :tags: training
+
+Analysis of 4D-STEM DATA @ NTNU, 11-13th of June 2024
+=====================================================
+
+A workshop on 4D-STEM (big) data analysis will be organized at NTNU in Trondheim, Norway,
+11-13th of June 2024. This year’s workshop will focus on how we can analyze (big) data from
+different 4D-STEM techniques and understand and utilize data from new detectors. New
+possibilities given by better cameras, post processing and data analysis have developed
+largely during the last years. In three days, invited experts and skilled educators in this field
+will address the essentials and the latest developments through hands-on practical computer
+sessions. The workshop will cover analysis of several types of 4D-STEM techniques, like
+scanning precession electron diffraction (SPED), ptychography and differential phase
+contrast (DPC). We will teach how to use various open-source scientific Python packages
+(including pyxem and Hyperspy) to analyze diffraction data, and in particular big datasets.
+
+
+We invite PhD students, postdocs and researchers working with 4D-STEM in the physical
+sciences to participate!
+
+See https://www.ntnu.edu/temgemini/nordtemhub for more details and updated info!
+
+
+Invited speakers and course leaders:
+------------------------------------
+
+• Timothy Pennycook, EMAT, Antwerp University, Belgium
+• Carter Francis, University of Wisconsin- Madison, USA
+• Local staff; Magnus Nord, Tina Bergh, Gregory Nordahl, Ruben Bjørge, Oskar Ryggetangen and more from NTNU, Norway
+
+Registration:
+-------------
+
+Participation is free, but you have to register before 15th May 2024.
+Registration can be done here; https://nettskjema.no/a/nordtemhub
+There will be a maximum of 50 participants. In case of large interest, priority will be given to
+early career scientists active in the field and a spread of different countries/labs.
+
+Questions?
+----------
+Contact Randi Holmestad, randi.holmestad@ntnu.no, Department of Physics, NTNU

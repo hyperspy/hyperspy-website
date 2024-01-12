@@ -5,6 +5,7 @@
 .. toctree::
    :hidden:
 
+   about.rst
    news/index
 
 .. grid:: 1 2 2 2

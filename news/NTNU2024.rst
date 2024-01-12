@@ -1,8 +1,8 @@
 .. post:: 2024-01-12
    :tags: training
 
-Analysis of 4-D STEM DATA @ NTNU, 11-1th of Jun 2024
-====================================================
+Analysis of 4D-STEM DATA @ NTNU, 11-13th of June 2024
+=====================================================
 
 A workshop on 4D-STEM (big) data analysis will be organized at NTNU in Trondheim, Norway,
 11-13th of June 2024. This year’s workshop will focus on how we can analyze (big) data from
@@ -39,4 +39,4 @@ early career scientists active in the field and a spread of different countries/
 
 Questions?
 ----------
-Contact Randi Holmestad, randi.holmestad@ntnu.no, Department
+Contact Randi Holmestad, randi.holmestad@ntnu.no, Department of Physics, NTNU

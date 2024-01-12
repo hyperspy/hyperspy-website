@@ -95,7 +95,7 @@
 
    Latest News
 
-.. postlist:: 2
+.. postlist:: 3
    :list-style: circle
    :format: {title}
 

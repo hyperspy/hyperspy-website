@@ -2,7 +2,7 @@
 .. post:: 2023-01-01
    :tags: training
 
-HyperSpy/LumiSpt Tutorial @ CLEBIC, March 22-24, 2023
+HyperSpy/LumiSpy Tutorial @ CLEBIC, March 22-24, 2023
 =====================================================
 
 The 2nd Workshop on Cathodoluminescence and Electron Beam Induced Current of Semiconductor 

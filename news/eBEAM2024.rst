@@ -2,7 +2,7 @@
 .. post:: 2024-01-11
    :tags: training
 
-HyperSpy lecture and tutorial @ eBEAM summer school, Sept. 1-13, 2023
+HyperSpy lecture and tutorial @ eBEAM summer school, Sept. 1-13, 2024
 =====================================================================
 
 The `summer School on Nano-optics with Free Electrons (eBEAM 2024) 

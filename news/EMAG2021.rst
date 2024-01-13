@@ -1,0 +1,15 @@
+
+.. post:: 2021-04-01
+   :tags: training
+
+HyperSpy Workshop @ MMC/EMAG 2021
+=================================
+
+We are happy to announce a HyperSpy workshop at the `Microscience Microscopy Congress 2021 (MMMC/EMAG 2021) <https://www.mmc-series.org.uk/mmc2021/>`_ will take place online on the 5th of July 2021.
+
+The teaching material is available in the https://github.com/TomSlater/EMAG_hyperspy_workshop_2021 repository.
+
+.. image:: https://www.mmc-series.org.uk/assets/img/mini-site/mmc2021logo.jpg
+    :alt: MMC logo
+    :width: 200
+    :target: https://www.mmc-series.org.uk/mmc2021

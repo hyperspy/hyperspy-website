@@ -1,0 +1,15 @@
+
+.. post:: 2024-01-06
+   :tags: training, EMC
+
+HyperSpy Workshop @ EMC2024, 25th of August 2024
+================================================
+
+We are happy to announce a HyperSpy workshop at the `European Microscopy Congress (EMC 2024) <https://emc2024.eu/>`_. The workshop will take place on the 25th of August 2024 in Copenhagen, Denmark.
+
+More information `at the conference website <https://emc2024.eu/programme/pre-conference-workshops>`_. 
+
+.. image:: https://emc2024.eu/____impro/1/onewebmedia/emc2024%20logo%20%281%29.png
+    :alt: EMC2024 logo
+    :width: 400
+    :target: https://emc2024.eu

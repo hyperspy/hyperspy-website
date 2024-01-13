@@ -1,12 +1,11 @@
+
+
+.. post:: 2018-02-28
+
 New interactive demos
 =====================
 
-.. feed-entry::
-   :date: 2018-02-28
-   
 Interactive demos have been added to HyperSpy!
-
-.. cut::
 
 The demos (available in the |hyperspy-demos| repository) are Jupyter notebooks and have
 been updated to be compatible with the latest version of HyperSpy.
@@ -20,7 +19,7 @@ See the |readme| of |hyperspy-demos| for more instructions and details on how to
 
 .. |readme| raw:: html
 
-    <a href="https://github.com/hyperspy/hyperspy-demos/blob/master/README.md" target="_blank">README</a>
+    <a href="https://github.com/hyperspy/hyperspy-demos/blob/main/README.md" target="_blank">README</a>
 
 Everybody is encouraged to contribute to the demos by making a |pullrequest| to the |hyperspy-demos|
 Github repository, or by email to the |mailinglist|.

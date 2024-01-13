@@ -1,0 +1,18 @@
+
+
+.. post:: 2021-03-01
+   :tags: training, M&M
+
+HyperSpy Workshop at M&M 2021
+=============================
+
+We are happy to announce a HyperSpy workshop at the `Microscopy and Microanalysis 2021 (M&M 2021) <https://microscopy.org/past-m-m-meetings>`_. The workshop will take place online on the 1st of August 2021.
+
+More information `at the conference website <https://microscopy.org/files/galleries/MM21_Event-Site-PDF.pdf>`_ and 
+on the `workshop website <https://pages.nist.gov/hyperspy_tutorial>`_. 
+
+The teaching material is available in the https://github.com/usnistgov/hyperspy_tutorial/tree/2021-08-01_MandM_short_course repository.
+
+.. image:: https://microscopy.org/files/_cache/b0d877a6c2083a2f973163d5e3f708f8.jpg
+    :alt: M&M2021 logo
+    :width: 400

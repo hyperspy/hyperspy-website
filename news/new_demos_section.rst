@@ -1,14 +1,12 @@
+
+.. post:: 2014-06-19
+
 New demos section
 =================
 
-.. feed-entry::
-   :date: 2014-06-19
-
 The examples section in the HyperSpy website has been replaced by a new `demos
-<https://nbviewer.ipython.org/github/hyperspy/hyperspy-demos/tree/master/>`_
+<https://nbviewer.jupyter.org/github/hyperspy/hyperspy-demos/tree/main/>`_
 section.
-
-.. cut::
 
 The demos are
 in the form of IPython notebooks and contain examples of usage. They can be

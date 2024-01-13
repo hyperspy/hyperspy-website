@@ -1,0 +1,18 @@
+
+
+.. post:: 2019-03-01
+   :tags: training, M&M
+
+HyperSpy Workshop at M&M 2019
+=============================
+
+We are happy to announce a HyperSpy workshop at the `Microscopy and Microanalysis 2019 (M&M 2019) <https://microscopy.org/past-m-m-meetings>`_. The workshop will take place on the 4th of August 2019 in Portland (US-OR).
+
+More information `at the conference website <https://microscopy.org/files/galleries/MM19_Event-Site-PDF.pdf>`_ and 
+on the `workshop website <https://pages.nist.gov/hyperspy_tutorial>`_. 
+
+The teaching material is available in the https://github.com/usnistgov/hyperspy_tutorial/tree/2019-08-04_MandM_short_course repository.
+
+.. image:: https://microscopy.org/files/_cache/93ff5d679737d647d95fb9d4d2c396a2.jpg
+    :alt: M&M2019 logo
+    :width: 400

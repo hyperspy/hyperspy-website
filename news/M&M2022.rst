@@ -1,0 +1,18 @@
+
+
+.. post:: 2022-03-01
+   :tags: training, M&M
+
+HyperSpy Workshop at M&M 2022
+=============================
+
+We are happy to announce a HyperSpy workshop at the `Microscopy and Microanalysis 2022 (M&M 2022) <https://microscopy.org/past-m-m-meetings>`_. The workshop will take place online on the 31st of July 2022.
+
+More information `at the conference website <https://microscopy.org/files/galleries/MM22_Event-Site-PDF.pdf>`_ and 
+on the `workshop website <https://pages.nist.gov/hyperspy_tutorial>`_. 
+
+The teaching material is available in the https://github.com/usnistgov/hyperspy_tutorial/tree/2022-07-31_MandM_short_course repository.
+
+.. image:: https://microscopy.org/files/_cache/3622cd884b1cfeecafa239c5e9e16319.jpg
+    :alt: M&M2022 logo
+    :width: 400

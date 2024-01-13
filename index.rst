@@ -1,61 +1,239 @@
-=================================================
-HyperSpy: multi-dimensional data analysis toolbox
-=================================================
+:sd_hide_title:
 
-HyperSpy is an open source Python library which provides tools to facilitate
-the interactive data analysis of multi-dimensional datasets that can be
-described as multi-dimensional arrays of a given signal (e.g. a 2D array of
-spectra a.k.a spectrum image).
+.. title:: Home
 
-HyperSpy aims at making it easy and natural to apply analytical procedures that
-operate on an individual signal to multi-dimensional arrays, as well as
-providing easy access to analytical tools that exploit the multi-dimensionality
-of the dataset.
+.. toctree::
+   :hidden:
 
-Its modular structure makes it easy to add features to analyze different kinds
-of signals.
+   about.rst
+   news/index
 
-Help fight COVID 19
-===================
+.. grid:: 1 2 2 2
 
-.. image:: images/CDC-coronavirus-image-23311-for-web.jpg
-    :width: 100pt
+    .. grid-item::
+        :columns: 12 5 5 5
+        :child-align: center
 
-If you are interested in HyperSpy, chances are that your skills can be useful to
-help fighting `SARS-CoV-2
-<https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus_2>`_
-aka COVID 19. Therefore, please consider contributing to the following two
-projects:
+        .. image:: _static/hyperspy_banner_light.png
+           :alt: HyperSpy logo
+           :class: logo, mainlogo, only-light
+           :align: center
+           :width: 400
 
-* `COVID-19 Open-Source Helpdesk <https://discourse.covid-oss-help.org/>`_
-* `Crowdfight COVID-19 <https://crowdfightcovid19.org/>`_
-
-Highlights
-==========
+        .. image:: _static/hyperspy_dark_banner.svg
+           :alt: HyperSpy logo
+           :class: logo, mainlogo, only-dark
+           :align: center
+           :width: 400
 
 
-* Two families of named and scaled axes: *signal* and *navigation*.
-* Visualization tools for multi-dimensional spectra and images.
-* Easy access multi-dimensional curve fitting and blind source separation.
-* Built on top of NumPy, SciPy, matplotlib and scikit-learn.
-* Modular design for easy extensibility.
+    .. grid-item::
+        :columns: 12 7 7 7
 
-The development has been motivated by the data analysis needs of the
-electron microscopy community but it is proving useful in many other fields.
+        .. div:: sd-text-left sd-font-weight-bold sd-fs-4 sd-width-50
 
-Endorsements
-============
+           Open source Python framework for exploring, visualizing and analyzing
+           multi-dimensional data
 
-Here is some of what our users say about Hyperspy:
+        .. button-link:: https://hyperspy.org/hyperspy-doc/current/user_guide/index.html
+            :color: primary
+            :shadow:
+            :class: sd-rounded-3
 
-(`Click here to add your thank you note <https://saythanks.io/to/hyperspy>`_)
+            :fa:`rocket` Get Started
 
-.. epigraph::
 
-   Hyperspy made it easy to process EELS and EDS data for presentation in my thesis!
+.. grid:: 2 3 3 3
+  :gutter: 4
 
-   -- Tom Aarholt, University of Oxford
+  .. grid-item-card::
 
-   My answer to any (S)TEM data analyses problem - use HyperSpy
+    :octicon:`eye;2em;sd-text-info` Visualization
+    ^^^
 
-   -- Vadim Migunov, Ernst Ruska-Centre (ER-C), Research Centre Juelich
+    Interactive :external+hyperspy:ref:`visualization tools <visualization-label>`
+    for multi-dimensional spectra and images.
+
+  .. grid-item-card::
+
+    :octicon:`gear;2em;sd-text-info` Analysis
+    ^^^
+
+    Easy access to analytical tools that exploit the multi-dimensionality
+    of datasets, including :external+hyperspy:ref:`curve fitting <model-label>`
+    and :external+hyperspy:ref:`blind source separation<ml-label>`.
+
+  .. grid-item-card::
+
+    :octicon:`table;2em;sd-text-info` Named and Scaled Axes
+    ^^^
+
+    :external+hyperspy:ref:`Two families of axes <axes-handling>`: *signal* and
+    *navigation* with powerful numpy-style indexing mechanism and support for
+    non-uniform axes.
+
+  .. grid-item-card::
+
+    :octicon:`zap;2em;sd-text-info` Performance
+    ^^^
+
+    Built on top of `NumPy <https://numpy.org>`_, `SciPy <https://scipy.org>`_,
+    `Numba <https://numba.pydata.org/>`_, `Matplotlib <https://matplotlib.org>`_,
+    `Dask <https://dask.org>`_ and `Scikit-learn <https://scikit-learn.org>`_ for
+    high performance and stability.
+
+  .. grid-item-card::
+
+    :octicon:`rocket;2em;sd-text-info` Ecosystem
+    ^^^
+
+    :ref:`Domain-specific libraries <ecosystem_label>` and modular design for
+    :external+hyperspy:ref:`easy extensibility <writing_extensions-label>`.
+
+  .. grid-item-card::
+
+    :octicon:`people;2em;sd-text-info` Community Driven
+    ^^^
+
+    :external+hyperspy:ref:`Developed and maintained <development>` by scientists
+    for scientists.
+
+
+.. rst-class:: text-center sd-font-weight-bold sd-fs-3
+
+   Latest News
+
+.. postlist:: 3
+   :list-style: circle
+   :format: {title}
+
+
+.. _ecosystem_label:
+
+.. rst-class:: text-center sd-font-weight-bold sd-fs-3
+
+   HyperSpy Ecosystem
+
+
+.. grid:: 2 3 4 5
+   :gutter: 3
+
+   .. grid-item-card:: HyperSpy
+      :img-top: _static/hyperspy_logo.png
+      :img-alt:
+      :link: https://hyperspy.org/hyperspy-doc/current
+
+      ^^^
+      Generic multi-dimensional data analysis toolbox
+
+   .. grid-item-card:: RosettaSciIO
+      :img-top: _static/rosettasciio.svg
+      :img-alt:
+      :link: https://hyperspy.org/rosettasciio/
+
+      ^^^
+      Reading and writing scientific data formats
+
+
+   .. grid-item-card:: exSpy
+      :img-top: _static/hyperspy_logo.png
+      :img-alt:
+      :link: https://hyperspy.org/exspy
+
+      ^^^
+      X-rays Energy Dispersive Spectroscopy (EDS) and Electron Energy Loss Spectroscopy (EELS)
+
+   .. grid-item-card:: pyxem
+      :img-top: _static/pyxem.png
+      :img-alt:
+      :link: https://pyxem.readthedocs.io
+
+      ^^^
+      Electron diffraction data (4DSTEM)
+
+   .. grid-item-card:: kikuchipy
+      :img-top: _static/kikuchipy.svg
+      :img-alt:
+      :link: https://kikuchipy.org/
+
+      ^^^
+      Electron backscatter diffraction (EBSD)
+
+   .. grid-item-card:: LumiSpy
+      :img-top: _static/lumispy.svg
+      :img-alt:
+      :link: https://docs.lumispy.org
+
+      ^^^
+      Luminescence spectroscopy (cathodoluminescence, photoluminescence, Raman)
+
+   .. grid-item-card:: atomap
+      :img-top: _static/atomaplogo.png
+      :img-alt:
+      :link: https://atomap.org
+
+      ^^^
+      Atomic resolution scanning transmission electron
+
+   .. grid-item-card:: HoloSpy
+      :img-top: _static/hyperspy_logo.png
+      :img-alt:
+      :link: https://hyperspy.org/holospy
+
+      ^^^
+      Off-axis electron holograph
+
+   .. grid-item-card:: HyperSpyUI
+      :img-top: _static/hyperspyui_logo.png
+      :img-alt:
+      :link: https://hyperspy.org/hyperspyUI
+
+      ^^^
+      Streamlined user interface to HyperSpy
+
+
+.. _support_label:
+
+.. rst-class:: text-center sd-font-weight-bold sd-fs-3
+
+   Support
+
+
+.. grid:: 2 2 4 4
+  :gutter: 4
+
+  .. grid-item-card::
+
+    User Guides
+    ^^^
+
+    Comprehensive documentation on how to use `Hyperspy <https://hyperspy.org/hyperspy-doc/current>`_
+    and the various extensions that form the :ref:`Ecosystem <ecosystem_label>`.
+
+  .. grid-item-card::
+
+    Tutorials
+    ^^^
+
+    Tutorials in the form of jupyter notebooks to demonstrate typical analysis
+    workflows are hosted in dedicated repositories for each library, see e.g.
+    `HyperSpy demos <https://github.com/hyperspy/hyperspy-demos>`_.
+
+  .. grid-item-card::
+
+    Workshops
+    ^^^
+
+    Attend one of the HyperSpy workshops orgenised regularly. Past and future
+    events can be found under :ref:`news_label`.
+
+  .. grid-item-card::
+
+    Chat
+    ^^^
+
+    Ask the HyperSpy Community on the `Gitter chat <https://gitter.im/hyperspy/hyperspy>`_.
+
+    .. image:: https://img.shields.io/gitter/room/hyperspy/hyperspy
+        :target: https://gitter.im/hyperspy/hyperspy
+        :alt: Gitter chat

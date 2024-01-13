@@ -1,0 +1,13 @@
+
+
+.. post:: 2019-10-01
+   :tags: training
+
+HyperSpy Workshop at ACMM 2020
+==============================
+
+We are happy to announce a HyperSpy workshop at the `26th Australian Conference on Microscopy and Microanalysis (ACMM 2020) <https://microscopy.org.au/events/>`_. The workshop will take place on the 15th of February 2020 in Canberra (AU).
+
+More information on the `workshop website <https://ericpre.github.io/hyperspy_tutorial>`_. 
+
+The teaching material is available in the https://github.com/ericpre/hyperspy_tutorial/tree/2020-02-15_ACMM_workshop repository.

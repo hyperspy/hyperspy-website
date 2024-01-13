@@ -5,6 +5,7 @@
 .. toctree::
    :hidden:
 
+   about.rst
    news/index
 
 .. grid:: 1 2 2 2
@@ -31,7 +32,7 @@
 
         .. div:: sd-text-left sd-font-weight-bold sd-fs-4 sd-width-50
 
-           Open source Python framework for exploring, visualising and analysing
+           Open source Python framework for exploring, visualizing and analyzing
            multi-dimensional data
 
         .. button-link:: https://hyperspy.org/hyperspy-doc/current/user_guide/index.html
@@ -50,7 +51,8 @@
     :octicon:`eye;2em;sd-text-info` Visualization
     ^^^
 
-    Interactive visualization tools for multi-dimensional spectra and images.
+    Interactive :external+hyperspy:ref:`visualization tools <visualization-label>`
+    for multi-dimensional spectra and images.
 
   .. grid-item-card::
 
@@ -58,22 +60,26 @@
     ^^^
 
     Easy access to analytical tools that exploit the multi-dimensionality
-    of datasets, including curve fitting and blind source separation.
+    of datasets, including :external+hyperspy:ref:`curve fitting <model-label>`
+    and :external+hyperspy:ref:`blind source separation<ml-label>`.
 
   .. grid-item-card::
 
     :octicon:`table;2em;sd-text-info` Named and Scaled Axes
     ^^^
 
-    Two families of named and scaled axes: *signal* and *navigation* with powerful
-    numpy-style indexing mechanism and support for non-uniform axes.
+    :external+hyperspy:ref:`Two families of axes <axes-handling>`: *signal* and
+    *navigation* with powerful numpy-style indexing mechanism and support for
+    non-uniform axes.
 
   .. grid-item-card::
 
     :octicon:`zap;2em;sd-text-info` Performance
     ^^^
 
-    Built on top of NumPy, SciPy, Numba, Matplotlib, Dask and Scikit-learn for
+    Built on top of `NumPy <https://numpy.org>`_, `SciPy <https://scipy.org>`_,
+    `Numba <https://numba.pydata.org/>`_, `Matplotlib <https://matplotlib.org>`_,
+    `Dask <https://dask.org>`_ and `Scikit-learn <https://scikit-learn.org>`_ for
     high performance and stability.
 
   .. grid-item-card::
@@ -81,14 +87,16 @@
     :octicon:`rocket;2em;sd-text-info` Ecosystem
     ^^^
 
-    Domain-specific libraries and modular design for easy extensibility.
+    :ref:`Domain-specific libraries <ecosystem_label>` and modular design for
+    :external+hyperspy:ref:`easy extensibility <writing_extensions-label>`.
 
   .. grid-item-card::
 
     :octicon:`people;2em;sd-text-info` Community Driven
     ^^^
 
-    Developed by scientists for scientists.
+    :external+hyperspy:ref:`Developed and maintained <development>` by scientists
+    for scientists.
 
 
 .. rst-class:: text-center sd-font-weight-bold sd-fs-3

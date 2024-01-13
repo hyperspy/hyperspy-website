@@ -25,7 +25,9 @@ extensions = [
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
-
+intersphinx_mapping = {
+    "hyperspy": ("https://hyperspy.org/hyperspy-doc/current/", None),
+}
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
@@ -39,7 +41,7 @@ favicons = ["hyperspy_logo.ico", ]
 
 
 html_theme_options = {
-    "announcement": "<a href='https://hyperspy.org/hyperspy-doc/v2.0/changes.html'>HyperSpy 2.0 released!</a>",
+    "announcement": "<font size='+1'><b><a href='https://hyperspy.org/hyperspy-doc/v2.0/changes.html'>HyperSpy 2.0 released!</a></b></font>",
     "external_links": [
         {
             "url": "https://hyperspy.org/hyperspy-doc/current",

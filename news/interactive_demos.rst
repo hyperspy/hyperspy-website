@@ -1,6 +1,6 @@
-
-
 .. post:: 2018-02-28
+   :tags: demos
+   :category: news
 
 New interactive demos
 =====================

@@ -1,6 +1,6 @@
-
 .. post:: 2023-01-01
-   :tags: training
+   :tags: training, lumiSpy
+   :category: event
 
 HyperSpy/LumiSpy Tutorial @ CLEBIC, March 22-24, 2023
 =====================================================

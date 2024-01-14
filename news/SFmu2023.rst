@@ -1,6 +1,6 @@
-
 .. post:: 2023-03-01
-   :tags: training
+   :tags: training, SFµ, lumiSpy, pyxem
+   :category: event
 
 HyperSpy Training Workshop @ 18e colloque SFµ, July 3-4, 2023
 =============================================================

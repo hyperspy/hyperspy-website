@@ -1,6 +1,6 @@
-
 .. post:: 2023-02-01
    :tags: training, diamond
+   :category: event
 
 HyperSpy Workshop @ Diamond, 22-26th of May 2023
 ================================================

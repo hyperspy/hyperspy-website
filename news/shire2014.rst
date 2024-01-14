@@ -1,6 +1,6 @@
-
 .. post:: 2014-04-1
    :tags: training
+   :category: event
 
 HyperSpy talks and training at SHIRE2014
 ========================================

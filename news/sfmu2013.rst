@@ -1,9 +1,9 @@
-
 .. post:: 2013-06-04
    :tags: training
+   :category: event
 
-HyperSpy tutorial at the SFmu2013
+HyperSpy tutorial at the SFµ 2013
 =================================
 
 A tutorial on analysis of multidimensional spectra using HyperSpy is 
-available as part of the official program of SFMu 2013.
+available as part of the official program of SFµ 2013.

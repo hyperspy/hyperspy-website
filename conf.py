@@ -6,6 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
+import sys
+from os import path
+
 project = 'HyperSpy'
 copyright = '2024, The HyperSpy community'
 author = 'The HyperSpy community'
@@ -20,6 +23,7 @@ extensions = [
     'sphinx.ext.githubpages',
     'sphinx_favicon',
     'sphinxcontrib.youtube',
+    'selective_css',
 ]
 
 templates_path = ['_templates']
@@ -82,15 +86,14 @@ blog_authors = {
 }
 
 html_sidebars = {
-    # Blog sidebars
     "news/**": [
         "ablog/postcard.html",
         "ablog/recentposts.html",
         "ablog/tagcloud.html",
         "ablog/categories.html",
         "ablog/authors.html",
-        "ablog/languages.html",
-        "ablog/locations.html",
-        "ablog/archives.html",
     ],
 }
+
+# add path to local sphinx extensions
+sys.path.append(path.join(path.dirname(path.abspath(__file__)), "extensions"))

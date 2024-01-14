@@ -1,11 +1,12 @@
 :sd_hide_title:
+:html_theme.sidebar_secondary.remove:
 
 .. title:: Home
 
 .. toctree::
    :hidden:
 
-   about.rst
+   sections/about
    news/index
 
 .. grid:: 1 2 2 2

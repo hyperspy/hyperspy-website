@@ -1,3 +1,5 @@
 .bd-main .bd-content .bd-article-container {
   max-width: 90%;  /* default is 60em */
 }
+
+table, tr, td, th { border: none; }

@@ -6,12 +6,4 @@
 HyperSpy workshop at EMC2016
 ============================
 
-We are happy to announce a HyperSpy workshop at the `16th European Microscopy Congress (EMC 2016) <https://emc2016.fr>`_. The workshop will take place on the 27th of August 2016 in Lyon, France.
-
-
-More information and registration `at the conference website
-<https://emc2016.fr/en/pre-congress>`_. 
-
-.. image:: https://emc2016.mycongressonline.net/custom_css/emc2016/banner.jpg 
-    :alt: EMC2016 logo
-    :width: 400
+We are happy to announce a HyperSpy workshop at the 16th European Microscopy Congress (EMC 2016). The workshop will take place on the 27th of August 2016 in Lyon, France.

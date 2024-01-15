@@ -1,6 +1,6 @@
-
 .. post:: 2021-05-01
    :tags: training
+   :category: event
 
 HyperSpy Workshop @ CSBMM 2021
 ==============================

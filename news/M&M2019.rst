@@ -1,7 +1,6 @@
-
-
 .. post:: 2019-03-01
    :tags: training, M&M
+   :category: event
 
 HyperSpy Workshop at M&M 2019
 =============================

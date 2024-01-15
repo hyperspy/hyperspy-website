@@ -1,4 +1,6 @@
 .. post:: 2015-04-15
+   :tags: doi
+   :category: news
 
 Citing HyperSpy
 ===============

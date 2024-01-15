@@ -1,5 +1,6 @@
-
 .. post:: 2016-06-17
+   :tags: demos
+   :category: news
 
 New demos added
 ===============

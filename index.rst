@@ -19,13 +19,13 @@
            :alt: HyperSpy logo
            :class: logo, mainlogo, only-light
            :align: center
-           :width: 400
+           :width: 500
 
         .. image:: _static/hyperspy_dark_banner.svg
            :alt: HyperSpy logo
            :class: logo, mainlogo, only-dark
            :align: center
-           :width: 400
+           :width: 500
 
 
     .. grid-item::

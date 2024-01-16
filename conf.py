@@ -66,9 +66,9 @@ html_theme_options = {
         },
     ],
     "logo": {
-        "text": "HyperSpy",
-        "image_light": "_static/hyperspy_logo.png",
-        "image_dark": "_static/hyperspy_logo.png",
+        "alt_text": "HyperSpy",
+        "image_light": "_static/hyperspy-banner-small-light.svg",
+        "image_dark": "_static/hyperspy-banner-small-dark.svg",
     },
     "navbar_persistent": [ ],
     "secondary_sidebar_items": [],

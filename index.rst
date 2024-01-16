@@ -14,7 +14,7 @@
         :columns: 12 5 5 5
         :child-align: center
 
-        .. image:: _static/hyperspy_banner_light.png
+        .. image:: _static/hyperspy_light_banner.svg
            :alt: HyperSpy logo
            :class: logo, mainlogo, only-light
            :align: center
@@ -118,8 +118,14 @@
    :widths: 12 5 30
    :header-rows: 0
 
-   * - .. image:: _static/hyperspy_logo.png
+   * - .. image:: _static/hyperspy-banner-small-light.svg
            :alt: HyperSpy logo
+           :class: only-light
+           :target: https://hyperspy.org
+           :height: 50
+       .. image:: _static/hyperspy-banner-small-dark.svg
+           :alt: HyperSpy logo
+           :class: only-dark
            :target: https://hyperspy.org
            :height: 50
      - `HyperSpy <https://hyperspy.org>`_
@@ -148,7 +154,7 @@
            :height: 50
      - `eXSpy <https://hyperspy.org/exspy>`_
      - X-rays Energy Dispersive Spectroscopy (EDS) and Electron Energy Loss Spectroscopy (EELS) data analysis
-   * - .. image:: _static/pyxem.png
+   * - .. image:: _static/pyxem-banner.png
            :alt: pyxem logo
            :target: https://pyxem.readthedocs.io
            :height: 50

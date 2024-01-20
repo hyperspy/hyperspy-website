@@ -86,6 +86,7 @@ blog_authors = {
 }
 
 html_sidebars = {
+    "sections/**": [ ],
     "news/**": [
         "ablog/postcard.html",
         "ablog/recentposts.html",

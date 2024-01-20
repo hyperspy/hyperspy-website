@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
 
 html {
-    --pst-font-family-base: Noto Sans, var(--pst-font-family-base-system); 
-    --pst-font-family-heading: Noto Sans, var(--pst-font-family-base-system);
+    --pst-font-family-base: Lato, var(--pst-font-family-base-system); 
+    --pst-font-family-heading: Lato, var(--pst-font-family-base-system);
     --pst-font-family-monospace: var(--pst-font-family-monospace-system);
 }
 

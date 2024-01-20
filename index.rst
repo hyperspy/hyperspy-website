@@ -15,7 +15,7 @@
         :columns: 12 5 5 5
         :child-align: center
 
-        .. image:: _static/hyperspy_banner_light.png
+        .. image:: _static/hyperspy_light_banner.svg
            :alt: HyperSpy logo
            :class: logo, mainlogo, only-light
            :align: center

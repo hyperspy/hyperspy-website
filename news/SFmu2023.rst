@@ -6,7 +6,7 @@ HyperSpy Training Workshop @ 18e colloque SFµ, July 3-4, 2023
 =============================================================
 
 A pre-conference training workshop on HyperSpy will be held at the 18e Colloque
-de la Société Française des Microscopies (SFµ) in Rouen on July 2023. The workshop
+de la Société Française des Microscopies (SFµ) in Rouen on July 3-4 2023. The workshop
 will feature an introductory talk and hands-on tutorials on HyperSpy, EELS analysis,
 EDX analysis, Diffraction and LumiSpy. See the `conference website 
 <https://colloque2023.sfmu.fr/index.php/2023/02/20/atelier-3-hyperspy>`_

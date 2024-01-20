@@ -17,6 +17,6 @@ The jupyter notebook used during the tutorial can be find in the `LumiSpy demos
 <https://github.com/LumiSpy/lumispy-demos/blob/main/Workshops/230324_CLEBIC_HyperSpy-LumiSpy.ipynb>`_ repository.
 
 .. image:: https://clebic2023.sciencesconf.org/data/header/LOGO_CLEBIC_909.png
-    :alt: Diamond logo
+    :alt: CLEBIC banner
     :width: 600
     :target: https://clebic2023.sciencesconf.org/resource/page/id/11

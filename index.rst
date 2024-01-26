@@ -202,6 +202,12 @@
            :height: 50
      - `holoSpy <https://hyperspy.org/holospy>`_
      - Off-axis electron holography data analysis
+   * - .. image:: _static/hyperspy_logo.png
+           :alt: ParticleSpy logo
+           :target: https://epsic-dls.github.io/particlespy
+           :height: 50
+     - `ParticleSpy <https://epsic-dls.github.io/particlespy>`_
+     -  Segmentation and analysis of nanoparticles from electron microscopy data
    * - .. image:: _static/hyperspyui_logo.png
            :alt: HyperSpyUI logo
            :target: https://hyperspy.org/hyperspyUI

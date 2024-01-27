@@ -1,3 +1,21 @@
-.bd-main .bd-content .bd-article-container {
-  max-width: 90%;  /* default is 60em */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+html {
+    --pst-font-family-base: Lato, var(--pst-font-family-base-system); 
+    --pst-font-family-heading: Lato, var(--pst-font-family-base-system);
+    --pst-font-family-monospace: var(--pst-font-family-monospace-system);
+}
+
+/* Make icon after external links in the navbar less obvious */
+.nav-link.nav-external::after {
+    opacity: 0.4;
+}
+
+/* Make links in top bar bigger */
+@media (min-width:960px) {
+
+    .nav-item,
+    .btn.nav-item {
+        font-size: 1.1rem;
+    }
 }

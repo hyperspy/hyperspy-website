@@ -1,6 +1,6 @@
-
 .. post:: 2023-03-01
-   :tags: training
+   :tags: training, lumiSpy, pyxem, kikuchipy
+   :category: event
 
 Open Source Data Analysis Workshop @ IUMAS-8, June 12, 2023
 ===========================================================

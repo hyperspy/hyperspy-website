@@ -1,6 +1,6 @@
-
 .. post:: 2019-02-01
    :tags: training, diamond
+   :category: event
 
 HyperSpy Workshop @ Diamond, 14-15th of March 2019
 ==================================================

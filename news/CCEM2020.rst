@@ -1,6 +1,6 @@
-
 .. post:: 2020-03-01
    :tags: training, videos
+   :category: event
 
 HyperSpy Lectures @ CCEM Workshop
 =================================

@@ -1,11 +1,12 @@
 :sd_hide_title:
+:html_theme.sidebar_secondary.remove:
 
 .. title:: Home
 
 .. toctree::
    :hidden:
 
-   about.rst
+   sections/about
    news/index
 
 .. grid:: 1 2 2 2
@@ -18,13 +19,13 @@
            :alt: HyperSpy logo
            :class: logo, mainlogo, only-light
            :align: center
-           :width: 400
+           :width: 500
 
         .. image:: _static/hyperspy_dark_banner.svg
            :alt: HyperSpy logo
            :class: logo, mainlogo, only-dark
            :align: center
-           :width: 400
+           :width: 500
 
 
     .. grid-item::

@@ -1,4 +1,6 @@
 .. post:: 2012-02-29
+   :tags: plugins
+   :category: news
 
 New release of ImportRPL
 ========================

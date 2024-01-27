@@ -42,6 +42,9 @@ favicons = ["hyperspy_logo.ico", ]
 
 
 html_theme_options = {
+    "analytics": {
+        "google_analytics_id": "G-B0XD0GTW1M",
+    },
     "announcement": "<font size='+1'><b><a href='https://hyperspy.org/hyperspy-doc/v2.0/changes.html'>HyperSpy 2.0 released!</a></b></font>",
     "external_links": [
         {

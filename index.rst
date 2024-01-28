@@ -225,7 +225,7 @@
     Workshops
     ^^^
 
-    Attend one of the HyperSpy workshops orgenised regularly. Past and future
+    Attend one of the HyperSpy workshops organised regularly. Past and future
     events can be found under :ref:`news_label`.
 
   .. grid-item-card::

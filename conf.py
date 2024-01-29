@@ -68,7 +68,7 @@ html_theme_options = {
     "icon_links": [
         {
             "name": "Gitter",
-            "url": "https://gitter.im/hyperspy",
+            "url": "https://gitter.im/hyperspy/hyperspy",
             "icon": "fab fa-gitter",
         },
     ],

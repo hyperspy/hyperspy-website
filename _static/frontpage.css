@@ -3,3 +3,31 @@
 .bd-main .bd-content .bd-article-container {
   max-width: 90%;  /* default is 60em */
 }
+
+table{
+
+  @media screen and (min-width: 401px) and (max-width: 767px) {
+    td:nth-child(1) {
+      width: 35%;
+    }
+    td:nth-child(2) {
+      display:none;
+    }
+    td:nth-child(3) {
+      width: 65%;
+    }
+  }
+
+
+  @media only screen and (max-width: 400px) {
+    td:nth-child(1) {
+      display:none;
+      }
+    td:nth-child(2) {
+      width: 35%;
+    }
+    td:nth-child(3) {
+      width: 65%;
+    }
+  }
+}

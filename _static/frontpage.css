@@ -4,8 +4,36 @@
   max-width: 90%;  /* default is 60em */
 }
 
+/* adapt css for ecosystem table */
+
+/* add spacing between rows */
+.bd-content .bd-article-container {
+
+  td {
+    padding-top: .7rem;
+    padding-bottom: .7rem;
+  }
+
+}
+
 table{
 
+  /* remove table borders for ecosystem table */
+  td {
+    border: none;
+    border-collapse: collapse;
+  }
+  
+  /* striped */
+  tr:nth-child(even) {
+    background-color: light-dark(#eeeeee, #1a1f28);
+  }
+
+  tr:hover {
+    background-color: light-dark(#dddddd, #222832);
+  }
+
+  /* drop columns on smaller dispays */
   @media screen and (min-width: 401px) and (max-width: 767px) {
     td:nth-child(1) {
       width: 35%;
@@ -17,7 +45,6 @@ table{
       width: 65%;
     }
   }
-
 
   @media only screen and (max-width: 400px) {
     td:nth-child(1) {

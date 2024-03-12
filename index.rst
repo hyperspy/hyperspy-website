@@ -122,12 +122,12 @@
    * - .. image:: _static/hyperspy-banner-small-light.svg
            :alt: HyperSpy logo
            :class: only-light
-           :target: https://hyperspy.org
+           :target: https://hyperspy.org/hyperspy-doc/current
            :height: 50
        .. image:: _static/hyperspy-banner-small-dark.svg
            :alt: HyperSpy logo
            :class: only-dark
-           :target: https://hyperspy.org
+           :target: https://hyperspy.org/hyperspy-doc/current
            :height: 50
      - `HyperSpy <https://hyperspy.org>`_
      - Generic multi-dimensional data analysis toolbox
@@ -155,7 +155,8 @@
            :height: 50
      - `eXSpy <https://hyperspy.org/exspy>`_
      - X-rays Energy Dispersive Spectroscopy (EDS) and Electron Energy Loss Spectroscopy (EELS) data analysis
-   * - .. image:: _static/pyxem-banner.png
+   * - .. image:: _static/pyxem-banner.svg
+           :class: sd-bg-transparent
            :alt: pyxem logo
            :target: https://pyxem.readthedocs.io
            :height: 50
@@ -185,7 +186,8 @@
            :height: 50
      - `lumiSpy <https://lumispy.org>`_
      - Luminescence spectroscopy data analysis (cathodoluminescence, photoluminescence, Raman, ...)
-   * - .. image:: _static/atomaplogo.png
+   * - .. image:: _static/atomap-banner.png
+           :class: sd-bg-transparent
            :alt: Atomap logo
            :target: https://atomap.org
            :height: 50
@@ -203,13 +205,25 @@
            :height: 50
      - `holoSpy <https://hyperspy.org/holospy>`_
      - Off-axis electron holography data analysis
-   * - .. image:: _static/hyperspy_logo.png
+   * - .. image:: _static/particlespy-banner-light.svg
+           :class: only-light
+           :alt: ParticleSpy logo
+           :target: https://epsic-dls.github.io/particlespy
+           :height: 50
+       .. image:: _static/particlespy-banner-dark.svg
+           :class: only-dark
            :alt: ParticleSpy logo
            :target: https://epsic-dls.github.io/particlespy
            :height: 50
      - `ParticleSpy <https://epsic-dls.github.io/particlespy>`_
      -  Segmentation and analysis of nanoparticles from electron microscopy data
-   * - .. image:: _static/hyperspyui_logo.png
+   * - .. image:: _static/hyperspyui-banner-light.svg
+           :class: only-light
+           :alt: HyperSpyUI logo
+           :target: https://hyperspy.org/hyperspyUI
+           :height: 50
+       .. image:: _static/hyperspyui-banner-dark.svg
+           :class: only-dark
            :alt: HyperSpyUI logo
            :target: https://hyperspy.org/hyperspyUI
            :height: 50
@@ -262,3 +276,4 @@
     .. image:: https://img.shields.io/gitter/room/hyperspy/hyperspy
         :target: https://gitter.im/hyperspy/hyperspy
         :alt: Gitter chat
+        :class: sd-bg-transparent

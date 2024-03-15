@@ -115,82 +115,120 @@
 
    HyperSpy Ecosystem
 
+.. list-table:: 
+   :widths: 12 5 30
+   :header-rows: 0
 
-.. grid:: 2 3 4 5
-   :gutter: 3
-
-   .. grid-item-card:: HyperSpy
-      :img-top: _static/hyperspy_logo.png
-      :img-alt:
-      :link: https://hyperspy.org/hyperspy-doc/current
-
-      ^^^
-      Generic multi-dimensional data analysis toolbox
-
-   .. grid-item-card:: RosettaSciIO
-      :img-top: _static/rosettasciio.svg
-      :img-alt:
-      :link: https://hyperspy.org/rosettasciio/
-
-      ^^^
-      Reading and writing scientific data formats
-
-
-   .. grid-item-card:: exSpy
-      :img-top: _static/hyperspy_logo.png
-      :img-alt:
-      :link: https://hyperspy.org/exspy
-
-      ^^^
-      X-rays Energy Dispersive Spectroscopy (EDS) and Electron Energy Loss Spectroscopy (EELS)
-
-   .. grid-item-card:: pyxem
-      :img-top: _static/pyxem.png
-      :img-alt:
-      :link: https://pyxem.readthedocs.io
-
-      ^^^
-      Electron diffraction data (4DSTEM)
-
-   .. grid-item-card:: kikuchipy
-      :img-top: _static/kikuchipy.svg
-      :img-alt:
-      :link: https://kikuchipy.org/
-
-      ^^^
-      Electron backscatter diffraction (EBSD)
-
-   .. grid-item-card:: LumiSpy
-      :img-top: _static/lumispy.svg
-      :img-alt:
-      :link: https://docs.lumispy.org
-
-      ^^^
-      Luminescence spectroscopy (cathodoluminescence, photoluminescence, Raman)
-
-   .. grid-item-card:: atomap
-      :img-top: _static/atomaplogo.png
-      :img-alt:
-      :link: https://atomap.org
-
-      ^^^
-      Atomic resolution scanning transmission electron
-
-   .. grid-item-card:: HoloSpy
-      :img-top: _static/hyperspy_logo.png
-      :img-alt:
-      :link: https://hyperspy.org/holospy
-
-      ^^^
-      Off-axis electron holograph
-
-   .. grid-item-card:: HyperSpyUI
-      :img-top: _static/hyperspyui_logo.png
-      :img-alt:
-      :link: https://hyperspy.org/hyperspyUI
-
-      ^^^
-      Streamlined user interface to HyperSpy
+   * - .. image:: _static/hyperspy-banner-small-light.svg
+           :alt: HyperSpy logo
+           :class: only-light
+           :target: https://hyperspy.org/hyperspy-doc/current
+           :height: 50
+       .. image:: _static/hyperspy-banner-small-dark.svg
+           :alt: HyperSpy logo
+           :class: only-dark
+           :target: https://hyperspy.org/hyperspy-doc/current
+           :height: 50
+     - `HyperSpy <https://hyperspy.org>`_
+     - Generic multi-dimensional data analysis toolbox
+   * - .. image:: _static/rosettasciio-banner-light.svg
+           :alt: RosettaSciIO logo
+           :class: only-light
+           :target: https://hyperspy.org/rosettasciio/
+           :height: 50
+       .. image:: _static/rosettasciio-banner-dark.svg
+           :alt: RosettaSciIO logo
+           :class: only-dark
+           :target: https://hyperspy.org/rosettasciio/
+           :height: 50
+     - `RosettaSciIO <https://hyperspy.org/rosettasciio/>`_
+     - Reading and writing scientific data formats
+   * - .. image:: _static/exspy-banner-light.svg
+           :class: only-light
+           :alt: eXSpy logo
+           :target: https://hyperspy.org/exspy
+           :height: 50
+       .. image:: _static/exspy-banner-dark.svg
+           :class: only-dark
+           :alt: eXSpy logo
+           :target: https://hyperspy.org/exspy
+           :height: 50
+     - `eXSpy <https://hyperspy.org/exspy>`_
+     - X-rays Energy Dispersive Spectroscopy (EDS) and Electron Energy Loss Spectroscopy (EELS) data analysis
+   * - .. image:: _static/pyxem-banner.svg
+           :class: sd-bg-transparent
+           :alt: pyxem logo
+           :target: https://pyxem.readthedocs.io
+           :height: 50
+     - `pyxem <https://pyxem.readthedocs.io>`_
+     - 4D-STEM (electron diffraction data) analysis
+   * - .. image:: _static/kikuchipy-banner-light.svg
+           :class: only-light
+           :alt: kikuchipy logo
+           :target: https://kikuchipy.org
+           :height: 50
+       .. image:: _static/kikuchipy-banner-dark.svg
+           :class: only-dark
+           :alt: kikuchipy logo
+           :target: https://kikuchipy.org
+           :height: 50
+     - `kikuchipy <https://kikuchipy.org>`_
+     - Electron backscatter diffraction (EBSD) data analysis
+   * - .. image:: _static/lumispy-banner-light.svg
+           :class: only-light
+           :alt: lumiSpy logo
+           :target: https://lumispy.org
+           :height: 50
+       .. image:: _static/lumispy-banner-dark.svg
+           :class: only-dark
+           :alt: lumiSpy logo
+           :target: https://lumispy.org
+           :height: 50
+     - `lumiSpy <https://lumispy.org>`_
+     - Luminescence spectroscopy data analysis (cathodoluminescence, photoluminescence, Raman, ...)
+   * - .. image:: _static/atomap-banner.png
+           :class: sd-bg-transparent
+           :alt: Atomap logo
+           :target: https://atomap.org
+           :height: 50
+     - `Atomap <https://atomap.org>`_
+     - Analysis of atomic resolution scanning transmission electron microscopy images
+   * - .. image:: _static/holospy-banner-light.svg
+           :class: only-light
+           :alt: holoSpy logo
+           :target: https://hyperspy.org/holospy
+           :height: 50
+       .. image:: _static/holospy-banner-dark.svg
+           :class: only-dark
+           :alt: holoSpy logo
+           :target: https://hyperspy.org/holospy
+           :height: 50
+     - `holoSpy <https://hyperspy.org/holospy>`_
+     - Off-axis electron holography data analysis
+   * - .. image:: _static/particlespy-banner-light.svg
+           :class: only-light
+           :alt: ParticleSpy logo
+           :target: https://epsic-dls.github.io/particlespy
+           :height: 50
+       .. image:: _static/particlespy-banner-dark.svg
+           :class: only-dark
+           :alt: ParticleSpy logo
+           :target: https://epsic-dls.github.io/particlespy
+           :height: 50
+     - `ParticleSpy <https://epsic-dls.github.io/particlespy>`_
+     -  Segmentation and analysis of nanoparticles from electron microscopy data
+   * - .. image:: _static/hyperspyui-banner-light.svg
+           :class: only-light
+           :alt: HyperSpyUI logo
+           :target: https://hyperspy.org/hyperspyUI
+           :height: 50
+       .. image:: _static/hyperspyui-banner-dark.svg
+           :class: only-dark
+           :alt: HyperSpyUI logo
+           :target: https://hyperspy.org/hyperspyUI
+           :height: 50
+     - `HyperSpyUI <https://hyperspy.org/hyperspyUI>`_
+     - Streamlined user interface to HyperSpy
 
 
 .. _support_label:
@@ -208,7 +246,7 @@
     User Guides
     ^^^
 
-    Comprehensive documentation on how to use `Hyperspy <https://hyperspy.org/hyperspy-doc/current>`_
+    Comprehensive documentation on how to use `Hyperspy <https://hyperspy.org/hyperspy-doc/current>`__
     and the various extensions that form the :ref:`Ecosystem <ecosystem_label>`.
 
   .. grid-item-card::
@@ -238,3 +276,4 @@
     .. image:: https://img.shields.io/gitter/room/hyperspy/hyperspy
         :target: https://gitter.im/hyperspy/hyperspy
         :alt: Gitter chat
+        :class: sd-bg-transparent

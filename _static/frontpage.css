@@ -1,3 +1,61 @@
+/* make main content on front page wider */
+
 .bd-main .bd-content .bd-article-container {
   max-width: 90%;  /* default is 60em */
+}
+
+/* adapt css for ecosystem table */
+
+/* add spacing between rows */
+.bd-content .bd-article-container {
+
+  td {
+    padding-top: .7rem;
+    padding-bottom: .7rem;
+    padding-left: .7rem;
+  }
+
+}
+
+table{
+
+  /* remove table borders for ecosystem table */
+  td {
+    border: none;
+    border-collapse: collapse;
+  }
+  
+  /* striped */
+  tr:nth-child(even) {
+    background-color: light-dark(#eeeeee, #1a1f28);
+  }
+
+  tr:hover {
+    background-color: light-dark(#dddddd, #222832);
+  }
+
+  /* drop columns on smaller dispays */
+  @media screen and (min-width: 401px) and (max-width: 767px) {
+    td:nth-child(1) {
+      width: 35%;
+    }
+    td:nth-child(2) {
+      display:none;
+    }
+    td:nth-child(3) {
+      width: 65%;
+    }
+  }
+
+  @media only screen and (max-width: 400px) {
+    td:nth-child(1) {
+      display:none;
+      }
+    td:nth-child(2) {
+      width: 35%;
+    }
+    td:nth-child(3) {
+      width: 65%;
+    }
+  }
 }

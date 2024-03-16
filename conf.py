@@ -7,11 +7,12 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 import sys
-from os import path
+from os import path, environ
 
 project = 'HyperSpy'
 copyright = '2024, The HyperSpy community'
 author = 'The HyperSpy community'
+language = 'en'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -22,9 +23,15 @@ extensions = [
     'sphinx.ext.intersphinx',
     'sphinx.ext.githubpages',
     'sphinx_favicon',
+    'sphinx_sitemap',
     'sphinxcontrib.youtube',
     'selective_css',
 ]
+
+# sitemap settings
+html_baseurl = environ.get("SPHINX_HTML_BASE_URL", "https://hyperspy.org")
+sitemap_locales = [None]
+sitemap_url_scheme = "{link}"
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']

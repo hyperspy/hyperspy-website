@@ -273,7 +273,64 @@
 
     Ask the HyperSpy Community on the `Gitter chat <https://gitter.im/hyperspy/hyperspy>`_.
 
-    .. image:: https://img.shields.io/gitter/room/hyperspy/hyperspy
-        :target: https://gitter.im/hyperspy/hyperspy
-        :alt: Gitter chat
-        :class: sd-bg-transparent
+    .. button-link:: https://gitter.im/hyperspy/hyperspy
+        :color: primary
+        :shadow:
+        :class: sd-rounded-3
+
+        :fa:`comments` Chat on Gitter
+
+.. rst-class:: text-center sd-font-weight-bold sd-fs-3
+
+   Cite
+
+.. grid:: 1 1 1 1
+
+    .. grid-item::
+        :columns: 12 8 8 8 
+
+        If you use HyperSpy and its extensions, please cite it in your publications. Our 
+        software is made by scientists who generously donate their time and attention. 
+        Citations help us justify the effort that goes into building and maintaining 
+        this project. Each of our libraries obtains DOIs from `zenodo 
+        <https://zenodo.org>`_ that can be found in the respective :ref:`documentations 
+        <ecosystem_label>`. DOIs for specific 
+        versions of HyperSpy can be found by clicking on the `Concept DOI 
+        <https://help.zenodo.org/faq/#versioning>`_ button.
+        
+
+    .. grid-item::
+        :columns: 12 4 4 4
+        :margin: auto
+
+        .. button-link:: https://doi.org/10.5281/zenodo.592838
+            :color: primary
+            :shadow:
+            :class: sd-rounded-3
+            :align: center
+
+            :fa:`bookmark` HyperSpy DOI: 10.5281/zenodo.592838
+
+
+.. meta::
+    :description lang=en:
+        Landing page of the HyperSpy project with information on the main 
+        features and characteristics, related projects extending the 
+        functionality, latest news and possibilities to get support and learn 
+        about the project. HyperSpy is an open-source  python project to ease 
+        analysis and visualization of multi-dimensional datasets
+    :keywords:
+        HyperSpy, python, numpy, scipy, physics, materials science, 
+        semiconductors, scientific data analysis, spectral imaging, spectrum 
+        image, hyperspectral, hyperspectrum, hyperspectral imaging, 
+        multidimensional, multidimensional data, multi-dimensional data, 
+        analysis, visualization, quantification, curve fitting, machine 
+        learning, denoising, principal component analysis, RosettaSciIO, eXSpy, 
+        pyxem, kikuchipy, LumiSpy, Atomap, holoSpy, ParticleSpy, HyperSpyUI, 
+        microscopy, electron microscopy, EELS, electron energy loss 
+        spectroscopy, EDX, EDS, energy-disperspive X-ray spectroscopy, 4D-STEM, 
+        scanning transmission electron microscopy, EBSD, energy backscatter 
+        diffraction, high-resolution electron microscopy, spectroscopy, 
+        luminescence spectroscopy, CL, cathodoluminescence, PL, 
+        photoluminescence, electron holography, off-axis electron holography, 
+        segmentation, particle analysis

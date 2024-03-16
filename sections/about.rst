@@ -30,3 +30,10 @@ split out of *HyperSpy* and the input-output capabilities were moved
 to the dedicated package `RosettaSciIO <https://hyperspy.org/rosettasciio>`_.
 
 
+.. meta::
+    :description lang=en:
+        Brief description of the HyperSpy project and its history
+    :keywords:
+        HyperSpy, python, scientific data analysis, spectral imaging, 
+        hyperspectral imaging, multidimensional data, multi-dimensional data, 
+        EELSlab, RosettaSciIO, electron microscopy

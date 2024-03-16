@@ -12,6 +12,7 @@ from os import path, environ
 project = 'HyperSpy'
 copyright = '2024, The HyperSpy community'
 author = 'The HyperSpy community'
+language = 'en'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -28,7 +29,7 @@ extensions = [
 ]
 
 # sitemap settings
-#html_baseurl = environ.get("SPHINX_HTML_BASE_URL", "https://hyperspy.org")
+html_baseurl = environ.get("SPHINX_HTML_BASE_URL", "https://hyperspy.org")
 sitemap_locales = [None]
 sitemap_url_scheme = "{link}"
 

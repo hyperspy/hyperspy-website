@@ -277,3 +277,27 @@
         :target: https://gitter.im/hyperspy/hyperspy
         :alt: Gitter chat
         :class: sd-bg-transparent
+
+
+.. meta::
+    :description lang=en:
+        Landing page of the HyperSpy project with information on the main 
+        features and characteristics, related projects extending the 
+        functionality, latest news and possibilities to get support and learn 
+        about the project. HyperSpy is an open-source  python project to ease 
+        analysis and visualization of multi-dimensional datasets
+    :keywords:
+        HyperSpy, python, numpy, scipy, physics, materials science, 
+        semiconductors, scientific data analysis, spectral imaging, spectrum 
+        image, hyperspectral, hyperspectrum, hyperspectral imaging, 
+        multidimensional, multidimensional data, multi-dimensional data, 
+        analysis, visualization, quantification, curve fitting, machine 
+        learning, denoising, principal component analysis, RosettaSciIO, eXSpy, 
+        pyxem, kikuchipy, LumiSpy, Atomap, holoSpy, ParticleSpy, HyperSpyUI, 
+        microscopy, electron microscopy, EELS, electron energy loss 
+        spectroscopy, EDX, EDS, energy-disperspive X-ray spectroscopy, 4D-STEM, 
+        scanning transmission electron microscopy, EBSD, energy backscatter 
+        diffraction, high-resolution electron microscopy, spectroscopy, 
+        luminescence spectroscopy, CL, cathodoluminescence, PL, 
+        photoluminescence, electron holography, off-axis electron holography, 
+        segmentation, particle analysis

@@ -273,30 +273,43 @@
 
     Ask the HyperSpy Community on the `Gitter chat <https://gitter.im/hyperspy/hyperspy>`_.
 
-    .. image:: https://img.shields.io/gitter/room/hyperspy/hyperspy
-        :target: https://gitter.im/hyperspy/hyperspy
-        :alt: Gitter chat
-        :class: sd-bg-transparent
+    .. button-link:: https://gitter.im/hyperspy/hyperspy
+        :color: primary
+        :shadow:
+        :class: sd-rounded-3
 
+        :fa:`comments` Chat on Gitter
 
 .. rst-class:: text-center sd-font-weight-bold sd-fs-3
 
    Cite
 
-If you use HyperSpy and its extensions, please cite it in your publications. Our 
-software is made by scientists who generously donate their time and attention. 
-Citations help us justify the effort that goes into building and maintaining 
-this project. Each of our libraries obtains DOIs from `zenodo 
-<https://zenodo.org>`_ that can be found in the respective :ref:`documentations 
-<ecosystem_label>`. The following is the `Concept DOI 
-<https://help.zenodo.org/faq/#versioning>`_ for HyperSpy. DOIs for specific 
-versions can be found by clicking on the badge:
+.. grid:: 1 1 1 1
 
-.. image:: https://zenodo.org/badge/doi/10.5281/zenodo.592838.svg
-    :target: https://doi.org/10.5281/zenodo.592838
-    :alt: DOI: 10.5281/zenodo.592838
-    :align: center
-    :class: sd-bg-transparent
+    .. grid-item::
+        :columns: 12 8 8 8 
+
+        If you use HyperSpy and its extensions, please cite it in your publications. Our 
+        software is made by scientists who generously donate their time and attention. 
+        Citations help us justify the effort that goes into building and maintaining 
+        this project. Each of our libraries obtains DOIs from `zenodo 
+        <https://zenodo.org>`_ that can be found in the respective :ref:`documentations 
+        <ecosystem_label>`. DOIs for specific 
+        versions of HyperSpy can be found by clicking on the `Concept DOI 
+        <https://help.zenodo.org/faq/#versioning>`_ button.
+        
+
+    .. grid-item::
+        :columns: 12 4 4 4
+        :margin: auto
+
+        .. button-link:: https://doi.org/10.5281/zenodo.592838
+            :color: primary
+            :shadow:
+            :class: sd-rounded-3
+            :align: center
+
+            :fa:`bookmark` HyperSpy DOI: 10.5281/zenodo.592838
 
 
 .. meta::

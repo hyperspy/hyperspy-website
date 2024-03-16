@@ -279,6 +279,26 @@
         :class: sd-bg-transparent
 
 
+.. rst-class:: text-center sd-font-weight-bold sd-fs-3
+
+   Cite
+
+If you use HyperSpy and its extensions, please cite it in your publications. Our 
+software is made by scientists who generously donate their time and attention. 
+Citations help us justify the effort that goes into building and maintaining 
+this project. Each of our libraries obtains DOIs from `zenodo 
+<https://zenodo.org>`_ that can be found in the respective :ref:`documentations 
+<ecosystem_label>`. The following is the `Concept DOI 
+<https://help.zenodo.org/faq/#versioning>`_ for HyperSpy. DOIs for specific 
+versions can be found by clicking on the badge:
+
+.. image:: https://zenodo.org/badge/doi/10.5281/zenodo.592838.svg
+    :target: https://doi.org/10.5281/zenodo.592838
+    :alt: DOI: 10.5281/zenodo.592838
+    :align: center
+    :class: sd-bg-transparent
+
+
 .. meta::
     :description lang=en:
         Landing page of the HyperSpy project with information on the main 

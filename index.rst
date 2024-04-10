@@ -129,7 +129,7 @@
            :class: only-dark
            :target: https://hyperspy.org/hyperspy-doc/current
            :height: 50
-     - `HyperSpy <https://hyperspy.org>`_
+     - `HyperSpy <https://hyperspy.org/hyperspy-doc/current>`_
      - Generic multi-dimensional data analysis toolbox
    * - .. image:: _static/rosettasciio-banner-light.svg
            :alt: RosettaSciIO logo

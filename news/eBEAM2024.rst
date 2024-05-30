@@ -1,5 +1,5 @@
 .. post:: 2024-01-11
-   :tags: training, summer-school, lumiSpy, eXSpy
+   :tags: training, summer-school, lumiSpy, eXSpy, upcoming
    :category: event
 
 HyperSpy lecture and tutorial @ eBEAM summer school, Sept. 1-13, 2024

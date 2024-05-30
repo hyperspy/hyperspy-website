@@ -11,7 +11,7 @@ The new demos are:
 
 * `Getting started with HyperSpy <https://nbviewer.org/github/hyperspy/hyperspy-demos/blob/main/1_Getting_Started.ipynb>`_
 * `HyperSpy fitting tutorial <https://nbviewer.org/github/hyperspy/hyperspy-demos/blob/main/Fitting_tutorial.ipynb>`_
-* `EELS analysis tutorial <https://nbviewer.org/github/hyperspy/hyperspy-demos/blob/main/electron_microscopy/EELS/EELS_analysis.ipynb>`_
+* `EELS analysis tutorial <https://nbviewer.org/github/hyperspy/exspy-demos/blob/main/EELS/EELS_analysis.ipynb>`_
 
 The demos are
 in the form of IPython notebooks and contain examples of usage. They can be

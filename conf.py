@@ -28,6 +28,10 @@ extensions = [
     'selective_css',
 ]
 
+linkcheck_ignore = [
+    "https://sbmm.org.br/en/28o-csbmm",  # 403 Client Error: Forbidden for url
+]
+
 # sitemap settings
 html_baseurl = environ.get("SPHINX_HTML_BASE_URL", "https://hyperspy.org")
 sitemap_locales = [None]

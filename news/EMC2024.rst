@@ -1,5 +1,5 @@
 .. post:: 2024-01-06
-   :tags: training, EMC
+   :tags: training, EMC, upcoming
    :category: event
 
 HyperSpy Workshop @ EMC2024, 25th of August 2024

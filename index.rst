@@ -104,9 +104,10 @@
 
    Latest News
 
-.. postlist:: 3
+.. postlist::
    :list-style: circle
    :format: {title}
+   :tags: upcoming
 
 
 .. _ecosystem_label:

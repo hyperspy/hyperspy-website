@@ -1,5 +1,5 @@
 .. post:: 2024-01-12
-   :tags: training
+   :tags: training, upcoming
    :category: event
 
 Analysis of 4D-STEM DATA @ NTNU, 11-13th of June 2024

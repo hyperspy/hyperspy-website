@@ -30,6 +30,13 @@ extensions = [
 
 linkcheck_ignore = [
     "https://sbmm.org.br/en/28o-csbmm",  # 403 Client Error: Forbidden for url
+    "https://www.diamond.ac.uk/Home/Events/2020/HyperSpy_2020.html",  # - 403 Client Error: Forbidden for url: https://www.diamond.ac.uk/Home/Events/2020/HyperSpy_2020.html
+    "https://www.diamond.ac.uk/Home/Events/2018/HyperSpy.html",  # - 403 Client Error: Forbidden for url: https://www.diamond.ac.uk/Home/Events/2018/HyperSpy.html
+    "https://www.diamond.ac.uk/Home/Events/2021/HyperSpy_2021.html",  # - 403 Client Error: Forbidden for url: https://www.diamond.ac.uk/Home/Events/2021/HyperSpy_2021.html
+    "https://www.diamond.ac.uk/Home/Events/2022/HyperSpy_2022.html",  # - 403 Client Error: Forbidden for url: https://www.diamond.ac.uk/Home/Events/2022/HyperSpy_2022.html
+    "https://www.diamond.ac.uk/Home/Events/2019/HyperSpy_2019.html",  # - 403 Client Error: Forbidden for url: https://www.diamond.ac.uk/Home/Events/2019/HyperSpy_2019.html
+    "https://www.diamond.ac.uk/Home/Events/2024/HyperSpy-Workshop",  #-2024.html - 403 Client Error: Forbidden for url: https://www.diamond.ac.uk/Home/Events/2024/HyperSpy-Workshop-2024.html
+    "https://www.diamond.ac.uk/Home/Events/2023/HyperSpy_2023.html",  # - 403 Client Error: Forbidden for url: https://www.diamond.ac.uk/Home/Events/2023/HyperSpy_2023.html
 ]
 
 # sitemap settings

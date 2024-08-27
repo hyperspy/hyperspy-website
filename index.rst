@@ -297,7 +297,7 @@
         <https://zenodo.org>`_ that can be found in the respective :ref:`documentations 
         <ecosystem_label>`. DOIs for specific 
         versions of HyperSpy can be found by clicking on the `Concept DOI 
-        <https://help.zenodo.org/faq/#versioning>`_ button.
+        <https://support.zenodo.org/help/en-gb/1-upload-deposit/97-what-is-doi-versioning>`_ button.
         
 
     .. grid-item::

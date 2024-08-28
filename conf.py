@@ -30,6 +30,7 @@ extensions = [
 
 linkcheck_ignore = [
     "https://sbmm.org.br/en/28o-csbmm",  # 403 Client Error: Forbidden for url
+    "https://www.diamond.ac.uk/Home/Events",  # - 403 Client Error: Forbidden for url: https://www.diamond.ac.uk/Home/Events/2023/HyperSpy_2023.html
 ]
 
 # sitemap settings

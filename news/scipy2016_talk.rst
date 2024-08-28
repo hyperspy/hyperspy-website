@@ -1,5 +1,5 @@
 .. post:: 2016-7-15
-   :tags: videos
+   :tags: videos, scipy
    :category: news
 
 Scipy2016 HyperSpy talk

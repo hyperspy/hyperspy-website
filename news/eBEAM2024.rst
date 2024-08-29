@@ -13,6 +13,10 @@ and eXSpy. The school takes place at the Paul Langevin CNRS site in Aussois (Fre
 Alps) between Septembre 1 and 13, 2024. Applications for the summer school will be
 open between March 4 and May 1.
 
+For further information or to download the tutorial notebooks, demo data
+and lecture slides check out the dedicated repository:
+`https://github.com/lumispy/eBEAM2024-Tutorial <https://github.com/lumispy/eBEAM2024-Tutorial>`_.
+
 .. image:: https://ebeam2024.sciencesconf.org/data/header/header_8.png
     :alt:  eBEAM 2024 header
     :width: 600

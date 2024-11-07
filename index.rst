@@ -218,6 +218,18 @@
            :height: 50
      - `ParticleSpy <https://epsic-dls.github.io/particlespy>`_
      -  Segmentation and analysis of nanoparticles from electron microscopy data
+   * - .. image:: _static/etspy-banner-light.svg
+           :class: only-light
+           :alt: ETSpy logo
+           :target: https://pages.nist.gov/etspy
+           :height: 50
+       .. image:: _static/etspy-banner-dark.svg
+           :class: only-dark
+           :alt: ETSpy logo
+           :target: https://pages.nist.gov/etspy
+           :height: 50
+     - `ETSpy <https://pages.nist.gov/etspy>`_
+     -  Processing, aligment, and reconstruction of electron tomography data
    * - .. image:: _static/hyperspyui-banner-light.svg
            :class: only-light
            :alt: HyperSpyUI logo

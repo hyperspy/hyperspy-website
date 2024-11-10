@@ -229,7 +229,7 @@
            :target: https://pages.nist.gov/etspy
            :height: 50
      - `ETSpy <https://pages.nist.gov/etspy>`_
-     -  Processing, aligment, and reconstruction of electron tomography data
+     -  Processing, alignment, and reconstruction of electron tomography data
    * - .. image:: _static/hyperspyui-banner-light.svg
            :class: only-light
            :alt: HyperSpyUI logo

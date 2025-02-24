@@ -1,5 +1,5 @@
 .. post:: 2024-08-27
-   :tags: videos, upcoming, scipy
+   :tags: videos, scipy
    :category: news
 
 HyperSpy talk at SciPy2024

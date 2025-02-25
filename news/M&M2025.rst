@@ -1,0 +1,17 @@
+.. post:: 2025-02-24
+   :tags: training, M&M, upcoming
+   :category: event
+
+HyperSpy Workshop at M&M 2025
+=============================
+
+We are happy to announce a HyperSpy workshop at the `Microscopy and Microanalysis 2025 (M&M 2025) <https://mmconference.microscopy.org>`_. The workshop will take place online on the 27th of July 2025.
+
+More information `at the conference website <https://mmconference.microscopy.org/sunday-short-courses>`_. Teaching materials and agenda will be
+available closer to the date.
+
+.. image:: https://mmconference.microscopy.org/files/galleries/Untitled_design_(33).png
+    :alt: M&M2025 logo
+    :width: 300
+    :target: https://mmconference.microscopy.org
+

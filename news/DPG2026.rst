@@ -1,4 +1,4 @@
-.. post:: 2025-12-04
+.. post:: 2025-11-30
    :tags: training, DPG, upcoming
    :category: event
 

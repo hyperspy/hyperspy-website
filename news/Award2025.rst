@@ -1,5 +1,5 @@
 .. post:: 2025-12-01
-   :tags: award, open science
+   :tags: award, open science, upcoming
    :category: event
 
 HyperSpy receives Open Science Award for Open Source Research Software
@@ -9,8 +9,8 @@ We are proud that **HyperSpy** has been
 awarded the `Open Science Award for Open Source Research Software 
 <https://www.ouvrirlascience.fr/category/open-source-software-prices/>`_ for 
 2025 in the category *“Coup du Coeur of the Jury”*. It was the fourth edition of
-this award sponsored by the `French Ministry of Research 
-<https://www.enseignementsup-recherche.gouv.fr/fr/remise-des-prix-science-ouverte-edition-2025-100469>`_.
+this award sponsored by the French Ministry of Research (`Announcement of the winners in French
+<https://www.enseignementsup-recherche.gouv.fr/fr/remise-des-prix-science-ouverte-edition-2025-100469>`_).
 It was presented to representatives of the development team on December 1 in Paris 
 during the French annual conference on scientific data (`ANDOR 2025 
 <https://andor2025.sciencesconf.org/>`_). The prize honours the continuous efforts

@@ -1,5 +1,5 @@
 .. post:: 2025-02-24
-   :tags: training, diamond, upcoming
+   :tags: training, diamond
    :category: event
 
 HyperSpy Workshop @ Diamond 2025

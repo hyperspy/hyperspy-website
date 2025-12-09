@@ -61,7 +61,7 @@ html_theme_options = {
     "analytics": {
         "google_analytics_id": "G-B0XD0GTW1M",
     },
-    "announcement": "<font size='+1'><b><a href='https://hyperspy.org/hyperspy-doc/v2.0/changes.html'>HyperSpy 2.0 released!</a></b></font>",
+    "announcement": "<font size='+1'><b><a href='https://hyperspy.org/news/Award2025.html'>HyperSpy receives Award for Open Source Research Software!</a></b></font>",
     "external_links": [
         {
             "url": "https://hyperspy.org/hyperspy-doc/current",

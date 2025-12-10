@@ -9,7 +9,7 @@ We are happy to announce a HyperSpy workshop at the `European Microscopy Congres
 
 More information `at the conference website <https://emc2024.eu/programme/pre-conference-workshops>`_. 
 
-.. image:: https://emc2024.eu/____impro/1/onewebmedia/emc2024%20logo%20%281%29.png
+.. image:: https://impro.usercontent.one/appid/oneComWsb/domain/emc2024.eu/media/emc2024.eu/onewebmedia/emc2024%20logo%20(1).png
     :alt: EMC2024 logo
     :width: 400
     :target: https://emc2024.eu

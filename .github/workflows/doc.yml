@@ -21,7 +21,7 @@ jobs:
     # Use the "reusable workflow" from the hyperspy organisation
     uses: hyperspy/.github/.github/workflows/push_doc.yml@main
     with:
-      repository: 'hyperspy/hyperspy.github.com'
+      external_repository: 'hyperspy/hyperspy.github.com'
       branch: 'main'
     secrets:
-      access_token: ${{ secrets.PAT }}
+      personal_token: ${{ secrets.PAT }}

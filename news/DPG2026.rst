@@ -1,0 +1,17 @@
+.. post:: 2025-11-30
+   :tags: training, DPG, upcoming
+   :category: event
+
+HyperSpy Tutorial at DPG Spring Meeting 2025
+============================================
+
+We are happy to announce a HyperSpy tutorial at the `Spring Meeting of the German Physical Society (DPG 2026) <https://dresden26.dpg-tagungen.de>`_. The in-person tutorial session will be part of the meeting of the DPG's Condensed Matter Section (SKM) in Dresden and is scheduled for Sunday, March 8, 2026 from 16:00 to 18:15. It will include a short intro to HyperSpy and four hands-on sessions dedicated to the general usage of `HyperSpy <https://hyperspy.org/hyperspy-doc/current>`_, as well as the extensions `lumiSpy <https://lumispy.org>`_, `eXSpy <https://hyperspy.org/exspy>`_ and `pyxem <https://pyxem.readthedocs.io>`_.
+
+The agenda and more information will available  `at the conference website <https://dresden26.dpg-tagungen.de/programme/tutorials>`_ from January 30, 2026. Teaching materials will be published by March 1, 2026, on a dedicated `GitHub repositorium <https://github.com/LumiSpy/DPG2026-Tutorial>`_.
+
+.. image:: images/dpg-logo.svg
+    :alt: DPG logo
+    :width: 300
+    :target: https://dresden26.dpg-tagungen.de/programme/tutorials
+    :align: center
+

@@ -47,10 +47,17 @@ schools, and direct communication from the team."*
 
 |
 
+
+.. image:: https://www.ouvrirlascience.fr/wp-content/uploads/2025/12/Hyperspy.png 
+    :alt:  OpenScience banner for HyperSpy award 2025
+    :height: 250
+    :target: https://www.ouvrirlascience.fr/remise-des-prix-science-ouverte-du-logiciel-libre-de-recherche-edition-2025/
+
 .. image:: images/OpenScience.png
     :alt:  OpenScience logo
-    :width: 200
-    :align: center
+    :height: 250
     :target: https://www.ouvrirlascience.fr/category/open-source-software-prices/
+
+
 
 

@@ -10,7 +10,7 @@ awarded the `Open Science Award for Open Source Research Software
 <https://www.ouvrirlascience.fr/category/open-source-software-prices/>`_ for 
 2025 in the category "**Jury's Favourite**" *(Coup de cœur du jury)*. It was the fourth edition of
 this award sponsored by the French Ministry of Research (`Announcement of the winners in French
-<https://www.enseignementsup-recherche.gouv.fr/fr/remise-des-prix-science-ouverte-edition-2025-100469>`_).
+https://www.ouvrirlascience.fr/remise-des-prix-science-ouverte-du-logiciel-libre-de-recherche-edition-2025>`_).
 The award was presented to representatives of the development team on December 1 in Paris 
 during the French annual conference on scientific data (`ANDOR 2025 
 <https://andor2025.sciencesconf.org/>`_). The prize honours the continuous efforts

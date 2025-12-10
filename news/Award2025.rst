@@ -30,6 +30,8 @@ schools, and direct communication from the team."*
 
 **Further information:**
 
+* `Announcement in HyperSpy's GitHub Repository
+  <https://github.com/hyperspy/hyperspy/issues/3572>`_ acknowledging all contributors
 * Official page on `Ouvrier la Science
   <https://www.ouvrirlascience.fr/category/open-source-software-prices/>`_
 * The idea and rationale behind the award are described in an article on the

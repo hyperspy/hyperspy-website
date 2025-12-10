@@ -26,19 +26,24 @@ documentation is comprehensive and complies with accessibility standards. There
 is also significant support offered to the user community: training, hackathons,
 schools, and direct communication from the team."*
 
+This achievement would not have been possible without all the contributors who have helped
+grow HyperSpy and its ecosystem over the years. Whether you wrote code, reported issues, reviewed
+pull requests, participated in discussions, taught in tutorial sessions, or helped in any other way:
+**this award is yours!**
+
 |
 
 **Further information:**
 
 * `Announcement in HyperSpy's GitHub Repository
-  <https://github.com/hyperspy/hyperspy/issues/3572>`_ acknowledging all contributors
+  <https://github.com/hyperspy/hyperspy/issues/3572>`_ acknowledging all contributors active on GitHub
 * Official page on `Ouvrier la Science
   <https://www.ouvrirlascience.fr/category/open-source-software-prices/>`_
 * The idea and rationale behind the award are described in an article on the
   platform `Open Science Europe 
   <https://open-research-europe.ec.europa.eu/articles/3-185/v1>`_
-* Wikipedia Article on the `Open Science Award for Open Source Research Software 
-  <https://en.wikipedia.org/wiki/Open_Science_Award_for_Open_Source_Research_Software>`_
+* `Wikipedia Article <https://en.wikipedia.org/wiki/Open_Science_Award_for_Open_Source_Research_Software>`_ on the Open Science Award for Open Source Research Software 
+  
 
 |
 

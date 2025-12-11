@@ -7,4 +7,4 @@ HyperSpy Workshop at M&M 2025
 
 We are happy to announce a HyperSpy workshop at the `Microscopy and Microanalysis 2025 (M&M 2025) <https://microscopy.org/past-m-m-meetings>`_. The workshop will take place online on the 27th of July 2025.
 
-Teaching materials and agenda will be available closer to the date.
+Teaching materials and agenda are available on GitHub: https://github.com/hyperspy/MM2025_HyperSpy_Workshop.

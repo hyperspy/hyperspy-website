@@ -7,7 +7,8 @@ HyperSpy Workshop @ Diamond 2025
 
 Similarly to the last 7 years, the HyperSpy workshop @ Diamond will take place from June 2nd to the 6th.
 
-Please register by Sunday May 11th 2025 using this `link <https://www.diamond.ac.uk/Home/Events/2025/HyperSpy-Workshop-2025.html>`_!
+More information and teaching materials on the `ePSIC documentation website <https://diamondlightsource.atlassian.net/wiki/spaces/EPSICWEB/pages/1635287041/Hyperspy+Workshop-+2025>`_.
+
 
 .. image:: https://www.diamond.ac.uk/.resources/DiamondLightModule/webresources/img/Diamond-logo-colour.png
     :alt: Diamond logo

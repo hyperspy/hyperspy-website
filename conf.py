@@ -38,8 +38,8 @@ linkcheck_ignore = [
 
 # sitemap settings
 html_baseurl = environ.get("SPHINX_HTML_BASE_URL", "https://hyperspy.org")
-sitemap_locales = [None]
 sitemap_url_scheme = "{link}"
+sitemap_show_lastmod = True
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']

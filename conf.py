@@ -20,6 +20,7 @@ language = 'en'
 
 extensions = [
     'ablog',
+    'myst_parser',
     'selective_css',
     'sphinx_design',
     'sphinx.ext.intersphinx',
@@ -118,3 +119,6 @@ html_sidebars = {
 
 # add path to local sphinx extensions
 sys.path.append(path.join(path.dirname(path.abspath(__file__)), "extensions"))
+
+# The suffix of source filenames.
+source_suffix = ['.rst', '.md']

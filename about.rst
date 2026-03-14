@@ -1,7 +1,7 @@
 .. _about_label:
 
 About
-=====
+*****
 
 *HyperSpy* is an open source Python toolbox facilitating the (interactive) analysis
 of multi-dimensional datasets (hyperspectral images) that has over time grown
@@ -12,8 +12,10 @@ The development of *HyperSpy* has been motivated by the data analysis needs of t
 electron microscopy community, but in the meantime it is proving useful in many
 other fields.
 
+.. include:: mission.rst
+
 Brief History
-^^^^^^^^^^^^^
+=============
 
 Originally developed as *EELSlab* starting in 2007, the package was renamed to
 *HyperSpy* in 2010 and open-sourced on GitHub when the broader value for the

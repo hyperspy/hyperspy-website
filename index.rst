@@ -6,8 +6,9 @@
 .. toctree::
    :hidden:
 
-   sections/about
+   about
    news/index
+   community
 
 .. grid:: 1 2 2 2
 

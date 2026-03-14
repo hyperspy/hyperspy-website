@@ -6,11 +6,12 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
+from datetime import datetime
 import sys
 from os import path, environ
 
 project = 'HyperSpy'
-copyright = '2024, The HyperSpy community'
+copyright = f"2007-{datetime.today().year}, The HyperSpy community"
 author = 'The HyperSpy community'
 language = 'en'
 
@@ -25,12 +26,14 @@ extensions = [
     'sphinx_favicon',
     'sphinx_sitemap',
     'sphinxcontrib.youtube',
-    'selective_css',
 ]
 
 linkcheck_ignore = [
     "https://sbmm.org.br/en/28o-csbmm",  # 403 Client Error: Forbidden for url
     "https://www.diamond.ac.uk/Home/Events",  # - 403 Client Error: Forbidden for url: https://www.diamond.ac.uk/Home/Events/2023/HyperSpy_2023.html
+    "https://doi.org/10.5281/zenodo.592838",  # - 403 Client Error: Forbidden for url: https://doi.org/10.5281/zenodo.592838
+    "https://dx.doi.org/10.5281/zenodo.16850", # - 403 Client Error: Forbidden for url: https://dx.doi.org/10.5281/zenodo.16850
+    "https://zenodo.org",  # - 403 Client Error: Forbidden for url: https://zenodo.org
 ]
 
 # sitemap settings

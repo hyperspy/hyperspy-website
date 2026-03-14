@@ -20,8 +20,6 @@ contrast (DPC). We will teach how to use various open-source scientific Python p
 We invite PhD students, postdocs and researchers working with 4D-STEM in the physical
 sciences to participate!
 
-See https://www.ntnu.edu/temgemini/nordtemhub for more details and updated info!
-
 
 Invited speakers and course leaders:
 ------------------------------------

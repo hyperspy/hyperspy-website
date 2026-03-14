@@ -5,9 +5,8 @@
 Open Source Data Analysis Workshop @ IUMAS-8, June 12, 2023
 ===========================================================
 
-The 2023 meeting of the International Union of Microbeam Analysis Societies `IUMAS-8
-<https://iumas8.wixsite.com/iumas8>`_ will feature an `Open Source Data Analysis
-Workshop <https://the-mas.org/events/mas-events/2023-pre-iumas-open-source-data-analysis-workshop/>`_.
+The 2023 meeting of the International Union of Microbeam Analysis Societies IUMAS-8 will feature an
+`Open Source Data Analysis Workshop <https://the-mas.org/events/mas-events/2023-pre-iumas-open-source-data-analysis-workshop/>`_.
 The one day workshop on June 12, 2023 will precede the main IUMAS meeting and takes
 place at the Banff Centre for Arts and Creativity in Canada.
 The workshop will include tutorial style presentations on HyperSpy as well

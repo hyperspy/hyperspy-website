@@ -20,6 +20,7 @@ language = 'en'
 
 extensions = [
     'ablog',
+    'selective_css',
     'sphinx_design',
     'sphinx.ext.intersphinx',
     'sphinx.ext.githubpages',

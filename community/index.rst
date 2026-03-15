@@ -8,6 +8,7 @@ Community
   get_help
   contribute
   governance
+  teams
 
 
 .. meta::

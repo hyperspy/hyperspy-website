@@ -24,6 +24,7 @@ extensions = [
     'sphinx_design',
     'sphinx.ext.intersphinx',
     'sphinx.ext.githubpages',
+    'sphinx.ext.todo',
     'sphinx_favicon',
     'sphinx_sitemap',
     'sphinxcontrib.youtube',
@@ -41,6 +42,9 @@ linkcheck_ignore = [
 html_baseurl = environ.get("SPHINX_HTML_BASE_URL", "https://hyperspy.org")
 sitemap_url_scheme = "{link}"
 sitemap_show_lastmod = True
+
+# Display todos by setting to True
+todo_include_todos = True
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']

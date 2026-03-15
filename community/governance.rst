@@ -32,10 +32,11 @@ core developers, whose significant or consistent contributions have been recogni
 by their receiving "commit rights" to the Project repositories. While this approach
 has served us well, as the Project grows, we see a need for a more formal
 governance model. Moving forward, the Project leadership will consist of a
-core developers team, Steering Council and a BDFL. We view this governance model as the
-formalization of what we are already doing, rather than a change in direction.
+core developers team, Steering Council (SC) and a Project’s Benevolent dictator for life
+(BDFL) [#bdfl]_. We view this governance model as the formalization of what we are
+already doing, rather than a change in direction.
 
-Roles And Responsibilities
+Roles and Responsibilities
 --------------------------
 
 The Community
@@ -80,12 +81,12 @@ activities. New core developers can be nominated by any existing core developer.
 Core developers that have not contributed to the project (commits or GitHub comments)
 in the past 12 months will be asked if they want to become emeritus core developers
 and recant their commit rights until they become active again.
-The list of core developers, active and emeritus, is public at the following page [TODO: setup the page].
+The core developers teams, active and emeritus, are listed in the :ref:`core developers teams <core_developers_teams>` section.
 
-BDFL
-~~~~
+Project’s Benevolent dictator for life
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The Project's Benevolent dictator for life (BDFL) is Francisco de la Peña.
+The Project's Benevolent dictator for life (BDFL) [#bdfl]_ is Francisco de la Peña.
 The BDFL has the authority to make all final decisions for The Project. In practice
 the BDFL chooses to defer that authority to the consensus of the Steering Council
 (see below). It is expected that the BDFL will only rarely assert his final authority.
@@ -94,7 +95,7 @@ Because rarely used, we refer to BDFL's final authority as a "special" or "overr
 Steering Council
 ~~~~~~~~~~~~~~~~
 
-The Project will have a Steering Council that consists of Project Contributors
+The Project will have a Steering Council (SC) that consists of Project Contributors
 who have produced contributions that are substantial in quality and quantity. The overall role of the Council is to ensure,
 with input from the Community, the long-term well-being of the project, both technically and as a community.
 
@@ -116,14 +117,16 @@ The chair of the Steering Council is elected by the Steering Council and voted e
 Council membership
 ^^^^^^^^^^^^^^^^^^
 
-The Steering Council is currently fixed in size [to be defined] members. This number may increase in the future. The initial Steering Council (in alphabetical order) consists of [to be determined].
-Potential Council Members are
-nominated by existing Council members and voted upon by the existing Council.
+The Steering Council is currently fixed in size of four members. This number may increase in the future.
+The initial Steering Council (in alphabetical order) consists of Francisco de la Peña, Carter Francis,
+Jonas Lähnemann and Eric Prestat. Potential Council Members are nominated by existing Council members and
+voted upon by the existing Council.
 
 When considering potential Members, the Council will look at candidates with a
 comprehensive view of their contributions. This will include but is not limited
 to code, code review, infrastructure work, chat participation, community
-help/building, education and outreach, contributions to other projects of the HyperSpy ecosystem, design work, etc. We are deliberately
+help/building, education and outreach, contributions to other projects of the HyperSpy
+ecosystem, design work, etc. We are deliberately
 not setting arbitrary quantitative metrics (like "100 commits in this repo") to
 avoid encouraging behavior that plays to the metrics rather than the project's
 overall well-being. We want to encourage a diverse array of backgrounds, viewpoints
@@ -147,7 +150,8 @@ if they are deemed to be actively harmful to the project's well-being, and
 attempts at communication and conflict resolution have failed.
 
 The HyperSpy steering council may be contacted at ``EMAIL ADDRESS`` or via the
-`@hyperspy/steering-council <https://github.com/orgs/hyperspy/teams/steering-council>`_ GitHub team.
+`@hyperspy/steering-council <https://github.com/orgs/hyperspy/teams/steering-council>`_
+GitHub team.
 
 Conflict of interest
 ~~~~~~~~~~~~~~~~~~~~
@@ -221,6 +225,8 @@ Acknowledgements
 ----------------
 
 This document has been inspired by the `scikit-image governance <https://scikit-image.org/docs/stable/skips/1-governance.html>`_.
+
+.. [#bdfl] https://en.wikipedia.org/wiki/Benevolent_dictator_for_life
 
 .. meta::
     :description lang=en:

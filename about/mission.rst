@@ -59,3 +59,12 @@ Adaptable
 HyperSpy's modular, extensible
 architecture allows it to be tailored for specific domains and workflows
 through community-developed extensions.
+
+
+.. meta::
+    :description lang=en:
+        Brief description of the HyperSpy project's mission and guiding principles
+    :keywords:
+        HyperSpy, python, scientific data analysis, spectral imaging, 
+        hyperspectral imaging, multidimensional data, multi-dimensional data, 
+        EELSlab, RosettaSciIO, electron microscopy

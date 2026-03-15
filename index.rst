@@ -6,7 +6,7 @@
    :hidden:
    :maxdepth: 1
 
-   about
+   about/index
    news/index
    community/index
 

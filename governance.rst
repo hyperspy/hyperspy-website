@@ -1,8 +1,8 @@
-
-# Abstract
+Abstract
+========
 
 The purpose of this document is to formalize the governance process used by the
-`HyperSpy` project, to clarify how decisions are made and how the various
+``HyperSpy`` project, to clarify how decisions are made and how the various
 elements of our community interact. This document establishes a decision-making
 structure that takes into account feedback from all members of the community
 and strives to find consensus, while avoiding any deadlocks.
@@ -18,48 +18,53 @@ The foundations of Project governance are:
 - Active Contribution
 - Institutional Neutrality
 
-# Historical Considerations
+Historical Considerations
+=========================
 
 Project leadership was initially provided by its main creator, Francisco de la Peña.
 Additional leadership has also been provided by a subset of Contributors, called
 core developers, whose significant or consistent contributions have been recognized
-by their receiving “commit rights” to the Project repositories. While this approach
+by their receiving "commit rights" to the Project repositories. While this approach
 has served us well, as the Project grows, we see a need for a more formal
 governance model. Moving forward, the Project leadership will consist of a
 core developers team, Steering Council and a BDFL. We view this governance model as the
 formalization of what we are already doing, rather than a change in direction.
 
-# Roles And Responsibilities
+Roles And Responsibilities
+==========================
 
-## The Community
+The Community
+-------------
 
 The HyperSpy community consists of anyone using or working with the project
 in any way.
 
-## Contributors
+Contributors
+------------
 
 A community member can become a contributor by interacting directly with the
 project in concrete ways, such as:
 
 - proposing a change to the code via a
-  [GitHub pull request](https://github.com/hyperspy/hyperspy/pulls);
+  `GitHub pull request <https://github.com/hyperspy/hyperspy/pulls>`_;
 - reporting issues on our
-  [GitHub issues page](https://github.com/hyperspy/hyperspy/issues);
+  `GitHub issues page <https://github.com/hyperspy/hyperspy/issues>`_;
 - proposing a change to the documentation, or
-  [demos](https://github.com/hyperspy/hyperspy/hyperspy-demos) via a
+  `demos <https://github.com/hyperspy/hyperspy-demos>`_ via a
   GitHub pull request;
 - discussing the design of HyperSpy in existing
-  [issues](https://github.com/hyperspy/hyperspy/issues) and
-  [pull requests](https://github.com/hyperspy/hyperspy/pulls);
-- reviewing [open pull requests](https://github.com/hyperspy/hyperspy/pulls)
+  `issues <https://github.com/hyperspy/hyperspy/issues>`_ and
+  `pull requests <https://github.com/hyperspy/hyperspy/pulls>`_;
+- reviewing `open pull requests <https://github.com/hyperspy/hyperspy/pulls>`_
 
 among other possibilities. Any community member can become a contributor, and
 all are encouraged to do so. By contributing to the project, community members
 can directly help to shape its future.
 
-Contributors are encouraged to read the [contributing guide](https://github.com/hyperspy/hyperspy/blob/RELEASE_next_minor/.github/CONTRIBUTING.md).
+Contributors are encouraged to read the `contributing guide <https://github.com/hyperspy/hyperspy/blob/RELEASE_next_minor/.github/CONTRIBUTING.md>`_.
 
-## Core developers
+Core developers
+---------------
 
 Core developers are trusted community members that have demonstrated continued
 commitment to the project through ongoing contributions. They
@@ -72,15 +77,17 @@ in the past 12 months will be asked if they want to become emeritus core develop
 and recant their commit rights until they become active again.
 The list of core developers, active and emeritus, is public at the following page [TODO: setup the page].
 
-## BDFL
+BDFL
+----
 
-The Project’s Benevolent dictator for life (BDFL) is Francisco de la Peña.
+The Project's Benevolent dictator for life (BDFL) is Francisco de la Peña.
 The BDFL has the authority to make all final decisions for The Project. In practice
 the BDFL chooses to defer that authority to the consensus of the Steering Council
 (see below). It is expected that the BDFL will only rarely assert his final authority.
-Because rarely used, we refer to BDFL’s final authority as a “special” or “overriding” vote. When it does occur, the BDFL override typically happens in situations where there is a deadlock in the Steering Council (see below) or if the Steering Council asks the BDFL to make a decision on a specific matter.
+Because rarely used, we refer to BDFL's final authority as a "special" or "overriding" vote. When it does occur, the BDFL override typically happens in situations where there is a deadlock in the Steering Council (see below) or if the Steering Council asks the BDFL to make a decision on a specific matter.
 
-## Steering Council
+Steering Council
+----------------
 
 The Project will have a Steering Council that consists of Project Contributors
 who have produced contributions that are substantial in quality and quantity. The overall role of the Council is to ensure,
@@ -101,7 +108,8 @@ In particular, the Council may:
 
 The chair of the Steering Council is elected by the Steering Council and voted every year. The chair may delegate their authority on a particular decision or set of decisions to any other Council member at their discretion. The chair is responsible for ensuring that all Steering Council activities that require a vote are properly documented.
 
-### Council membership
+Council membership
+~~~~~~~~~~~~~~~~~~
 
 The Steering Council is currently fixed in size [to be defined] members. This number may increase in the future. The initial Steering Council (in alphabetical order) consists of [to be determined].
 Potential Council Members are
@@ -111,8 +119,8 @@ When considering potential Members, the Council will look at candidates with a
 comprehensive view of their contributions. This will include but is not limited
 to code, code review, infrastructure work, chat participation, community
 help/building, education and outreach, contributions to other projects of the HyperSpy ecosystem, design work, etc. We are deliberately
-not setting arbitrary quantitative metrics (like “100 commits in this repo”) to
-avoid encouraging behavior that plays to the metrics rather than the project’s
+not setting arbitrary quantitative metrics (like "100 commits in this repo") to
+avoid encouraging behavior that plays to the metrics rather than the project's
 overall well-being. We want to encourage a diverse array of backgrounds, viewpoints
 and talents in our team, which is why we explicitly do not define code as the
 sole metric on which council membership will be evaluated.
@@ -122,7 +130,7 @@ they will be considered for removal from the Council. Before removal, the inacti
 Member will be approached by the chair to see if they plan
 on returning to active participation. If not, they will be removed immediately
 upon a Council vote. If they plan on returning to active participation soon,
-they will be given a grace period of one year. If they don’t return to active
+they will be given a grace period of one year. If they don't return to active
 participation within that time period they will be removed by vote of the Council
 without further grace period. All former Council members can be considered for
 membership again at any time in the future, like any other Project Contributor.
@@ -130,13 +138,14 @@ Retired Council members will be listed on the project website, acknowledging the
 period during which they were active in the Council.
 
 The Council reserves the right to eject current Members, other than the BDFL,
-if they are deemed to be actively harmful to the project’s well-being, and
+if they are deemed to be actively harmful to the project's well-being, and
 attempts at communication and conflict resolution have failed.
 
-The HyperSpy steering council may be contacted at `EMAIL ADDRESS` or via the
-[@hyperspy/steering-council](https://github.com/orgs/hyperspy/teams/steering-council) GitHub team.
+The HyperSpy steering council may be contacted at ``EMAIL ADDRESS`` or via the
+`@hyperspy/steering-council <https://github.com/orgs/hyperspy/teams/steering-council>`_ GitHub team.
 
-## Conflict of interest
+Conflict of interest
+--------------------
 
 It is expected that the SC Members will be employed at a wide range of companies,
 universities and non-profit organizations. Because of this, it is possible that
@@ -149,28 +158,29 @@ but are not limited to:
   leak into their work with the Project.
 - An issue where the person privately gains an advantage from The Project resources,
   but The Project has no gain or suffers a disadvantage.
-  
+
 All members of the Steering Council shall disclose to the rest of the Council
 any conflict of interest they may have. Members with a conflict of interest in
 a particular issue may participate in Council discussions on that issue,
 but must recuse themselves from voting on the issue. If the BDFL has recused
 themselves for a particular decision, they will appoint a substitute BDFL for that decision.
 
-# Decision Making Process
+Decision Making Process
+=======================
 
 Decisions about the future of the project are made through discussion with all
 members of the community. All non-sensitive project management discussions take
-place on the [issue tracker](https://github.com/hyperspy/hyperspy/issues). Occasionally,
+place on the `issue tracker <https://github.com/hyperspy/hyperspy/issues>`_. Occasionally,
 sensitive discussions may occur on a private communication channel.
 
-Decisions should be made in accordance with the [mission and principles](mission.rst)
+Decisions should be made in accordance with the :doc:`mission and principles <mission>`
 of the HyperSpy project.
 
-The HyperSpy project uses a “consensus seeking” process for making decisions. The group
+The HyperSpy project uses a "consensus seeking" process for making decisions. The group
 tries to find a resolution that has no open objections among core developers.
 Core developers are expected to distinguish between fundamental objections to a
 proposal and minor perceived flaws that they can live with, and not hold up the
-decision-making process for the latter.  If no option can be found without
+decision-making process for the latter. If no option can be found without
 objections, the decision is escalated to the SC, which will itself use
 consensus seeking to come to a resolution. In the unlikely event that there is
 still a deadlock, the proposal will move forward if it has the support of a
@@ -182,26 +192,27 @@ are made according to the following rules:
 - **Minor documentation changes**, such as typo fixes, or addition / correction of a
   sentence, require approval by a core developer *and* no disagreement or requested
   changes by a core developer on the issue or pull request page (lazy
-  consensus). Core developers are expected to give “reasonable time” to others
-  to give their opinion on the pull request if they’re not confident others
+  consensus). Core developers are expected to give "reasonable time" to others
+  to give their opinion on the pull request if they're not confident others
   would agree.
 
 - **Code changes and major documentation changes** require agreement by *one*
   core developer *and* no disagreement or requested changes by a core developer
   on the issue or pull-request page (lazy consensus). For all changes of this type,
-  core developers are expected to give “reasonable time” after approval and before
+  core developers are expected to give "reasonable time" after approval and before
   merging for others to weigh in on the pull request in its final state.
 
 - **Changes to the public API** require a dedicated issue on our
-  [issue tracker](https://github.com/hyperspy/hyperspy/issues) and follow the
+  `issue tracker <https://github.com/hyperspy/hyperspy/issues>`_ and follow the
   decision-making process outlined above.
 
-- **Suggestion for changes to this governance model or our mission and principles** are welcome and require a dedicated issue on our [issue tracker](https://github.com/hyperspy/hyperspy/issues). Changes to this governance requires approval of the Steering Council.
+- **Suggestion for changes to this governance model or our mission and principles** are welcome and require a dedicated issue on our `issue tracker <https://github.com/hyperspy/hyperspy/issues>`_. Changes to this governance requires approval of the Steering Council.
 
 If an objection is raised on a lazy consensus, the proposer can appeal to the
 community and core developers and the change can be approved or rejected by
 escalating to the SC.
 
-# Acknowledgements
+Acknowledgements
+================
 
-This document has been inspired by the [scikit-image governance](https://scikit-image.org/docs/stable/skips/1-governance.html).
+This document has been inspired by the `scikit-image governance <https://scikit-image.org/docs/stable/skips/1-governance.html>`_.

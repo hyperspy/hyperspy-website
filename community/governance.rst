@@ -1,5 +1,10 @@
+.. _governance:
+
+Governance
+==========
+
 Abstract
-========
+--------
 
 The purpose of this document is to formalize the governance process used by the
 ``HyperSpy`` project, to clarify how decisions are made and how the various
@@ -19,7 +24,7 @@ The foundations of Project governance are:
 - Institutional Neutrality
 
 Historical Considerations
-=========================
+-------------------------
 
 Project leadership was initially provided by its main creator, Francisco de la Peña.
 Additional leadership has also been provided by a subset of Contributors, called
@@ -31,16 +36,16 @@ core developers team, Steering Council and a BDFL. We view this governance model
 formalization of what we are already doing, rather than a change in direction.
 
 Roles And Responsibilities
-==========================
+--------------------------
 
 The Community
--------------
+~~~~~~~~~~~~~
 
 The HyperSpy community consists of anyone using or working with the project
 in any way.
 
 Contributors
-------------
+~~~~~~~~~~~~
 
 A community member can become a contributor by interacting directly with the
 project in concrete ways, such as:
@@ -64,7 +69,7 @@ can directly help to shape its future.
 Contributors are encouraged to read the `contributing guide <https://github.com/hyperspy/hyperspy/blob/RELEASE_next_minor/.github/CONTRIBUTING.md>`_.
 
 Core developers
----------------
+~~~~~~~~~~~~~~~
 
 Core developers are trusted community members that have demonstrated continued
 commitment to the project through ongoing contributions. They
@@ -78,7 +83,7 @@ and recant their commit rights until they become active again.
 The list of core developers, active and emeritus, is public at the following page [TODO: setup the page].
 
 BDFL
-----
+~~~~
 
 The Project's Benevolent dictator for life (BDFL) is Francisco de la Peña.
 The BDFL has the authority to make all final decisions for The Project. In practice
@@ -87,7 +92,7 @@ the BDFL chooses to defer that authority to the consensus of the Steering Counci
 Because rarely used, we refer to BDFL's final authority as a "special" or "overriding" vote. When it does occur, the BDFL override typically happens in situations where there is a deadlock in the Steering Council (see below) or if the Steering Council asks the BDFL to make a decision on a specific matter.
 
 Steering Council
-----------------
+~~~~~~~~~~~~~~~~
 
 The Project will have a Steering Council that consists of Project Contributors
 who have produced contributions that are substantial in quality and quantity. The overall role of the Council is to ensure,
@@ -109,7 +114,7 @@ In particular, the Council may:
 The chair of the Steering Council is elected by the Steering Council and voted every year. The chair may delegate their authority on a particular decision or set of decisions to any other Council member at their discretion. The chair is responsible for ensuring that all Steering Council activities that require a vote are properly documented.
 
 Council membership
-~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^
 
 The Steering Council is currently fixed in size [to be defined] members. This number may increase in the future. The initial Steering Council (in alphabetical order) consists of [to be determined].
 Potential Council Members are
@@ -145,7 +150,7 @@ The HyperSpy steering council may be contacted at ``EMAIL ADDRESS`` or via the
 `@hyperspy/steering-council <https://github.com/orgs/hyperspy/teams/steering-council>`_ GitHub team.
 
 Conflict of interest
---------------------
+~~~~~~~~~~~~~~~~~~~~
 
 It is expected that the SC Members will be employed at a wide range of companies,
 universities and non-profit organizations. Because of this, it is possible that
@@ -166,14 +171,14 @@ but must recuse themselves from voting on the issue. If the BDFL has recused
 themselves for a particular decision, they will appoint a substitute BDFL for that decision.
 
 Decision Making Process
-=======================
+-----------------------
 
 Decisions about the future of the project are made through discussion with all
 members of the community. All non-sensitive project management discussions take
 place on the `issue tracker <https://github.com/hyperspy/hyperspy/issues>`_. Occasionally,
 sensitive discussions may occur on a private communication channel.
 
-Decisions should be made in accordance with the :doc:`mission and principles <mission>`
+Decisions should be made in accordance with the :ref:`mission and principles <mission>`
 of the HyperSpy project.
 
 The HyperSpy project uses a "consensus seeking" process for making decisions. The group
@@ -213,6 +218,14 @@ community and core developers and the change can be approved or rejected by
 escalating to the SC.
 
 Acknowledgements
-================
+----------------
 
 This document has been inspired by the `scikit-image governance <https://scikit-image.org/docs/stable/skips/1-governance.html>`_.
+
+.. meta::
+    :description lang=en:
+        Governance model of the HyperSpy project, including its decision-making process and community involvement
+    :keywords:
+        HyperSpy, python, scientific data analysis, spectral imaging, 
+        hyperspectral imaging, multidimensional data, multi-dimensional data, 
+        EELSlab, RosettaSciIO, electron microscopy

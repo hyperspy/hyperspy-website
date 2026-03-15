@@ -81,6 +81,7 @@ html_theme_options = {
         },
     ],
     "github_url": "https://github.com/hyperspy",
+    "header_links_before_dropdown": 6,
     "icon_links": [
         {
             "name": "Gitter",
@@ -94,8 +95,9 @@ html_theme_options = {
         "image_dark": "_static/hyperspy-banner-small-dark.svg",
     },
     "navbar_persistent": [ ],
-    "secondary_sidebar_items": [],
+    "secondary_sidebar_items": ["page-toc"],
     "show_prev_next": False,
+    "show_nav_level": 2
 }
 
 # -- ABlog ---------------------------------------------------

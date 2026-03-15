@@ -24,6 +24,7 @@ extensions = [
     'sphinx_design',
     'sphinx.ext.intersphinx',
     'sphinx.ext.githubpages',
+    'sphinx.ext.todo',
     'sphinx_favicon',
     'sphinx_sitemap',
     'sphinxcontrib.youtube',
@@ -41,6 +42,9 @@ linkcheck_ignore = [
 html_baseurl = environ.get("SPHINX_HTML_BASE_URL", "https://hyperspy.org")
 sitemap_url_scheme = "{link}"
 sitemap_show_lastmod = True
+
+# Display todos by setting to True
+todo_include_todos = True
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
@@ -81,6 +85,7 @@ html_theme_options = {
         },
     ],
     "github_url": "https://github.com/hyperspy",
+    "header_links_before_dropdown": 6,
     "icon_links": [
         {
             "name": "Gitter",
@@ -94,8 +99,9 @@ html_theme_options = {
         "image_dark": "_static/hyperspy-banner-small-dark.svg",
     },
     "navbar_persistent": [ ],
-    "secondary_sidebar_items": [],
+    "secondary_sidebar_items": ["page-toc"],
     "show_prev_next": False,
+    "show_nav_level": 2
 }
 
 # -- ABlog ---------------------------------------------------

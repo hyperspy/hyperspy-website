@@ -62,10 +62,10 @@ project in concrete ways, such as:
   `issues <https://github.com/hyperspy/hyperspy/issues>`_ and
   `pull requests <https://github.com/hyperspy/hyperspy/pulls>`_;
 - reviewing `open pull requests <https://github.com/hyperspy/hyperspy/pulls>`_
-
-among other possibilities. Any community member can become a contributor, and
-all are encouraged to do so. By contributing to the project, community members
-can directly help to shape its future.
+- teaching new users the usage of HyperSpy in tutorial sessions, e.g. in the framework
+  of international conferences among other possibilities. Any community member can
+  become a contributor, and all are encouraged to do so. By contributing to the project,
+  community members can directly help to shape its future.
 
 Contributors are encouraged to read the `contributing guide <https://github.com/hyperspy/hyperspy/blob/RELEASE_next_minor/.github/CONTRIBUTING.md>`_.
 
@@ -139,7 +139,7 @@ Member will be approached by the chair to see if they plan
 on returning to active participation. If not, they will be removed immediately
 upon a Council vote. If they plan on returning to active participation soon,
 they will be given a grace period of one year. If they don't return to active
-participation within that time period they will be removed by vote of the Council
+participation within that time period, they will be removed by vote of the Council
 without further grace period. All former Council members can be considered for
 membership again at any time in the future, like any other Project Contributor.
 Retired Council members will be listed on the project website, acknowledging the
@@ -156,8 +156,8 @@ GitHub team.
 Conflict of interest
 ~~~~~~~~~~~~~~~~~~~~
 
-It is expected that the SC Members will be employed at a wide range of companies,
-universities and non-profit organizations. Because of this, it is possible that
+It is expected that the SC Members will be employed at a wide range of universities, 
+research institutes, companies and non-profit organizations. Because of this, it is possible that
 Members will have conflicts of interests. Such conflicts of interests include,
 but are not limited to:
 

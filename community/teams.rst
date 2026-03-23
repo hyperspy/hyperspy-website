@@ -90,7 +90,7 @@ below.
      - ??? - ???
    * - Jonas Lähnemann
      - https://github.com/jlaehne
-     - ??? - present
+     - 2019 - present
    * - Magnus Nord
      - https://github.com/magnunor
      - ??? - present

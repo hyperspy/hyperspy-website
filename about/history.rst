@@ -17,6 +17,8 @@ packages were developed. With the second major release, :external+hyperspy:ref:`
 split out of *HyperSpy* and the input-output capabilities were moved
 to the dedicated package `RosettaSciIO <https://hyperspy.org/rosettasciio>`_.
 
+In 2025, *HyperSpy* was awarded the French :ref:`**“Open Science Award for Open Source Research Software”** <award>` in the category “Jury’s favourite” *(Coup du coeur du jury)*.
+
 
 .. meta::
     :description lang=en:

@@ -1,13 +1,14 @@
 :sd_hide_title:
-:html_theme.sidebar_secondary.remove:
 
 .. title:: Home
 
 .. toctree::
    :hidden:
+   :maxdepth: 1
 
-   sections/about
+   about/index
    news/index
+   community/index
 
 .. grid:: 1 2 2 2
 

@@ -41,7 +41,8 @@ linkcheck_ignore = [
 ]
 linkcheck_timeout = 30
 linkcheck_retries = 3
-linkcheck_workers = 2
+linkcheck_workers = 1
+linkcheck_rate_limit = 1.0
 
 # sitemap settings
 html_baseurl = environ.get("SPHINX_HTML_BASE_URL", "https://hyperspy.org")

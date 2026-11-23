@@ -49,16 +49,18 @@
 
   .. grid-item-card::
 
-    :octicon:`eye;2em;sd-text-info` Visualization
-    ^^^
+    .. card-header::
+
+      :octicon:`eye;2em;sd-text-info` Visualization
 
     Interactive :external+hyperspy:ref:`visualization tools <visualization-label>`
     for multi-dimensional spectra and images.
 
   .. grid-item-card::
 
-    :octicon:`gear;2em;sd-text-info` Analysis
-    ^^^
+    .. card-header::
+
+      :octicon:`gear;2em;sd-text-info` Analysis
 
     Easy access to analytical tools that exploit the multi-dimensionality
     of datasets, including :external+hyperspy:ref:`curve fitting <model-label>`
@@ -66,8 +68,9 @@
 
   .. grid-item-card::
 
-    :octicon:`table;2em;sd-text-info` Named and Scaled Axes
-    ^^^
+    .. card-header::
+
+      :octicon:`table;2em;sd-text-info` Named and Scaled Axes
 
     :external+hyperspy:ref:`Two families of axes <axes-handling>`: *signal* and
     *navigation* with powerful numpy-style indexing mechanism and support for
@@ -75,8 +78,9 @@
 
   .. grid-item-card::
 
-    :octicon:`zap;2em;sd-text-info` Performance
-    ^^^
+    .. card-header::
+
+      :octicon:`zap;2em;sd-text-info` Performance
 
     Built on top of `NumPy <https://numpy.org>`_, `SciPy <https://scipy.org>`_,
     `Numba <https://numba.pydata.org/>`_, `Matplotlib <https://matplotlib.org>`_,
@@ -85,16 +89,18 @@
 
   .. grid-item-card::
 
-    :octicon:`rocket;2em;sd-text-info` Ecosystem
-    ^^^
+    .. card-header::
+
+      :octicon:`rocket;2em;sd-text-info` Ecosystem
 
     :ref:`Domain-specific libraries <ecosystem_label>` and modular design for
     :external+hyperspy:ref:`easy extensibility <writing_extensions-label>`.
 
   .. grid-item-card::
 
-    :octicon:`people;2em;sd-text-info` Community Driven
-    ^^^
+    .. card-header::
+
+      :octicon:`people;2em;sd-text-info` Community Driven
 
     :external+hyperspy:ref:`Developed and maintained <development>` by scientists
     for scientists.
@@ -117,7 +123,7 @@
    HyperSpy Ecosystem
 
 .. list-table:: 
-   :widths: 12 5 30
+   :widths: 12 5 30 2
    :header-rows: 0
 
    * - .. image:: _static/hyperspy-banner-small-light.svg
@@ -132,6 +138,7 @@
            :height: 50
      - `HyperSpy <https://hyperspy.org/hyperspy-doc/current>`_
      - Generic multi-dimensional data analysis toolbox
+     - :gh:`hyperspy/hyperspy`
    * - .. image:: _static/rosettasciio-banner-light.svg
            :alt: RosettaSciIO logo
            :class: only-light
@@ -144,6 +151,7 @@
            :height: 50
      - `RosettaSciIO <https://hyperspy.org/rosettasciio/>`_
      - Reading and writing scientific data formats
+     - :gh:`hyperspy/rosettasciio`
    * - .. image:: _static/exspy-banner-light.svg
            :class: only-light
            :alt: eXSpy logo
@@ -156,6 +164,7 @@
            :height: 50
      - `eXSpy <https://hyperspy.org/exspy>`_
      - X-rays Energy Dispersive Spectroscopy (EDS) and Electron Energy Loss Spectroscopy (EELS) data analysis
+     - :gh:`hyperspy/exspy`
    * - .. image:: _static/pyxem-banner.svg
            :class: sd-bg-transparent
            :alt: pyxem logo
@@ -163,6 +172,7 @@
            :height: 50
      - `pyxem <https://pyxem.readthedocs.io>`_
      - 4D-STEM (electron diffraction data) analysis
+     - :gh:`pyxem/pyxem`
    * - .. image:: _static/kikuchipy-banner-light.svg
            :class: only-light
            :alt: kikuchipy logo
@@ -175,6 +185,7 @@
            :height: 50
      - `kikuchipy <https://kikuchipy.org>`_
      - Electron backscatter diffraction (EBSD) data analysis
+     - :gh:`pyxem/kikuchipy`
    * - .. image:: _static/lumispy-banner-light.svg
            :class: only-light
            :alt: lumiSpy logo
@@ -187,6 +198,7 @@
            :height: 50
      - `lumiSpy <https://lumispy.org>`_
      - Luminescence spectroscopy data analysis (cathodoluminescence, photoluminescence, Raman, ...)
+     - :gh:`lumispy/lumispy`
    * - .. image:: _static/atomap-banner.png
            :class: sd-bg-transparent
            :alt: Atomap logo
@@ -194,6 +206,7 @@
            :height: 50
      - `Atomap <https://atomap.org>`_
      - Analysis of atomic resolution scanning transmission electron microscopy images
+     - :gh:`atomap-dev/atomap`
    * - .. image:: _static/holospy-banner-light.svg
            :class: only-light
            :alt: holoSpy logo
@@ -206,6 +219,7 @@
            :height: 50
      - `holoSpy <https://hyperspy.org/holospy>`_
      - Off-axis electron holography data analysis
+     - :gh:`hyperspy/holospy`
    * - .. image:: _static/particlespy-banner-light.svg
            :class: only-light
            :alt: ParticleSpy logo
@@ -218,6 +232,7 @@
            :height: 50
      - `ParticleSpy <https://epsic-dls.github.io/particlespy>`_
      -  Segmentation and analysis of nanoparticles from electron microscopy data
+     - :gh:`ePSIC-DLS/particlespy`
    * - .. image:: _static/etspy-banner-light.svg
            :class: only-light
            :alt: ETSpy logo
@@ -230,6 +245,7 @@
            :height: 50
      - `ETSpy <https://pages.nist.gov/etspy>`_
      -  Processing, alignment, and reconstruction of electron tomography data
+     - :gh:`usnistgov/etspy`
    * - .. image:: _static/hyperspyui-banner-light.svg
            :class: only-light
            :alt: HyperSpyUI logo
@@ -242,6 +258,7 @@
            :height: 50
      - `HyperSpyUI <https://hyperspy.org/hyperspyUI>`_
      - Streamlined user interface to HyperSpy
+     - :gh:`hyperspy/hyperspyUI`
 
 
 .. _support_label:
@@ -256,16 +273,18 @@
 
   .. grid-item-card::
 
-    User Guides
-    ^^^
+    .. card-header::
+
+      User Guides
 
     Comprehensive documentation on how to use `Hyperspy <https://hyperspy.org/hyperspy-doc/current>`__
     and the various extensions that form the :ref:`Ecosystem <ecosystem_label>`.
 
   .. grid-item-card::
 
-    Tutorials
-    ^^^
+    .. card-header::
+
+      Tutorials
 
     Tutorials in the form of jupyter notebooks to demonstrate typical analysis
     workflows are hosted in dedicated repositories for each library, see e.g.
@@ -273,16 +292,19 @@
 
   .. grid-item-card::
 
-    Workshops
-    ^^^
+    .. card-header::
+
+      Workshops
 
     Attend one of the HyperSpy workshops organised regularly. Past and future
     events can be found under :ref:`news_label`.
 
   .. grid-item-card::
 
-    Chat
-    ^^^
+    .. card-header::
+
+      Chat
+
 
     Ask the HyperSpy Community on the `Gitter chat <https://gitter.im/hyperspy/hyperspy>`_.
 
@@ -309,7 +331,8 @@
         <https://zenodo.org>`_ that can be found in the respective :ref:`documentations 
         <ecosystem_label>`. DOIs for specific 
         versions of HyperSpy can be found by clicking on the `Concept DOI 
-        <https://support.zenodo.org/help/en-gb/1-upload-deposit/97-what-is-doi-versioning>`_ button.
+        <https://support.zenodo.org/help/en-gb/1-upload-deposit/97-what-is-doi-versioning>`_
+        button.
         
 
     .. grid-item::
@@ -323,6 +346,14 @@
             :align: center
 
             :fa:`bookmark` HyperSpy DOI: 10.5281/zenodo.592838
+
+:octicon:`star;2em;sd-text-info` If any of the packages from the HyperSpy ecosystem 
+have proven useful for your work, please consider awarding a star on GitHub to the
+respective :ref:`repositories linked above <ecosystem_label>`. Apart from these, the 
+following packages are relevant for HyperSpy and also deserve a star:
+`hyperspy_gui_traitsui <https://github.com/hyperspy/hyperspy_gui_traitsui>`_,
+`hyperspy_gui_ipywidgets <https://github.com/hyperspy/hyperspy_gui_ipywidgets>`_ and
+`hyperspy-bundle <https://github.com/hyperspy/hyperspy-bundle>`_.
 
 
 .. meta::

@@ -35,14 +35,11 @@ extensions = [
 linkcheck_ignore = [
     "https://sbmm.org.br/en/28o-csbmm",  # 403 Client Error: Forbidden for url
     "https://www.diamond.ac.uk/Home/Events",  # - 403 Client Error: Forbidden for url: https://www.diamond.ac.uk/Home/Events/2023/HyperSpy_2023.html
+    "https://microscopy.org/files", # - Recurring connection timeout error
     "https://doi.org/10.5281/zenodo.592838",  # - 403 Client Error: Forbidden for url: https://doi.org/10.5281/zenodo.592838
     "https://dx.doi.org/10.5281/zenodo.16850", # - 403 Client Error: Forbidden for url: https://dx.doi.org/10.5281/zenodo.16850
     "https://zenodo.org",  # - 403 Client Error: Forbidden for url: https://zenodo.org
 ]
-linkcheck_timeout = 30
-linkcheck_retries = 3
-linkcheck_workers = 1
-linkcheck_rate_limit = 1.0
 
 # sitemap settings
 html_baseurl = environ.get("SPHINX_HTML_BASE_URL", "https://hyperspy.org")

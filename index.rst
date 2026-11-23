@@ -347,7 +347,7 @@
 
             :fa:`bookmark` HyperSpy DOI: 10.5281/zenodo.592838
 
-:octicon:`star;2em;sd-text-info` If any of the packages from the HyperSpy ecosystem 
+:octicon:`star-fill;2em;sd-text-info` If any of the packages from the HyperSpy ecosystem 
 have proven useful for your work, please consider awarding a star on GitHub to the
 respective :ref:`repositories linked above <ecosystem_label>`. Apart from these, the 
 following packages are relevant for HyperSpy and also deserve a star:

@@ -39,6 +39,9 @@ linkcheck_ignore = [
     "https://dx.doi.org/10.5281/zenodo.16850", # - 403 Client Error: Forbidden for url: https://dx.doi.org/10.5281/zenodo.16850
     "https://zenodo.org",  # - 403 Client Error: Forbidden for url: https://zenodo.org
 ]
+linkcheck_timeout = 30
+linkcheck_retries = 3
+linkcheck_workers = 2
 
 # sitemap settings
 html_baseurl = environ.get("SPHINX_HTML_BASE_URL", "https://hyperspy.org")

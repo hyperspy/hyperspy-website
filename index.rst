@@ -347,13 +347,16 @@
 
             :fa:`bookmark` HyperSpy DOI: 10.5281/zenodo.592838
 
-:octicon:`star-fill;2em;sd-text-info` If any of the packages from the HyperSpy ecosystem 
-have proven useful for your work, please consider awarding a star on GitHub to the
-respective :ref:`repositories linked above <ecosystem_label>`. Apart from these, the 
-following packages are relevant for HyperSpy and also deserve a star:
+:octicon:`star-fill;2em;sd-text-info` If any of the packages from the HyperSpy
+ecosystem have proven useful for your work, please show your appreciation by
+awarding a star on GitHub to the respective :ref:`repositories linked above 
+<ecosystem_label>`, which helps the visibility of the project and underlines
+its relevance. Additionally, the following packages are relevant for HyperSpy
+and also deserve a star:
 `hyperspy_gui_traitsui <https://github.com/hyperspy/hyperspy_gui_traitsui>`_,
 `hyperspy_gui_ipywidgets <https://github.com/hyperspy/hyperspy_gui_ipywidgets>`_ and
 `hyperspy-bundle <https://github.com/hyperspy/hyperspy-bundle>`_.
+
 
 
 .. meta::

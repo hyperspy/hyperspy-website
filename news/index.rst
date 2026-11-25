@@ -1,7 +1,7 @@
 .. _news_label:
 
 News
-====
+****
 
 .. meta::
     :description lang=en:

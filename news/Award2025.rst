@@ -2,6 +2,8 @@
    :tags: award, open science, upcoming
    :category: event
 
+.. _award:
+
 HyperSpy receives Open Science Award for Open Source Research Software
 ======================================================================
 
@@ -64,7 +66,3 @@ pull requests, participated in discussions, taught in tutorial sessions, or help
     :alt:  OpenScience logo
     :height: 250
     :target: https://www.ouvrirlascience.fr/category/open-source-software-prices/
-
-
-
-

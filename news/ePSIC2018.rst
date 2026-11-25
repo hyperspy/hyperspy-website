@@ -7,9 +7,9 @@ HyperSpy Workshop @ Diamond, 26-27th of March 2018
 
 We are happy to announce the HyperSpy workshop @ Diamond will take place the 26-27th of March 2018 in Harwell, UK.
 
-More information and registration `on the Diamond website <https://www.diamond.ac.uk/Home/Events/2018/HyperSpy.html>`_.
+More information and registration `on the Diamond website <https://www.diamond.ac.uk/Home/Events>`_.
 
 .. image:: https://www.diamond.ac.uk/.resources/DiamondLightModule/webresources/img/Diamond-logo-colour.png
     :alt: Diamond logo
     :width: 200
-    :target: https://www.diamond.ac.uk/Home/Events/2018/HyperSpy.html
+    :target: https://www.diamond.ac.uk/Home/Events

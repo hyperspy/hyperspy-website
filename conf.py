@@ -35,6 +35,7 @@ extensions = [
 linkcheck_ignore = [
     "https://sbmm.org.br/en/28o-csbmm",  # 403 Client Error: Forbidden for url
     "https://www.diamond.ac.uk/Home/Events",  # - 403 Client Error: Forbidden for url: https://www.diamond.ac.uk/Home/Events/2023/HyperSpy_2023.html
+    "https://microscopy.org", # - Recurring connection timeout error
     "https://doi.org/10.5281/zenodo.592838",  # - 403 Client Error: Forbidden for url: https://doi.org/10.5281/zenodo.592838
     "https://dx.doi.org/10.5281/zenodo.16850", # - 403 Client Error: Forbidden for url: https://dx.doi.org/10.5281/zenodo.16850
     "https://zenodo.org",  # - 403 Client Error: Forbidden for url: https://zenodo.org

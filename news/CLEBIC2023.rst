@@ -11,7 +11,7 @@ both a short introductory lecture as well as a tutorial on "LumiSpy – Luminesc
 Spectroscopy Data Analysis in Python Using HyperSpy".
 
 More information and a copy of the introductory slides can be found `on the workshop
-website <https://clebic2023.sciencesconf.org/resource/page/id/11>`_.
+website <https://clebic2023.sciencesconf.org/resource/page/id/11.html?lang=en>`_.
 
 The jupyter notebook used during the tutorial can be find in the `LumiSpy demos
 <https://github.com/LumiSpy/lumispy-demos/blob/main/Workshops/230324_CLEBIC_HyperSpy-LumiSpy.ipynb>`_ repository.
@@ -19,4 +19,4 @@ The jupyter notebook used during the tutorial can be find in the `LumiSpy demos
 .. image:: https://clebic2023.sciencesconf.org/data/header/LOGO_CLEBIC_909.png
     :alt: CLEBIC banner
     :width: 600
-    :target: https://clebic2023.sciencesconf.org/resource/page/id/11
+    :target: https://clebic2023.sciencesconf.org/resource/page/id/11.html?lang=en

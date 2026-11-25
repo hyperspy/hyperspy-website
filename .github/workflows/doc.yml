@@ -24,4 +24,4 @@ jobs:
       external_repository: 'hyperspy/hyperspy.github.com'
       branch: 'main'
     secrets:
-      personal_token: ${{ secrets.PAT }}
+      personal_token: ${{ secrets.PAT_DOCUMENTATION }}
